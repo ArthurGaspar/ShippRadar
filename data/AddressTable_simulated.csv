@@ -1,0 +1,2001 @@
+Address_ID,Address,Number,Neighborhood,City,Latitude,Longitude,PostalCode
+ad1,Estrada Oliveiras,6955,Copacabana,Porto Alegre,-30.035917,-51.235346,76973043
+ad2,Av. Margaridas,7149,Centro,Rio de Janeiro,-22.914159,-43.163996,46216205
+ad3,Travessa Limoeiros,9039,Bela Vista,Campinas,-22.911771,-47.074144,55202403
+ad4,Estrada Paraíso,7446,Jardim América,Campinas,-22.870346,-47.065145,46644094
+ad5,Travessa Flores,6395,Guaianases,Fortaleza,-3.740272,-38.564721,09262027
+ad6,Travessa Alecrins,5263,Guaianases,Belo Horizonte,-19.934646,-43.923068,64761651
+ad7,Travessa Jardins,6093,Boa Viagem,Recife,-8.074766,-34.917783,63238019
+ad8,Estrada Paraíso,5171,Mooca,Goiânia,-16.65546,-49.225473,74035311
+ad9,Estrada Limoeiros,287,Copacabana,Campinas,-22.938886,-47.093063,24029915
+ad10,Travessa Lavandas,4688,Guaianases,Recife,-8.073499,-34.923583,45568679
+ad11,Rua Jardins,2204,Boa Viagem,Goiânia,-16.723921,-49.311553,41014643
+ad12,Av. Margaridas,2586,Mooca,Curitiba,-25.382776,-49.250053,87051671
+ad13,Rua Paineiras,2229,Liberdade,Belo Horizonte,-19.920521,-43.955374,82302572
+ad14,Travessa Flores,2437,Jardim América,Curitiba,-25.435919,-49.217454,88854269
+ad15,Av. Ipês,4969,Liberdade,Belo Horizonte,-19.919069,-43.928266,71993218
+ad16,Estrada Oliveiras,1400,Copacabana,Fortaleza,-3.745235,-38.545208,19059528
+ad17,Rua Alecrins,6253,Mooca,Goiânia,-16.696619,-49.278989,11991332
+ad18,Estrada Cedros,6820,Copacabana,Fortaleza,-3.718325,-38.561202,82082760
+ad19,Av. Lavandas,7103,Guaianases,Curitiba,-25.416209,-49.231702,09953002
+ad20,Av. Alecrins,3110,Guaianases,Campinas,-22.909242,-47.091929,96021288
+ad21,Rua Acácias,7097,Boa Viagem,Porto Alegre,-29.993402,-51.169908,98758647
+ad22,Travessa Margaridas,6960,Guaianases,Campinas,-22.928695,-47.109441,67557590
+ad23,Rua Oliveiras,3412,Jardim América,Belo Horizonte,-19.921541,-43.954983,94333984
+ad24,Rua Primaveras,7068,Liberdade,Belo Horizonte,-19.947969,-43.89732,23726793
+ad25,Estrada Alecrins,1669,Ipanema,Fortaleza,-3.773081,-38.539052,98352183
+ad26,Av. Flores,1041,Copacabana,Salvador,-13.026641,-38.538038,48568214
+ad27,Estrada Primaveras,815,Mooca,São Paulo,-23.513737,-46.641924,99897102
+ad28,Estrada Paineiras,3302,Vila Madalena,Campinas,-22.917822,-47.060848,77416281
+ad29,Estrada Paraíso,5326,Vila Madalena,Fortaleza,-3.689756,-38.511983,60602512
+ad30,Estrada Margaridas,3337,Boa Viagem,Porto Alegre,-30.084188,-51.168364,63310995
+ad31,Estrada Horizonte,8041,Vila Madalena,Goiânia,-16.731658,-49.264873,60992097
+ad32,Av. Paraíso,4232,Boa Viagem,Curitiba,-25.41278,-49.288564,30644090
+ad33,Rua Cedros,3007,Bela Vista,Porto Alegre,-30.042695,-51.23618,28192611
+ad34,Av. Flores,2017,Liberdade,Campinas,-22.92481,-47.049345,83372314
+ad35,Av. Palmeiras,402,Centro,São Paulo,-23.596909,-46.613563,08964469
+ad36,Estrada Primaveras,8192,Ipanema,Rio de Janeiro,-22.899075,-43.218166,08899189
+ad37,Rua Palmeiras,2533,Ipanema,Fortaleza,-3.754375,-38.506315,29017016
+ad38,Travessa Lavandas,1896,Vila Madalena,São Paulo,-23.557358,-46.598925,70841737
+ad39,Rua Alecrins,406,Ipanema,Campinas,-22.890696,-47.084924,60182767
+ad40,Rua Margaridas,4600,Vila Madalena,Recife,-8.051485,-34.834166,79995769
+ad41,Travessa Cedros,7931,Boa Viagem,Belo Horizonte,-19.886623,-43.908449,10085536
+ad42,Estrada Oliveiras,675,Ipanema,Salvador,-13.013691,-38.45889,28387894
+ad43,Av. Lavandas,3338,Jardim América,Porto Alegre,-29.993988,-51.189446,06099308
+ad44,Av. Paraíso,3087,Vila Madalena,Curitiba,-25.430502,-49.314514,07632194
+ad45,Estrada Acácias,7631,Bela Vista,Belo Horizonte,-19.957124,-43.937463,51106690
+ad46,Av. Limoeiros,1058,Mooca,Rio de Janeiro,-22.904567,-43.128565,78171911
+ad47,Rua Flores,6833,Liberdade,São Paulo,-23.572714,-46.639544,78233397
+ad48,Av. Paineiras,6118,Liberdade,Porto Alegre,-30.045777,-51.21655,56581309
+ad49,Estrada Jardins,6803,Mooca,Rio de Janeiro,-22.866115,-43.156125,94569437
+ad50,Estrada Flores,9820,Jardim América,Campinas,-22.915193,-47.024079,52612108
+ad51,Av. Orquídeas,6839,Mooca,Salvador,-12.941285,-38.504185,81248383
+ad52,Estrada Palmeiras,1692,Copacabana,São Paulo,-23.529828,-46.626305,13984411
+ad53,Av. Lavandas,7815,Mooca,Goiânia,-16.67482,-49.289799,63089424
+ad54,Estrada Orquídeas,4509,Bela Vista,Porto Alegre,-30.017049,-51.187643,68438316
+ad55,Travessa Cedros,1667,Liberdade,Porto Alegre,-30.038291,-51.234176,12951928
+ad56,Travessa Oliveiras,5222,Liberdade,Recife,-8.067176,-34.877447,24298844
+ad57,Rua Paineiras,846,Ipanema,Rio de Janeiro,-22.887286,-43.176045,09650642
+ad58,Travessa Paraíso,8323,Centro,Fortaleza,-3.71682,-38.566039,54696995
+ad59,Av. Orquídeas,5680,Centro,Salvador,-12.976817,-38.500793,64635724
+ad60,Rua Ipês,6066,Bela Vista,São Paulo,-23.549799,-46.652203,54359142
+ad61,Rua Oliveiras,9404,Vila Madalena,São Paulo,-23.561642,-46.679277,55890288
+ad62,Estrada Cedros,4894,Centro,São Paulo,-23.554518,-46.606911,54537973
+ad63,Travessa Flores,3718,Ipanema,Goiânia,-16.680132,-49.252369,59099536
+ad64,Travessa Jardins,6306,Vila Madalena,Goiânia,-16.720377,-49.276716,40787946
+ad65,Av. Horizonte,8870,Ipanema,Porto Alegre,-30.067207,-51.258341,82738159
+ad66,Rua Paraíso,7439,Ipanema,São Paulo,-23.558785,-46.622661,53614618
+ad67,Travessa Oliveiras,6843,Boa Viagem,Belo Horizonte,-19.927088,-43.980578,63016297
+ad68,Estrada Primaveras,4309,Boa Viagem,Recife,-8.085776,-34.828266,37907547
+ad69,Estrada Lavandas,4032,Vila Madalena,Curitiba,-25.448507,-49.253246,37260011
+ad70,Estrada Primaveras,8953,Mooca,Porto Alegre,-30.031912,-51.199516,31822504
+ad71,Rua Primaveras,9148,Centro,São Paulo,-23.533367,-46.639606,40194114
+ad72,Av. Acácias,8509,Vila Madalena,Goiânia,-16.667836,-49.267713,25479739
+ad73,Estrada Paraíso,7397,Guaianases,São Paulo,-23.516927,-46.625173,02445125
+ad74,Estrada Paineiras,7650,Liberdade,Goiânia,-16.654242,-49.30032,93617601
+ad75,Av. Jardins,1114,Copacabana,Curitiba,-25.397411,-49.217359,72038421
+ad76,Estrada Paineiras,123,Mooca,Rio de Janeiro,-22.953071,-43.16634,67782290
+ad77,Travessa Margaridas,9775,Ipanema,São Paulo,-23.546417,-46.588147,34360922
+ad78,Av. Palmeiras,4717,Jardim América,Salvador,-13.024495,-38.529821,28666387
+ad79,Rua Lavandas,8294,Bela Vista,Goiânia,-16.72185,-49.23246,03404323
+ad80,Av. Jardins,5066,Guaianases,Salvador,-12.990057,-38.471572,50522292
+ad81,Rua Palmeiras,4911,Bela Vista,Belo Horizonte,-19.928154,-43.91669,43617701
+ad82,Travessa Cedros,3176,Centro,São Paulo,-23.597133,-46.637335,00317639
+ad83,Estrada Ipês,1959,Guaianases,Porto Alegre,-30.015938,-51.267344,52656716
+ad84,Av. Flores,7206,Copacabana,São Paulo,-23.533158,-46.63378,09391380
+ad85,Estrada Paraíso,8720,Jardim América,São Paulo,-23.573488,-46.681243,77031402
+ad86,Estrada Alecrins,4123,Centro,Salvador,-12.933711,-38.456627,22494453
+ad87,Travessa Paraíso,181,Bela Vista,Recife,-8.010558,-34.926915,80307727
+ad88,Av. Alecrins,6202,Boa Viagem,Curitiba,-25.432867,-49.285373,86818295
+ad89,Estrada Flores,7876,Mooca,Rio de Janeiro,-22.898352,-43.173787,93322107
+ad90,Travessa Paineiras,9402,Boa Viagem,Porto Alegre,-30.07174,-51.200778,03811624
+ad91,Estrada Flores,7825,Mooca,São Paulo,-23.584628,-46.654958,65232447
+ad92,Rua Paraíso,8471,Boa Viagem,Porto Alegre,-30.077807,-51.193019,22238242
+ad93,Travessa Orquídeas,2906,Copacabana,Porto Alegre,-30.002916,-51.189676,89758641
+ad94,Rua Paraíso,3262,Copacabana,São Paulo,-23.568069,-46.643386,33422096
+ad95,Travessa Alecrins,4627,Centro,Rio de Janeiro,-22.865773,-43.129913,60611705
+ad96,Av. Paineiras,5611,Copacabana,Recife,-8.033786,-34.923029,84052283
+ad97,Rua Paraíso,1507,Vila Madalena,Campinas,-22.891699,-47.046439,18535651
+ad98,Estrada Limoeiros,9710,Vila Madalena,Salvador,-12.993715,-38.518166,26242148
+ad99,Estrada Alecrins,5648,Liberdade,Belo Horizonte,-19.885518,-43.892878,04752446
+ad100,Av. Jardins,3101,Centro,Recife,-8.07251,-34.833144,01041023
+ad101,Rua Ipês,4183,Boa Viagem,São Paulo,-23.590827,-46.647005,95847104
+ad102,Av. Primaveras,8689,Liberdade,Belo Horizonte,-19.899595,-43.932189,73507817
+ad103,Estrada Cedros,7701,Jardim América,Belo Horizonte,-19.926942,-43.891899,16326892
+ad104,Estrada Orquídeas,8159,Vila Madalena,São Paulo,-23.593495,-46.680157,62297089
+ad105,Travessa Limoeiros,6648,Vila Madalena,Curitiba,-25.457677,-49.28371,47034933
+ad106,Travessa Margaridas,8946,Vila Madalena,Porto Alegre,-30.066979,-51.259344,92596994
+ad107,Estrada Paineiras,4636,Centro,Rio de Janeiro,-22.929078,-43.201887,58113078
+ad108,Rua Paineiras,6837,Boa Viagem,São Paulo,-23.542897,-46.655445,57003190
+ad109,Rua Jardins,7705,Jardim América,Recife,-8.059217,-34.887452,45275371
+ad110,Av. Primaveras,6039,Mooca,Rio de Janeiro,-22.862575,-43.183919,23056894
+ad111,Estrada Ipês,9487,Jardim América,São Paulo,-23.588299,-46.631658,12416999
+ad112,Travessa Paineiras,8440,Liberdade,Curitiba,-25.477772,-49.24358,34537069
+ad113,Estrada Oliveiras,1754,Boa Viagem,Porto Alegre,-30.005117,-51.199066,43644449
+ad114,Av. Horizonte,4129,Vila Madalena,Belo Horizonte,-19.890952,-43.966116,43165355
+ad115,Estrada Limoeiros,6760,Jardim América,Salvador,-12.983276,-38.49738,18352653
+ad116,Av. Cedros,3766,Bela Vista,Salvador,-12.991199,-38.457655,04109423
+ad117,Av. Paraíso,1127,Vila Madalena,Fortaleza,-3.780853,-38.477508,09465561
+ad118,Av. Paraíso,907,Centro,Recife,-8.078428,-34.88486,89909915
+ad119,Av. Margaridas,94,Boa Viagem,Salvador,-12.993897,-38.48048,32462309
+ad120,Av. Paineiras,6236,Copacabana,Belo Horizonte,-19.920725,-43.93864,13831908
+ad121,Travessa Limoeiros,6878,Copacabana,Recife,-8.023188,-34.878106,58482040
+ad122,Av. Paraíso,2110,Bela Vista,Campinas,-22.946105,-47.090686,16872985
+ad123,Estrada Acácias,5861,Centro,Fortaleza,-3.727477,-38.50299,05448078
+ad124,Rua Horizonte,8195,Jardim América,Recife,-8.030867,-34.850484,07886040
+ad125,Travessa Alecrins,720,Centro,Fortaleza,-3.692901,-38.479207,94067403
+ad126,Rua Limoeiros,8133,Ipanema,Rio de Janeiro,-22.87526,-43.151541,64582479
+ad127,Travessa Horizonte,9980,Vila Madalena,São Paulo,-23.545542,-46.589182,36234014
+ad128,Travessa Margaridas,737,Liberdade,São Paulo,-23.551355,-46.583749,82371290
+ad129,Rua Primaveras,7901,Jardim América,São Paulo,-23.53398,-46.676945,77236881
+ad130,Rua Acácias,4793,Centro,Belo Horizonte,-19.963472,-43.919875,06906380
+ad131,Travessa Paineiras,2717,Centro,São Paulo,-23.559445,-46.630257,89912142
+ad132,Travessa Flores,9709,Ipanema,Campinas,-22.904902,-47.040242,11576218
+ad133,Estrada Limoeiros,6754,Bela Vista,Salvador,-13.01278,-38.481659,54153188
+ad134,Rua Acácias,2681,Mooca,Campinas,-22.918075,-47.027437,60729893
+ad135,Av. Margaridas,1442,Ipanema,Salvador,-13.007933,-38.454671,51720809
+ad136,Av. Cedros,8665,Vila Madalena,Curitiba,-25.388161,-49.253101,47281177
+ad137,Av. Margaridas,6252,Boa Viagem,Salvador,-12.940122,-38.495845,77613733
+ad138,Estrada Lavandas,5949,Mooca,Salvador,-12.963515,-38.46467,14999152
+ad139,Av. Horizonte,4254,Guaianases,Goiânia,-16.714287,-49.295075,78171648
+ad140,Av. Paineiras,3492,Boa Viagem,Recife,-8.041155,-34.879056,24490357
+ad141,Estrada Ipês,5797,Guaianases,Recife,-8.088769,-34.862628,99245471
+ad142,Travessa Horizonte,3485,Mooca,Curitiba,-25.387329,-49.275798,18198211
+ad143,Av. Cedros,7808,Vila Madalena,Campinas,-22.871849,-47.01623,04621455
+ad144,Estrada Ipês,5183,Liberdade,Campinas,-22.864258,-47.110716,19542286
+ad145,Travessa Primaveras,9756,Copacabana,Salvador,-12.950539,-38.454037,51964022
+ad146,Rua Margaridas,8477,Copacabana,São Paulo,-23.545601,-46.641742,06149443
+ad147,Estrada Paraíso,7511,Mooca,Recife,-8.089265,-34.921759,96601550
+ad148,Rua Ipês,4211,Liberdade,Goiânia,-16.709382,-49.302373,71505885
+ad149,Av. Ipês,296,Ipanema,Salvador,-12.991148,-38.47842,44223394
+ad150,Av. Acácias,3686,Mooca,Rio de Janeiro,-22.874752,-43.124364,52545271
+ad151,Travessa Primaveras,1278,Centro,Porto Alegre,-30.075124,-51.264256,21756616
+ad152,Travessa Ipês,137,Liberdade,Curitiba,-25.397894,-49.314393,31318083
+ad153,Estrada Paraíso,4291,Bela Vista,Campinas,-22.921713,-47.082231,08009389
+ad154,Estrada Paineiras,986,Ipanema,Belo Horizonte,-19.910052,-43.912884,45806332
+ad155,Travessa Paineiras,393,Mooca,São Paulo,-23.577615,-46.655018,79550354
+ad156,Travessa Acácias,1752,Centro,Belo Horizonte,-19.885815,-43.912928,08495441
+ad157,Travessa Paraíso,1428,Centro,Curitiba,-25.430106,-49.247232,63241783
+ad158,Rua Horizonte,54,Boa Viagem,Fortaleza,-3.741977,-38.571645,87171379
+ad159,Estrada Jardins,4748,Mooca,Curitiba,-25.46252,-49.230239,67597242
+ad160,Estrada Limoeiros,1147,Boa Viagem,Recife,-8.027477,-34.846697,11911683
+ad161,Av. Cedros,8308,Mooca,Campinas,-22.946562,-47.049706,64978305
+ad162,Travessa Palmeiras,4151,Jardim América,Rio de Janeiro,-22.921156,-43.205088,03814226
+ad163,Av. Ipês,8674,Vila Madalena,Porto Alegre,-30.026426,-51.215899,77523091
+ad164,Rua Palmeiras,9650,Ipanema,Fortaleza,-3.683398,-38.56294,79717760
+ad165,Rua Horizonte,1721,Ipanema,Goiânia,-16.728791,-49.242038,06169180
+ad166,Av. Ipês,2197,Liberdade,São Paulo,-23.524827,-46.660817,19345920
+ad167,Travessa Paraíso,6420,Bela Vista,Recife,-8.062809,-34.880686,39528297
+ad168,Travessa Paraíso,7160,Bela Vista,Belo Horizonte,-19.877852,-43.944721,31665126
+ad169,Estrada Alecrins,6205,Ipanema,Goiânia,-16.645745,-49.234191,08349866
+ad170,Av. Oliveiras,523,Boa Viagem,Fortaleza,-3.685201,-38.522594,77708651
+ad171,Estrada Orquídeas,6187,Bela Vista,São Paulo,-23.513042,-46.610207,25602401
+ad172,Av. Alecrins,59,Centro,Campinas,-22.884642,-47.105648,10399852
+ad173,Av. Cedros,6226,Ipanema,Recife,-8.035326,-34.890037,26233003
+ad174,Estrada Primaveras,427,Vila Madalena,Goiânia,-16.719047,-49.298643,59687719
+ad175,Travessa Flores,842,Guaianases,Curitiba,-25.395433,-49.220897,66960120
+ad176,Av. Flores,657,Liberdade,Porto Alegre,-30.077028,-51.235741,24353236
+ad177,Av. Paineiras,607,Guaianases,Campinas,-22.926665,-47.071955,64143068
+ad178,Av. Cedros,7641,Boa Viagem,São Paulo,-23.592934,-46.585011,95530536
+ad179,Rua Limoeiros,7654,Mooca,São Paulo,-23.548961,-46.599426,18591068
+ad180,Av. Paineiras,5348,Jardim América,Porto Alegre,-30.007874,-51.267639,49179175
+ad181,Rua Lavandas,943,Vila Madalena,Campinas,-22.949245,-47.031564,21009754
+ad182,Travessa Paraíso,3917,Jardim América,Porto Alegre,-30.031133,-51.206651,13293622
+ad183,Av. Orquídeas,4227,Jardim América,Goiânia,-16.722914,-49.274749,19010851
+ad184,Estrada Cedros,7652,Mooca,Belo Horizonte,-19.896192,-43.911813,73438852
+ad185,Rua Paraíso,412,Copacabana,Porto Alegre,-30.056555,-51.172627,13956813
+ad186,Av. Lavandas,4179,Mooca,Goiânia,-16.705215,-49.291992,08886063
+ad187,Rua Ipês,6925,Mooca,Fortaleza,-3.746712,-38.501215,90041137
+ad188,Rua Orquídeas,8034,Copacabana,Fortaleza,-3.705239,-38.515889,73889659
+ad189,Travessa Orquídeas,5246,Vila Madalena,Rio de Janeiro,-22.862412,-43.124026,85725032
+ad190,Travessa Margaridas,5366,Copacabana,Goiânia,-16.690363,-49.284657,71528572
+ad191,Travessa Alecrins,689,Guaianases,Porto Alegre,-30.042127,-51.262037,94287453
+ad192,Estrada Limoeiros,5439,Boa Viagem,Campinas,-22.915851,-47.03634,37105555
+ad193,Estrada Oliveiras,1700,Guaianases,Recife,-8.021067,-34.845571,74934920
+ad194,Av. Acácias,4072,Boa Viagem,São Paulo,-23.542288,-46.62012,67610113
+ad195,Travessa Cedros,3318,Guaianases,Porto Alegre,-30.00869,-51.186056,17056085
+ad196,Av. Orquídeas,7763,Mooca,Curitiba,-25.447683,-49.239033,28804356
+ad197,Rua Alecrins,7033,Centro,Recife,-8.040264,-34.856114,10992564
+ad198,Av. Lavandas,2543,Liberdade,Campinas,-22.859231,-47.035617,56169110
+ad199,Rua Paraíso,41,Vila Madalena,Curitiba,-25.434333,-49.218051,08568294
+ad200,Av. Oliveiras,2098,Jardim América,Porto Alegre,-29.984691,-51.177267,39569036
+ad201,Estrada Lavandas,1112,Bela Vista,Belo Horizonte,-19.919613,-43.904058,17319534
+ad202,Travessa Flores,388,Vila Madalena,Belo Horizonte,-19.912376,-43.904623,11224742
+ad203,Av. Limoeiros,4158,Boa Viagem,Belo Horizonte,-19.884344,-43.937371,71075764
+ad204,Travessa Ipês,5529,Vila Madalena,Goiânia,-16.679145,-49.265262,28034474
+ad205,Av. Palmeiras,56,Boa Viagem,Salvador,-12.929675,-38.524657,36672580
+ad206,Av. Paraíso,9721,Jardim América,Rio de Janeiro,-22.875745,-43.142684,25610158
+ad207,Rua Palmeiras,3729,Bela Vista,Campinas,-22.929075,-47.061584,40392272
+ad208,Travessa Palmeiras,7178,Copacabana,Fortaleza,-3.740444,-38.509614,97426293
+ad209,Av. Primaveras,3145,Bela Vista,Campinas,-22.888076,-47.083925,01889038
+ad210,Estrada Limoeiros,8833,Liberdade,Goiânia,-16.735354,-49.260001,95495132
+ad211,Travessa Margaridas,4559,Boa Viagem,Curitiba,-25.443688,-49.275001,79495711
+ad212,Estrada Cedros,6893,Boa Viagem,Porto Alegre,-29.9978,-51.231066,03711609
+ad213,Travessa Limoeiros,6386,Guaianases,Fortaleza,-3.774872,-38.481043,26536108
+ad214,Rua Paineiras,4148,Bela Vista,Porto Alegre,-30.048652,-51.181226,09454811
+ad215,Av. Margaridas,373,Centro,Rio de Janeiro,-22.883828,-43.180358,58347436
+ad216,Travessa Flores,9427,Centro,São Paulo,-23.585771,-46.664229,31591668
+ad217,Travessa Ipês,7003,Ipanema,Rio de Janeiro,-22.917366,-43.176141,29401711
+ad218,Av. Lavandas,7529,Bela Vista,Recife,-8.081641,-34.859407,79421755
+ad219,Estrada Orquídeas,2678,Bela Vista,Porto Alegre,-29.987891,-51.244362,20753875
+ad220,Travessa Margaridas,134,Liberdade,Salvador,-12.974406,-38.488777,62174617
+ad221,Estrada Paraíso,3058,Boa Viagem,Fortaleza,-3.702287,-38.561128,08632302
+ad222,Av. Oliveiras,8774,Jardim América,Fortaleza,-3.737821,-38.524468,25696023
+ad223,Av. Primaveras,5435,Bela Vista,Belo Horizonte,-19.874707,-43.968549,91897211
+ad224,Rua Paineiras,9475,Mooca,São Paulo,-23.548242,-46.611445,17676588
+ad225,Rua Margaridas,2442,Centro,Curitiba,-25.408597,-49.310922,96299808
+ad226,Av. Orquídeas,7480,Ipanema,Porto Alegre,-30.021534,-51.210255,82666548
+ad227,Rua Oliveiras,7502,Ipanema,Curitiba,-25.399775,-49.303111,02287361
+ad228,Av. Acácias,6658,Mooca,Porto Alegre,-30.059042,-51.233113,06735147
+ad229,Rua Oliveiras,1158,Jardim América,Salvador,-12.995238,-38.541688,31778735
+ad230,Travessa Ipês,3459,Jardim América,Goiânia,-16.670233,-49.254171,24330227
+ad231,Travessa Acácias,8044,Boa Viagem,Salvador,-12.993329,-38.521733,95962538
+ad232,Rua Limoeiros,5099,Jardim América,Recife,-8.003915,-34.909531,42255295
+ad233,Estrada Cedros,7484,Bela Vista,Rio de Janeiro,-22.94349,-43.181116,18908375
+ad234,Travessa Jardins,7991,Ipanema,São Paulo,-23.522847,-46.594852,93287534
+ad235,Av. Alecrins,6728,Centro,Porto Alegre,-30.00681,-51.1974,55445695
+ad236,Estrada Cedros,1748,Copacabana,Belo Horizonte,-19.963696,-43.919054,39388627
+ad237,Rua Flores,4916,Jardim América,Goiânia,-16.710825,-49.247585,32605950
+ad238,Av. Ipês,7286,Ipanema,Belo Horizonte,-19.956066,-43.916156,09144461
+ad239,Travessa Horizonte,3817,Mooca,Salvador,-12.990707,-38.510652,62819211
+ad240,Av. Alecrins,1492,Bela Vista,Porto Alegre,-29.997784,-51.174661,97304974
+ad241,Travessa Limoeiros,4640,Guaianases,Rio de Janeiro,-22.892729,-43.22247,90806475
+ad242,Travessa Alecrins,9580,Bela Vista,Belo Horizonte,-19.899224,-43.953947,66343879
+ad243,Av. Alecrins,2006,Vila Madalena,Goiânia,-16.667822,-49.265915,36310385
+ad244,Estrada Acácias,7538,Guaianases,Salvador,-12.973162,-38.549272,57541895
+ad245,Av. Oliveiras,1135,Bela Vista,Goiânia,-16.673774,-49.288143,13707550
+ad246,Travessa Limoeiros,4786,Boa Viagem,Salvador,-12.971936,-38.544908,96665337
+ad247,Estrada Flores,2274,Guaianases,Recife,-8.051875,-34.890975,81161986
+ad248,Estrada Primaveras,2060,Mooca,Fortaleza,-3.733476,-38.548461,78743029
+ad249,Rua Orquídeas,2267,Centro,São Paulo,-23.570965,-46.636287,28438204
+ad250,Travessa Jardins,4489,Copacabana,Fortaleza,-3.686769,-38.511581,74342490
+ad251,Av. Flores,7368,Ipanema,Recife,-8.056244,-34.845579,87873775
+ad252,Av. Margaridas,2613,Mooca,São Paulo,-23.597145,-46.657856,02287271
+ad253,Av. Cedros,8782,Mooca,Belo Horizonte,-19.945636,-43.894136,28080624
+ad254,Estrada Lavandas,2240,Vila Madalena,Goiânia,-16.640704,-49.21704,60863746
+ad255,Av. Lavandas,5368,Boa Viagem,Goiânia,-16.719744,-49.270242,92485823
+ad256,Estrada Horizonte,5833,Ipanema,Porto Alegre,-30.084404,-51.257996,97003162
+ad257,Travessa Alecrins,997,Centro,Salvador,-12.974911,-38.523556,38775880
+ad258,Estrada Paraíso,5079,Guaianases,Curitiba,-25.478275,-49.230317,94262860
+ad259,Estrada Cedros,2467,Copacabana,Campinas,-22.904086,-47.029626,73623362
+ad260,Estrada Palmeiras,4301,Copacabana,São Paulo,-23.545912,-46.679665,73694202
+ad261,Travessa Palmeiras,9677,Bela Vista,Curitiba,-25.398888,-49.282786,56623906
+ad262,Travessa Palmeiras,1610,Centro,Belo Horizonte,-19.880071,-43.907239,52973001
+ad263,Estrada Margaridas,3612,Boa Viagem,Campinas,-22.85793,-47.082916,60139567
+ad264,Travessa Lavandas,7526,Ipanema,São Paulo,-23.523895,-46.662943,84200255
+ad265,Rua Lavandas,2496,Jardim América,Curitiba,-25.440565,-49.286686,12596955
+ad266,Travessa Ipês,4834,Liberdade,Recife,-8.028248,-34.865927,48373967
+ad267,Rua Paraíso,7421,Guaianases,Rio de Janeiro,-22.86485,-43.173957,32483889
+ad268,Av. Palmeiras,4500,Centro,Rio de Janeiro,-22.933988,-43.151429,86677195
+ad269,Travessa Palmeiras,6408,Bela Vista,Belo Horizonte,-19.900341,-43.90632,03360961
+ad270,Av. Primaveras,6347,Guaianases,São Paulo,-23.566432,-46.663576,99183145
+ad271,Av. Horizonte,5252,Bela Vista,Goiânia,-16.677802,-49.234299,92454296
+ad272,Estrada Alecrins,7558,Centro,Porto Alegre,-30.036022,-51.175902,31150332
+ad273,Rua Acácias,8267,Mooca,Fortaleza,-3.724148,-38.571679,54873820
+ad274,Rua Jardins,3448,Vila Madalena,Recife,-8.035292,-34.899621,39191995
+ad275,Rua Margaridas,6491,Copacabana,Goiânia,-16.714255,-49.281363,19275532
+ad276,Travessa Jardins,8919,Copacabana,Goiânia,-16.65708,-49.294544,35782936
+ad277,Rua Palmeiras,407,Boa Viagem,Rio de Janeiro,-22.873648,-43.210779,68482298
+ad278,Av. Acácias,5509,Centro,Belo Horizonte,-19.929839,-43.921335,19033537
+ad279,Estrada Margaridas,8494,Centro,Fortaleza,-3.730138,-38.551787,11314020
+ad280,Av. Primaveras,6475,Guaianases,Curitiba,-25.420098,-49.310126,48479316
+ad281,Travessa Flores,2716,Ipanema,Goiânia,-16.673406,-49.240361,29938941
+ad282,Rua Acácias,1409,Guaianases,Fortaleza,-3.770772,-38.576597,32795499
+ad283,Av. Paineiras,4219,Boa Viagem,Goiânia,-16.67622,-49.254948,57669483
+ad284,Estrada Jardins,6125,Centro,Campinas,-22.93851,-47.101669,02597376
+ad285,Av. Paraíso,2111,Vila Madalena,Rio de Janeiro,-22.949373,-43.205995,17469647
+ad286,Rua Margaridas,8328,Copacabana,Recife,-8.069342,-34.869337,90824335
+ad287,Estrada Limoeiros,9761,Boa Viagem,Curitiba,-25.466019,-49.220336,61788470
+ad288,Estrada Oliveiras,9822,Copacabana,Rio de Janeiro,-22.920403,-43.164683,98161639
+ad289,Estrada Alecrins,872,Jardim América,Porto Alegre,-30.029628,-51.208143,20248992
+ad290,Av. Ipês,1149,Bela Vista,Rio de Janeiro,-22.857412,-43.156762,34329525
+ad291,Travessa Flores,9499,Vila Madalena,Porto Alegre,-30.021472,-51.266819,07584006
+ad292,Av. Paineiras,5488,Mooca,Belo Horizonte,-19.882396,-43.955949,05093450
+ad293,Av. Alecrins,2661,Boa Viagem,Recife,-8.041964,-34.868589,31188922
+ad294,Av. Oliveiras,4748,Ipanema,Campinas,-22.937659,-47.073227,84536192
+ad295,Travessa Cedros,1186,Mooca,Rio de Janeiro,-22.859573,-43.175613,71204992
+ad296,Av. Horizonte,843,Vila Madalena,Porto Alegre,-30.07447,-51.23915,61216963
+ad297,Rua Orquídeas,6126,Guaianases,Rio de Janeiro,-22.911762,-43.160537,87484341
+ad298,Travessa Acácias,688,Ipanema,Campinas,-22.893525,-47.032787,66977543
+ad299,Rua Lavandas,6461,Vila Madalena,Recife,-8.084283,-34.846622,54592919
+ad300,Rua Limoeiros,8094,Vila Madalena,Curitiba,-25.456536,-49.298127,86250098
+ad301,Rua Horizonte,3330,Centro,Goiânia,-16.663644,-49.253253,10625123
+ad302,Rua Horizonte,6017,Bela Vista,Campinas,-22.95469,-47.037514,22653082
+ad303,Rua Limoeiros,1469,Guaianases,Curitiba,-25.424923,-49.220096,66722213
+ad304,Travessa Jardins,6563,Copacabana,Goiânia,-16.641955,-49.25964,19794653
+ad305,Rua Oliveiras,627,Ipanema,Recife,-8.088178,-34.843727,97321818
+ad306,Av. Primaveras,5366,Liberdade,Salvador,-13.022528,-38.494701,78032784
+ad307,Estrada Paineiras,5880,Liberdade,Curitiba,-25.466923,-49.258671,18014515
+ad308,Estrada Paineiras,6533,Liberdade,Fortaleza,-3.712887,-38.525295,00207791
+ad309,Travessa Paraíso,9502,Guaianases,Fortaleza,-3.775536,-38.542018,08282866
+ad310,Rua Paraíso,5571,Centro,Curitiba,-25.434856,-49.229452,75955970
+ad311,Travessa Horizonte,234,Ipanema,Curitiba,-25.423025,-49.258151,09450526
+ad312,Estrada Ipês,4222,Liberdade,São Paulo,-23.505049,-46.595934,80609838
+ad313,Av. Margaridas,9747,Mooca,Salvador,-13.015648,-38.508362,72389343
+ad314,Av. Orquídeas,7709,Guaianases,Rio de Janeiro,-22.917403,-43.191642,10996066
+ad315,Av. Primaveras,4145,Liberdade,Rio de Janeiro,-22.902619,-43.143854,35456448
+ad316,Rua Primaveras,471,Mooca,Rio de Janeiro,-22.886903,-43.167269,84308271
+ad317,Rua Paineiras,247,Bela Vista,Fortaleza,-3.749812,-38.520438,66798783
+ad318,Estrada Paineiras,550,Centro,Recife,-8.058404,-34.890656,19120479
+ad319,Rua Margaridas,9579,Vila Madalena,Porto Alegre,-29.99263,-51.2053,96819418
+ad320,Travessa Palmeiras,8857,Copacabana,Recife,-8.011407,-34.852106,51583760
+ad321,Rua Acácias,7375,Ipanema,Campinas,-22.882082,-47.022932,34920248
+ad322,Av. Paraíso,1932,Ipanema,Campinas,-22.872206,-47.091832,74244008
+ad323,Estrada Cedros,3424,Ipanema,Fortaleza,-3.745227,-38.519479,90973231
+ad324,Rua Oliveiras,7975,Liberdade,Porto Alegre,-30.03036,-51.167673,72596161
+ad325,Rua Jardins,9433,Mooca,Rio de Janeiro,-22.94911,-43.159428,04294265
+ad326,Estrada Palmeiras,4553,Bela Vista,São Paulo,-23.528509,-46.677148,56686688
+ad327,Av. Flores,2351,Mooca,Campinas,-22.865137,-47.086113,18876526
+ad328,Rua Oliveiras,1088,Centro,Belo Horizonte,-19.904413,-43.922531,21719868
+ad329,Estrada Flores,5902,Centro,Curitiba,-25.440555,-49.250195,95891379
+ad330,Av. Paineiras,2632,Liberdade,São Paulo,-23.599413,-46.60029,12274525
+ad331,Travessa Palmeiras,7745,Ipanema,Campinas,-22.881671,-47.012634,22079296
+ad332,Av. Horizonte,3606,Copacabana,São Paulo,-23.545832,-46.63393,58624937
+ad333,Rua Margaridas,2924,Ipanema,Porto Alegre,-30.043806,-51.239597,86970252
+ad334,Rua Lavandas,4808,Liberdade,Campinas,-22.921925,-47.059295,67157191
+ad335,Av. Jardins,9226,Guaianases,Rio de Janeiro,-22.881996,-43.171968,30953893
+ad336,Estrada Primaveras,7853,Ipanema,Salvador,-12.934074,-38.519977,44897797
+ad337,Av. Oliveiras,1263,Guaianases,Campinas,-22.907531,-47.108231,92958504
+ad338,Av. Alecrins,2305,Mooca,Belo Horizonte,-19.942765,-43.888282,93700708
+ad339,Estrada Paraíso,7665,Vila Madalena,Salvador,-12.938221,-38.491067,49351689
+ad340,Av. Flores,3246,Ipanema,Campinas,-22.918764,-47.095773,24540284
+ad341,Estrada Flores,2826,Guaianases,São Paulo,-23.59153,-46.643596,85776668
+ad342,Travessa Jardins,4072,Copacabana,Goiânia,-16.636919,-49.215563,22146600
+ad343,Av. Orquídeas,1303,Copacabana,São Paulo,-23.567238,-46.655383,04761729
+ad344,Estrada Limoeiros,3614,Liberdade,Curitiba,-25.463361,-49.233668,48614512
+ad345,Travessa Lavandas,1020,Bela Vista,Porto Alegre,-29.995252,-51.258829,47081664
+ad346,Estrada Lavandas,7715,Guaianases,Goiânia,-16.681874,-49.263092,84425664
+ad347,Av. Paraíso,2881,Vila Madalena,Recife,-8.032045,-34.859793,25075896
+ad348,Rua Flores,8166,Vila Madalena,São Paulo,-23.542559,-46.62745,21273071
+ad349,Rua Primaveras,3579,Jardim América,São Paulo,-23.577695,-46.680862,20549800
+ad350,Av. Primaveras,5948,Bela Vista,Porto Alegre,-30.024769,-51.231461,61781605
+ad351,Av. Ipês,6758,Ipanema,Rio de Janeiro,-22.925667,-43.214901,47485569
+ad352,Estrada Alecrins,1678,Guaianases,Rio de Janeiro,-22.919537,-43.151207,60054253
+ad353,Estrada Paineiras,6416,Centro,Fortaleza,-3.753402,-38.49559,18270012
+ad354,Av. Paraíso,800,Bela Vista,Campinas,-22.930942,-47.065913,09335163
+ad355,Av. Horizonte,517,Guaianases,Belo Horizonte,-19.913156,-43.944827,57023989
+ad356,Travessa Alecrins,1772,Liberdade,Curitiba,-25.420363,-49.22389,60974967
+ad357,Travessa Primaveras,7136,Guaianases,São Paulo,-23.505139,-46.64289,80441680
+ad358,Rua Primaveras,6954,Guaianases,Salvador,-12.969008,-38.526291,69157438
+ad359,Av. Acácias,5914,Ipanema,Recife,-8.018395,-34.887682,22214030
+ad360,Estrada Palmeiras,5421,Liberdade,Recife,-8.049499,-34.86004,07016370
+ad361,Av. Flores,1239,Bela Vista,Salvador,-12.980019,-38.479365,34238422
+ad362,Travessa Paraíso,3500,Jardim América,Porto Alegre,-30.069133,-51.225495,43735175
+ad363,Estrada Ipês,9477,Ipanema,Porto Alegre,-29.987778,-51.241861,47570824
+ad364,Travessa Horizonte,6864,Jardim América,Rio de Janeiro,-22.90909,-43.144909,51135885
+ad365,Av. Ipês,2621,Bela Vista,Rio de Janeiro,-22.951651,-43.136152,21531030
+ad366,Travessa Oliveiras,9302,Vila Madalena,Campinas,-22.896298,-47.078553,67099778
+ad367,Estrada Paineiras,4159,Mooca,Goiânia,-16.650123,-49.259451,95166911
+ad368,Av. Cedros,1507,Vila Madalena,Porto Alegre,-30.047221,-51.174489,19860904
+ad369,Estrada Flores,853,Centro,Belo Horizonte,-19.911698,-43.925255,27082485
+ad370,Travessa Acácias,2241,Jardim América,Goiânia,-16.702328,-49.263871,42122428
+ad371,Av. Ipês,5506,Centro,Curitiba,-25.416225,-49.293599,60787914
+ad372,Rua Primaveras,7234,Mooca,Salvador,-12.957759,-38.495556,46848024
+ad373,Rua Jardins,4563,Copacabana,Curitiba,-25.447813,-49.278564,30378092
+ad374,Av. Oliveiras,2514,Centro,Recife,-8.046692,-34.832725,66858749
+ad375,Travessa Ipês,582,Vila Madalena,Campinas,-22.891768,-47.108877,97439810
+ad376,Rua Oliveiras,9418,Boa Viagem,Salvador,-12.992694,-38.537918,17998497
+ad377,Rua Horizonte,9503,Mooca,Porto Alegre,-30.033676,-51.225469,77885623
+ad378,Estrada Oliveiras,6598,Liberdade,Campinas,-22.855772,-47.039424,18781269
+ad379,Travessa Orquídeas,7396,Ipanema,Fortaleza,-3.765259,-38.557851,72374775
+ad380,Travessa Horizonte,4276,Mooca,Porto Alegre,-30.001986,-51.244603,54549594
+ad381,Estrada Lavandas,1329,Mooca,Salvador,-12.999907,-38.516539,82417537
+ad382,Estrada Ipês,9857,Copacabana,Porto Alegre,-30.044658,-51.237953,82163446
+ad383,Travessa Primaveras,1516,Bela Vista,Porto Alegre,-29.999289,-51.17715,97858716
+ad384,Av. Paraíso,124,Centro,Goiânia,-16.655271,-49.268873,03672122
+ad385,Travessa Palmeiras,6041,Liberdade,Fortaleza,-3.756266,-38.495094,82486806
+ad386,Av. Cedros,6908,Mooca,Fortaleza,-3.74963,-38.525796,08760129
+ad387,Av. Lavandas,7465,Mooca,Goiânia,-16.710952,-49.234293,16072564
+ad388,Estrada Palmeiras,8810,Bela Vista,Recife,-8.021601,-34.906015,53727632
+ad389,Av. Horizonte,4003,Guaianases,Fortaleza,-3.774791,-38.489162,05378837
+ad390,Travessa Cedros,1977,Vila Madalena,Salvador,-12.98963,-38.485578,82708131
+ad391,Travessa Horizonte,8465,Centro,Goiânia,-16.725423,-49.255609,01825897
+ad392,Av. Cedros,5003,Jardim América,São Paulo,-23.591709,-46.59214,55564972
+ad393,Estrada Limoeiros,8578,Copacabana,Campinas,-22.931253,-47.090334,98640306
+ad394,Estrada Lavandas,3109,Centro,Rio de Janeiro,-22.876935,-43.214909,55296415
+ad395,Av. Palmeiras,7140,Bela Vista,Salvador,-13.008714,-38.498604,09642331
+ad396,Estrada Limoeiros,2648,Guaianases,Rio de Janeiro,-22.905146,-43.186388,73790572
+ad397,Travessa Ipês,6997,Copacabana,Goiânia,-16.721437,-49.26515,22067626
+ad398,Rua Primaveras,3699,Guaianases,São Paulo,-23.5909,-46.676732,73247928
+ad399,Rua Paineiras,1960,Copacabana,Fortaleza,-3.739092,-38.517808,06373330
+ad400,Travessa Orquídeas,6164,Boa Viagem,Curitiba,-25.447405,-49.314689,20975150
+ad401,Estrada Lavandas,1521,Ipanema,Campinas,-22.923955,-47.062866,26075128
+ad402,Travessa Flores,3060,Bela Vista,Belo Horizonte,-19.868221,-43.923421,83992123
+ad403,Rua Orquídeas,305,Liberdade,Goiânia,-16.679381,-49.26287,61555683
+ad404,Av. Paraíso,2918,Liberdade,Curitiba,-25.402036,-49.23074,07226935
+ad405,Rua Limoeiros,6270,Mooca,Rio de Janeiro,-22.95248,-43.211374,97894467
+ad406,Rua Flores,4857,Vila Madalena,Belo Horizonte,-19.874393,-43.89264,70862154
+ad407,Av. Acácias,1472,Centro,Goiânia,-16.68999,-49.274355,06142352
+ad408,Av. Paineiras,4109,Boa Viagem,Salvador,-12.981286,-38.474447,50359701
+ad409,Travessa Ipês,4156,Bela Vista,Recife,-8.00645,-34.877438,08583993
+ad410,Estrada Orquídeas,2783,Bela Vista,São Paulo,-23.525582,-46.599076,41639018
+ad411,Estrada Alecrins,3113,Guaianases,Curitiba,-25.475985,-49.281088,00256225
+ad412,Estrada Paineiras,8731,Boa Viagem,Goiânia,-16.680621,-49.22123,15018328
+ad413,Rua Oliveiras,4449,Copacabana,Salvador,-12.993583,-38.485399,47232555
+ad414,Rua Acácias,1620,Vila Madalena,Curitiba,-25.463006,-49.316242,27230631
+ad415,Av. Lavandas,8167,Jardim América,Campinas,-22.876095,-47.084354,57843436
+ad416,Av. Horizonte,8064,Ipanema,Fortaleza,-3.724259,-38.476868,75638805
+ad417,Travessa Paineiras,565,Liberdade,Campinas,-22.875716,-47.071737,73918432
+ad418,Rua Lavandas,3853,Ipanema,Goiânia,-16.671325,-49.235328,01622967
+ad419,Av. Alecrins,136,Mooca,Porto Alegre,-30.031255,-51.264832,54361753
+ad420,Rua Alecrins,8154,Centro,Goiânia,-16.73511,-49.260037,59677829
+ad421,Estrada Alecrins,3410,Ipanema,Campinas,-22.895196,-47.012621,39811518
+ad422,Rua Cedros,1724,Ipanema,Belo Horizonte,-19.959594,-43.983724,22391500
+ad423,Estrada Oliveiras,8137,Bela Vista,São Paulo,-23.502513,-46.668411,03203256
+ad424,Rua Palmeiras,7236,Vila Madalena,Rio de Janeiro,-22.882006,-43.197942,46389146
+ad425,Estrada Ipês,1493,Copacabana,Campinas,-22.930309,-47.108688,12705240
+ad426,Travessa Paraíso,2600,Vila Madalena,Fortaleza,-3.750683,-38.522901,91141817
+ad427,Av. Limoeiros,2129,Centro,Recife,-8.078161,-34.893674,30506292
+ad428,Av. Ipês,6062,Ipanema,Campinas,-22.933394,-47.085556,06144670
+ad429,Travessa Horizonte,3063,Liberdade,Curitiba,-25.424873,-49.316378,00565749
+ad430,Av. Limoeiros,6147,Guaianases,Fortaleza,-3.725047,-38.542325,83721795
+ad431,Estrada Alecrins,7563,Liberdade,Salvador,-12.984683,-38.505001,21310217
+ad432,Av. Paineiras,9728,Bela Vista,Salvador,-12.94199,-38.498392,34063346
+ad433,Rua Horizonte,9368,Boa Viagem,Salvador,-12.965907,-38.499502,90720801
+ad434,Travessa Horizonte,3237,Bela Vista,Goiânia,-16.642702,-49.294042,67914005
+ad435,Travessa Jardins,8205,Copacabana,Goiânia,-16.662443,-49.251574,97371970
+ad436,Av. Paineiras,7776,Vila Madalena,São Paulo,-23.524345,-46.617078,99578400
+ad437,Travessa Alecrins,8660,Mooca,Curitiba,-25.408129,-49.260366,22211442
+ad438,Estrada Lavandas,4465,Bela Vista,Campinas,-22.869188,-47.110747,92046535
+ad439,Estrada Jardins,6909,Ipanema,Fortaleza,-3.756477,-38.558536,59834336
+ad440,Estrada Ipês,7756,Guaianases,São Paulo,-23.587176,-46.618236,62229199
+ad441,Estrada Oliveiras,7921,Liberdade,Campinas,-22.882132,-47.102807,04979143
+ad442,Rua Alecrins,869,Boa Viagem,Fortaleza,-3.697952,-38.510748,93262492
+ad443,Travessa Ipês,4005,Liberdade,Campinas,-22.905452,-47.028634,23099561
+ad444,Travessa Ipês,3578,Jardim América,Campinas,-22.90483,-47.06974,78533597
+ad445,Travessa Ipês,7198,Copacabana,Rio de Janeiro,-22.868529,-43.204317,82868388
+ad446,Estrada Flores,2773,Jardim América,Salvador,-12.929899,-38.531593,49849200
+ad447,Travessa Margaridas,7835,Ipanema,Curitiba,-25.445943,-49.30239,35758842
+ad448,Travessa Jardins,7212,Guaianases,Porto Alegre,-30.03417,-51.234975,84365189
+ad449,Estrada Palmeiras,8888,Jardim América,São Paulo,-23.506131,-46.671502,35266085
+ad450,Travessa Paineiras,9076,Guaianases,Rio de Janeiro,-22.928897,-43.176079,54356102
+ad451,Estrada Limoeiros,1935,Bela Vista,Campinas,-22.91213,-47.016504,28883718
+ad452,Av. Lavandas,6207,Ipanema,Rio de Janeiro,-22.929992,-43.195962,58212724
+ad453,Travessa Horizonte,6386,Bela Vista,Fortaleza,-3.709477,-38.557287,76896645
+ad454,Rua Alecrins,4644,Jardim América,São Paulo,-23.565709,-46.58469,03129057
+ad455,Estrada Orquídeas,911,Boa Viagem,Fortaleza,-3.748912,-38.576294,06152540
+ad456,Av. Ipês,1103,Bela Vista,Belo Horizonte,-19.929524,-43.910458,10501349
+ad457,Estrada Limoeiros,6972,Mooca,Salvador,-12.948249,-38.463822,27340909
+ad458,Estrada Margaridas,1224,Liberdade,Goiânia,-16.662366,-49.28409,72775560
+ad459,Travessa Orquídeas,2745,Ipanema,Curitiba,-25.464727,-49.243847,02766793
+ad460,Travessa Acácias,8257,Copacabana,Salvador,-12.974638,-38.530551,96695796
+ad461,Estrada Palmeiras,4316,Liberdade,Goiânia,-16.672549,-49.240483,59532281
+ad462,Estrada Margaridas,9475,Jardim América,Recife,-8.049067,-34.920677,68646236
+ad463,Travessa Acácias,8306,Guaianases,Curitiba,-25.463276,-49.237568,86374596
+ad464,Estrada Primaveras,8725,Mooca,São Paulo,-23.55359,-46.597389,79947973
+ad465,Estrada Palmeiras,1570,Mooca,Fortaleza,-3.716553,-38.563652,95018259
+ad466,Travessa Jardins,1289,Bela Vista,Salvador,-12.985292,-38.533445,27585135
+ad467,Estrada Paraíso,4267,Ipanema,Recife,-8.038143,-34.893334,82246444
+ad468,Travessa Margaridas,6120,Guaianases,Goiânia,-16.695266,-49.24701,17072132
+ad469,Rua Horizonte,9863,Jardim América,Goiânia,-16.65938,-49.235569,72500677
+ad470,Av. Jardins,3984,Boa Viagem,Curitiba,-25.396395,-49.264264,34331142
+ad471,Travessa Paraíso,3074,Vila Madalena,Rio de Janeiro,-22.867766,-43.20405,24116754
+ad472,Av. Margaridas,6266,Liberdade,São Paulo,-23.594328,-46.67311,91025982
+ad473,Av. Limoeiros,2997,Vila Madalena,Campinas,-22.910758,-47.02751,46967375
+ad474,Travessa Jardins,2267,Vila Madalena,Goiânia,-16.729109,-49.308402,41453142
+ad475,Rua Limoeiros,7518,Bela Vista,Porto Alegre,-30.020138,-51.183296,51250181
+ad476,Estrada Ipês,7670,Vila Madalena,Goiânia,-16.697655,-49.301191,28506790
+ad477,Estrada Primaveras,7494,Centro,Belo Horizonte,-19.94618,-43.9242,55128020
+ad478,Travessa Paraíso,7425,Copacabana,Salvador,-12.990531,-38.535606,97114294
+ad479,Estrada Flores,4306,Bela Vista,Fortaleza,-3.755294,-38.566606,57345035
+ad480,Travessa Lavandas,5819,Boa Viagem,Goiânia,-16.682452,-49.261786,15654306
+ad481,Travessa Oliveiras,3974,Ipanema,Fortaleza,-3.691413,-38.517118,31437633
+ad482,Travessa Limoeiros,5769,Mooca,Rio de Janeiro,-22.907497,-43.12298,81726846
+ad483,Rua Limoeiros,8844,Centro,Fortaleza,-3.700476,-38.504553,98042761
+ad484,Travessa Horizonte,4070,Boa Viagem,Porto Alegre,-30.054906,-51.195639,78955132
+ad485,Av. Paineiras,5216,Copacabana,São Paulo,-23.591209,-46.661187,03266145
+ad486,Travessa Primaveras,7298,Guaianases,São Paulo,-23.532981,-46.64874,16197696
+ad487,Travessa Paineiras,910,Centro,Goiânia,-16.681298,-49.266681,01599443
+ad488,Estrada Primaveras,2538,Bela Vista,Rio de Janeiro,-22.902588,-43.130237,42392126
+ad489,Estrada Alecrins,9439,Guaianases,Rio de Janeiro,-22.930006,-43.173467,67340251
+ad490,Travessa Palmeiras,2936,Copacabana,Goiânia,-16.676222,-49.282007,21016886
+ad491,Rua Jardins,518,Copacabana,Rio de Janeiro,-22.904233,-43.164686,82795236
+ad492,Rua Margaridas,2808,Boa Viagem,Recife,-8.037361,-34.869528,59097975
+ad493,Travessa Limoeiros,3641,Guaianases,Curitiba,-25.397498,-49.294997,32801800
+ad494,Rua Margaridas,6531,Guaianases,São Paulo,-23.589661,-46.605012,28290077
+ad495,Estrada Limoeiros,5799,Vila Madalena,Rio de Janeiro,-22.889886,-43.21836,16020407
+ad496,Rua Limoeiros,8572,Liberdade,Goiânia,-16.709267,-49.301352,91262591
+ad497,Av. Paraíso,3262,Guaianases,Belo Horizonte,-19.899022,-43.904153,97889290
+ad498,Av. Paraíso,6255,Copacabana,Fortaleza,-3.713725,-38.56571,78858770
+ad499,Av. Palmeiras,209,Ipanema,Campinas,-22.944207,-47.05561,46000228
+ad500,Rua Paraíso,726,Ipanema,Fortaleza,-3.759177,-38.549719,31442721
+ad501,Estrada Limoeiros,5768,Centro,Salvador,-12.988385,-38.468027,92930636
+ad502,Av. Paineiras,8295,Bela Vista,Belo Horizonte,-19.887782,-43.92421,52313733
+ad503,Av. Oliveiras,3639,Copacabana,Belo Horizonte,-19.881026,-43.936585,44357684
+ad504,Rua Alecrins,4297,Copacabana,Belo Horizonte,-19.96515,-43.943042,49899829
+ad505,Rua Orquídeas,9139,Copacabana,Porto Alegre,-30.026921,-51.169611,28832953
+ad506,Av. Ipês,2864,Boa Viagem,Porto Alegre,-30.059431,-51.181705,45185578
+ad507,Av. Paineiras,7165,Boa Viagem,Campinas,-22.865379,-47.04141,23423790
+ad508,Travessa Paraíso,85,Mooca,Campinas,-22.903489,-47.076657,12642543
+ad509,Rua Lavandas,5022,Vila Madalena,Porto Alegre,-30.068139,-51.191502,29803136
+ad510,Estrada Paraíso,7062,Centro,Salvador,-13.001122,-38.477703,62192634
+ad511,Travessa Margaridas,3751,Centro,Recife,-8.060108,-34.92196,96422336
+ad512,Av. Acácias,7527,Jardim América,Salvador,-12.935086,-38.475483,14680801
+ad513,Rua Palmeiras,2778,Centro,Fortaleza,-3.700988,-38.558955,48496526
+ad514,Av. Acácias,5243,Ipanema,Curitiba,-25.460959,-49.285921,55944730
+ad515,Rua Jardins,7780,Mooca,São Paulo,-23.511618,-46.608904,37873498
+ad516,Rua Orquídeas,5376,Vila Madalena,Recife,-8.017028,-34.926132,84401259
+ad517,Travessa Cedros,4148,Liberdade,Recife,-8.057029,-34.827656,74213206
+ad518,Av. Paraíso,9923,Jardim América,Salvador,-12.929263,-38.488264,45881439
+ad519,Av. Primaveras,9633,Copacabana,Curitiba,-25.413285,-49.241409,28788124
+ad520,Estrada Oliveiras,2936,Vila Madalena,Goiânia,-16.728513,-49.254684,05181914
+ad521,Estrada Oliveiras,2034,Bela Vista,Belo Horizonte,-19.905132,-43.981656,75432683
+ad522,Estrada Acácias,8836,Jardim América,Porto Alegre,-30.076058,-51.244966,54199100
+ad523,Travessa Acácias,5253,Vila Madalena,Rio de Janeiro,-22.925752,-43.138519,91431398
+ad524,Av. Limoeiros,6044,Bela Vista,Curitiba,-25.429601,-49.257965,27720450
+ad525,Rua Acácias,9727,Ipanema,Rio de Janeiro,-22.869266,-43.210057,12828183
+ad526,Av. Orquídeas,5143,Vila Madalena,Goiânia,-16.71056,-49.226871,97562464
+ad527,Av. Cedros,6389,Guaianases,Recife,-8.056449,-34.883269,30689196
+ad528,Estrada Limoeiros,8281,Guaianases,Fortaleza,-3.777454,-38.529035,62688996
+ad529,Rua Orquídeas,9779,Boa Viagem,Campinas,-22.905785,-47.0393,16847154
+ad530,Av. Paraíso,6869,Guaianases,Curitiba,-25.39465,-49.221049,67690342
+ad531,Travessa Limoeiros,9017,Guaianases,São Paulo,-23.563715,-46.636035,48599511
+ad532,Av. Orquídeas,5192,Liberdade,Fortaleza,-3.711159,-38.52318,01513154
+ad533,Travessa Palmeiras,1395,Ipanema,Goiânia,-16.683632,-49.220705,78202614
+ad534,Av. Flores,8961,Liberdade,Rio de Janeiro,-22.863677,-43.204546,87005057
+ad535,Av. Ipês,3338,Guaianases,Recife,-8.077966,-34.897914,99768972
+ad536,Estrada Palmeiras,4201,Guaianases,Goiânia,-16.713329,-49.256762,33337195
+ad537,Travessa Orquídeas,2340,Jardim América,Salvador,-12.956917,-38.505629,86297351
+ad538,Av. Jardins,1190,Mooca,Belo Horizonte,-19.942908,-43.979737,24267254
+ad539,Estrada Primaveras,5369,Guaianases,Rio de Janeiro,-22.912172,-43.173607,03895729
+ad540,Av. Alecrins,6814,Centro,Belo Horizonte,-19.902369,-43.913141,78343343
+ad541,Av. Primaveras,1314,Liberdade,Recife,-8.053941,-34.846776,58848392
+ad542,Av. Primaveras,9854,Boa Viagem,Fortaleza,-3.691516,-38.543352,46946744
+ad543,Estrada Palmeiras,6927,Guaianases,Goiânia,-16.666522,-49.239383,53428849
+ad544,Av. Primaveras,541,Centro,São Paulo,-23.553517,-46.617032,22127815
+ad545,Travessa Flores,694,Jardim América,Salvador,-12.962842,-38.512334,88097563
+ad546,Av. Paineiras,4209,Guaianases,Rio de Janeiro,-22.950152,-43.211054,61952704
+ad547,Travessa Alecrins,2566,Boa Viagem,Porto Alegre,-30.02256,-51.26583,23689011
+ad548,Estrada Horizonte,4898,Mooca,Salvador,-13.017851,-38.462365,62021610
+ad549,Rua Acácias,7356,Liberdade,Salvador,-12.98685,-38.526929,40172532
+ad550,Estrada Ipês,2911,Boa Viagem,Fortaleza,-3.778967,-38.502069,24364234
+ad551,Travessa Alecrins,9454,Vila Madalena,Recife,-8.066243,-34.868306,79302728
+ad552,Av. Margaridas,1254,Vila Madalena,Curitiba,-25.47812,-49.296164,26375068
+ad553,Estrada Cedros,9316,Liberdade,São Paulo,-23.585748,-46.668306,26177836
+ad554,Estrada Cedros,5477,Copacabana,Belo Horizonte,-19.922456,-43.956694,19092846
+ad555,Estrada Paraíso,4607,Liberdade,Salvador,-12.982575,-38.469934,43616586
+ad556,Rua Limoeiros,3302,Jardim América,Belo Horizonte,-19.955388,-43.885635,29278032
+ad557,Rua Alecrins,6452,Bela Vista,Belo Horizonte,-19.902148,-43.948465,16650863
+ad558,Travessa Palmeiras,2259,Mooca,Campinas,-22.941758,-47.014355,45117417
+ad559,Av. Alecrins,5996,Jardim América,Porto Alegre,-30.068814,-51.213251,29705692
+ad560,Av. Paineiras,9071,Mooca,Fortaleza,-3.715814,-38.525435,81347750
+ad561,Estrada Oliveiras,9813,Vila Madalena,Campinas,-22.920012,-47.022345,30482584
+ad562,Rua Lavandas,9216,Bela Vista,Curitiba,-25.430988,-49.277111,58072279
+ad563,Av. Paineiras,9059,Vila Madalena,Curitiba,-25.455641,-49.296708,55429517
+ad564,Estrada Margaridas,9270,Guaianases,Fortaleza,-3.687198,-38.529417,85831037
+ad565,Estrada Oliveiras,7342,Bela Vista,Recife,-8.035603,-34.895754,81340653
+ad566,Rua Limoeiros,8573,Liberdade,Recife,-8.017097,-34.832171,13178455
+ad567,Estrada Margaridas,6904,Bela Vista,Recife,-8.028307,-34.911156,65518821
+ad568,Rua Oliveiras,8036,Jardim América,São Paulo,-23.520477,-46.61878,58852085
+ad569,Rua Jardins,4238,Copacabana,Recife,-8.019925,-34.921138,57612136
+ad570,Estrada Orquídeas,9365,Vila Madalena,Belo Horizonte,-19.914534,-43.891063,29026172
+ad571,Estrada Oliveiras,3650,Mooca,Rio de Janeiro,-22.926132,-43.22007,26553703
+ad572,Av. Oliveiras,2578,Liberdade,Belo Horizonte,-19.87168,-43.920177,03473121
+ad573,Travessa Alecrins,2051,Guaianases,Goiânia,-16.711956,-49.245452,08159705
+ad574,Rua Palmeiras,9536,Vila Madalena,Curitiba,-25.382497,-49.234928,92673021
+ad575,Rua Cedros,117,Guaianases,Rio de Janeiro,-22.955497,-43.142245,52883754
+ad576,Av. Paineiras,5481,Centro,Fortaleza,-3.741141,-38.487116,04693388
+ad577,Estrada Limoeiros,3036,Ipanema,Goiânia,-16.706179,-49.293043,96058954
+ad578,Av. Oliveiras,1213,Mooca,Goiânia,-16.69231,-49.230353,16331326
+ad579,Av. Lavandas,3303,Vila Madalena,Porto Alegre,-30.066875,-51.242266,06008529
+ad580,Rua Alecrins,3125,Copacabana,Goiânia,-16.647495,-49.30453,68316164
+ad581,Estrada Flores,7005,Boa Viagem,Porto Alegre,-30.057484,-51.210013,46525944
+ad582,Rua Paineiras,3594,Boa Viagem,Salvador,-12.992549,-38.514327,03489665
+ad583,Estrada Alecrins,918,Boa Viagem,Fortaleza,-3.731951,-38.567417,56817748
+ad584,Estrada Paraíso,7591,Centro,Porto Alegre,-30.066014,-51.242845,28519941
+ad585,Rua Orquídeas,6100,Liberdade,Fortaleza,-3.780387,-38.568007,96031533
+ad586,Rua Oliveiras,4103,Boa Viagem,Recife,-8.071845,-34.884002,67459012
+ad587,Av. Primaveras,5562,Jardim América,Recife,-8.008635,-34.87003,51769555
+ad588,Travessa Paineiras,149,Mooca,Belo Horizonte,-19.950444,-43.954976,73844923
+ad589,Rua Margaridas,5054,Boa Viagem,Belo Horizonte,-19.91905,-43.973528,35415045
+ad590,Estrada Primaveras,5056,Copacabana,Rio de Janeiro,-22.903921,-43.128988,04084495
+ad591,Av. Primaveras,3386,Guaianases,Goiânia,-16.646294,-49.23606,10392455
+ad592,Rua Lavandas,6774,Liberdade,Campinas,-22.926953,-47.034342,85606978
+ad593,Travessa Jardins,9844,Boa Viagem,Fortaleza,-3.733494,-38.49835,79234897
+ad594,Travessa Flores,9484,Jardim América,Porto Alegre,-30.064087,-51.205879,85182696
+ad595,Av. Jardins,1868,Bela Vista,Fortaleza,-3.769463,-38.565591,93465345
+ad596,Estrada Paraíso,7148,Guaianases,Curitiba,-25.404482,-49.262121,25567442
+ad597,Estrada Ipês,7738,Centro,São Paulo,-23.561527,-46.591964,60810031
+ad598,Rua Paraíso,1402,Liberdade,Curitiba,-25.428833,-49.291891,47068536
+ad599,Travessa Alecrins,2812,Ipanema,Salvador,-12.932739,-38.539668,75854414
+ad600,Travessa Paineiras,9818,Guaianases,Fortaleza,-3.712172,-38.51628,39922150
+ad601,Rua Horizonte,5964,Jardim América,Recife,-8.011743,-34.883274,00580043
+ad602,Travessa Oliveiras,4086,Bela Vista,Goiânia,-16.675584,-49.261089,95826799
+ad603,Rua Paineiras,9459,Boa Viagem,Salvador,-13.017078,-38.513533,15335615
+ad604,Rua Orquídeas,5636,Jardim América,Curitiba,-25.416722,-49.248864,99462555
+ad605,Travessa Paineiras,4619,Ipanema,Belo Horizonte,-19.889152,-43.903259,90380413
+ad606,Rua Oliveiras,4818,Mooca,Curitiba,-25.43437,-49.250823,68573075
+ad607,Travessa Jardins,3767,Mooca,Belo Horizonte,-19.937491,-43.956847,88654692
+ad608,Estrada Horizonte,3556,Jardim América,Porto Alegre,-30.00394,-51.255099,93715620
+ad609,Av. Flores,5590,Boa Viagem,Curitiba,-25.43366,-49.284336,30703275
+ad610,Estrada Paraíso,3309,Guaianases,Recife,-8.024949,-34.926677,39930425
+ad611,Travessa Primaveras,9955,Centro,Porto Alegre,-30.000564,-51.210817,36413014
+ad612,Estrada Oliveiras,949,Vila Madalena,Fortaleza,-3.755302,-38.563608,74203266
+ad613,Av. Paineiras,2896,Boa Viagem,Belo Horizonte,-19.933798,-43.97985,66895834
+ad614,Rua Palmeiras,4257,Liberdade,Curitiba,-25.3922,-49.294176,69459887
+ad615,Travessa Margaridas,6672,Bela Vista,Recife,-8.028639,-34.869472,92784138
+ad616,Rua Jardins,9339,Guaianases,Belo Horizonte,-19.960272,-43.948861,06320390
+ad617,Estrada Primaveras,1701,Ipanema,Curitiba,-25.449941,-49.283531,42766213
+ad618,Rua Cedros,8358,Centro,Fortaleza,-3.692539,-38.49468,35938523
+ad619,Travessa Paraíso,2324,Bela Vista,Salvador,-12.970518,-38.459364,46685902
+ad620,Travessa Horizonte,4477,Liberdade,Curitiba,-25.38762,-49.302193,13020001
+ad621,Estrada Flores,5074,Bela Vista,Recife,-8.092573,-34.903517,58764572
+ad622,Av. Oliveiras,6677,Centro,Campinas,-22.905551,-47.089322,03977725
+ad623,Av. Paraíso,3513,Vila Madalena,Curitiba,-25.393028,-49.276203,76374394
+ad624,Travessa Flores,9253,Mooca,Recife,-8.045582,-34.921578,17730839
+ad625,Travessa Oliveiras,6565,Jardim América,Recife,-8.024054,-34.884864,16226099
+ad626,Rua Oliveiras,6171,Boa Viagem,Campinas,-22.867954,-47.072136,75232904
+ad627,Av. Cedros,7314,Mooca,Salvador,-13.021875,-38.512051,94044615
+ad628,Rua Lavandas,7874,Bela Vista,Belo Horizonte,-19.931871,-43.94823,67060585
+ad629,Travessa Jardins,6014,Jardim América,Salvador,-12.963159,-38.534353,80317210
+ad630,Av. Ipês,7838,Mooca,Recife,-8.08664,-34.833013,09136289
+ad631,Av. Paraíso,378,Ipanema,Goiânia,-16.642935,-49.217202,68484883
+ad632,Travessa Alecrins,390,Copacabana,São Paulo,-23.511287,-46.615853,70222316
+ad633,Estrada Horizonte,2623,Ipanema,Campinas,-22.861136,-47.05114,85733218
+ad634,Travessa Acácias,135,Mooca,Rio de Janeiro,-22.904582,-43.209617,52109712
+ad635,Estrada Alecrins,3210,Ipanema,Porto Alegre,-30.000436,-51.187316,83296726
+ad636,Rua Orquídeas,7981,Vila Madalena,Campinas,-22.92189,-47.083614,68964365
+ad637,Av. Paraíso,2790,Ipanema,Porto Alegre,-30.014253,-51.265328,78895494
+ad638,Av. Orquídeas,1745,Centro,Recife,-8.039182,-34.912946,45277565
+ad639,Av. Alecrins,3787,Copacabana,Fortaleza,-3.724526,-38.562058,96971603
+ad640,Estrada Ipês,1755,Vila Madalena,São Paulo,-23.524712,-46.66262,18137704
+ad641,Rua Alecrins,4592,Mooca,São Paulo,-23.520301,-46.618128,84986302
+ad642,Estrada Palmeiras,1972,Bela Vista,São Paulo,-23.546552,-46.68114,31959543
+ad643,Rua Alecrins,2088,Ipanema,Rio de Janeiro,-22.898011,-43.162147,35808808
+ad644,Estrada Limoeiros,8908,Liberdade,Belo Horizonte,-19.908279,-43.98364,81460450
+ad645,Estrada Paraíso,6266,Copacabana,Belo Horizonte,-19.926215,-43.956623,45952907
+ad646,Av. Jardins,4803,Bela Vista,Campinas,-22.937844,-47.03166,42247415
+ad647,Av. Oliveiras,2460,Ipanema,Fortaleza,-3.774494,-38.513356,47710514
+ad648,Av. Orquídeas,7134,Jardim América,Goiânia,-16.692429,-49.266135,47376269
+ad649,Rua Orquídeas,4063,Centro,Salvador,-12.969588,-38.511797,43591820
+ad650,Rua Paineiras,8890,Bela Vista,São Paulo,-23.544729,-46.665783,77375282
+ad651,Rua Alecrins,5071,Mooca,Campinas,-22.857623,-47.059102,49593346
+ad652,Travessa Lavandas,6056,Ipanema,Fortaleza,-3.717866,-38.521832,73148411
+ad653,Rua Jardins,7741,Centro,Recife,-8.03669,-34.833861,98400528
+ad654,Av. Palmeiras,3456,Boa Viagem,Belo Horizonte,-19.892262,-43.904977,17298069
+ad655,Travessa Alecrins,2511,Boa Viagem,Belo Horizonte,-19.962338,-43.983967,16376841
+ad656,Travessa Ipês,7097,Copacabana,Rio de Janeiro,-22.942057,-43.144492,00662968
+ad657,Travessa Lavandas,7343,Mooca,Goiânia,-16.690849,-49.300008,44372560
+ad658,Av. Oliveiras,8889,Ipanema,São Paulo,-23.576285,-46.620577,20634095
+ad659,Estrada Acácias,7253,Vila Madalena,Rio de Janeiro,-22.941746,-43.214659,24459361
+ad660,Av. Acácias,8921,Bela Vista,São Paulo,-23.564558,-46.626215,71785566
+ad661,Rua Orquídeas,3339,Mooca,São Paulo,-23.520508,-46.60626,09614510
+ad662,Estrada Limoeiros,3144,Jardim América,Recife,-8.024711,-34.896018,34080203
+ad663,Rua Flores,2650,Vila Madalena,Curitiba,-25.402611,-49.237142,02740944
+ad664,Av. Flores,1188,Mooca,Recife,-8.042372,-34.925012,21849412
+ad665,Rua Ipês,4355,Jardim América,Curitiba,-25.458348,-49.305728,93799284
+ad666,Rua Oliveiras,703,Ipanema,Fortaleza,-3.779199,-38.537842,17585814
+ad667,Estrada Paineiras,48,Ipanema,Salvador,-12.980424,-38.495921,12367153
+ad668,Av. Limoeiros,4646,Ipanema,Belo Horizonte,-19.921851,-43.935308,57010507
+ad669,Estrada Alecrins,8279,Ipanema,Fortaleza,-3.692581,-38.479892,27964894
+ad670,Rua Paraíso,93,Bela Vista,São Paulo,-23.581899,-46.604187,81397460
+ad671,Travessa Cedros,4954,Ipanema,São Paulo,-23.500889,-46.645601,23584189
+ad672,Av. Palmeiras,9594,Mooca,São Paulo,-23.574149,-46.640997,99199992
+ad673,Av. Margaridas,5824,Jardim América,Goiânia,-16.724201,-49.264675,35227565
+ad674,Estrada Acácias,1444,Copacabana,Recife,-8.067785,-34.917371,34144582
+ad675,Estrada Ipês,4716,Liberdade,Salvador,-12.982083,-38.487092,68374293
+ad676,Travessa Jardins,4182,Guaianases,Recife,-8.003216,-34.904158,92276847
+ad677,Travessa Ipês,430,Liberdade,Fortaleza,-3.715378,-38.576344,93996338
+ad678,Estrada Primaveras,965,Vila Madalena,São Paulo,-23.567225,-46.610113,97907889
+ad679,Av. Primaveras,7111,Boa Viagem,Goiânia,-16.674649,-49.236023,73487326
+ad680,Estrada Margaridas,3707,Mooca,Porto Alegre,-30.015277,-51.228725,14465272
+ad681,Estrada Paraíso,7512,Centro,Curitiba,-25.409913,-49.280606,75950385
+ad682,Av. Horizonte,473,Guaianases,Campinas,-22.914993,-47.09201,71046171
+ad683,Av. Palmeiras,5057,Ipanema,Salvador,-12.991541,-38.462476,38931645
+ad684,Av. Flores,740,Jardim América,Goiânia,-16.706615,-49.307753,37365165
+ad685,Estrada Alecrins,6453,Bela Vista,Belo Horizonte,-19.920044,-43.970574,92620276
+ad686,Av. Oliveiras,3823,Centro,Campinas,-22.86193,-47.098094,36414779
+ad687,Estrada Paineiras,7701,Boa Viagem,Curitiba,-25.433398,-49.270026,19388366
+ad688,Estrada Jardins,3967,Boa Viagem,São Paulo,-23.54694,-46.630641,82882987
+ad689,Av. Ipês,6846,Copacabana,São Paulo,-23.552015,-46.649839,84225609
+ad690,Rua Horizonte,3080,Centro,Curitiba,-25.381709,-49.229635,66155497
+ad691,Rua Paineiras,4080,Copacabana,Rio de Janeiro,-22.885452,-43.124152,88111317
+ad692,Estrada Lavandas,8035,Mooca,Salvador,-12.950811,-38.479326,22128592
+ad693,Rua Paineiras,3244,Mooca,Rio de Janeiro,-22.955734,-43.127659,31912011
+ad694,Rua Cedros,7190,Centro,Recife,-8.088613,-34.902817,14081942
+ad695,Estrada Limoeiros,9473,Guaianases,Belo Horizonte,-19.938713,-43.984417,10559608
+ad696,Travessa Primaveras,5343,Jardim América,Recife,-8.075165,-34.859955,18816003
+ad697,Estrada Jardins,7707,Mooca,Campinas,-22.863222,-47.080635,40477868
+ad698,Travessa Limoeiros,9831,Mooca,Belo Horizonte,-19.881952,-43.937967,24536770
+ad699,Rua Limoeiros,2719,Boa Viagem,Goiânia,-16.676087,-49.312251,88873941
+ad700,Estrada Paineiras,1554,Copacabana,Curitiba,-25.424224,-49.293709,41714033
+ad701,Av. Limoeiros,4409,Copacabana,São Paulo,-23.523843,-46.660706,37437367
+ad702,Av. Paraíso,6342,Boa Viagem,Recife,-8.033916,-34.862234,85499727
+ad703,Av. Alecrins,199,Mooca,Salvador,-13.026708,-38.548471,48614824
+ad704,Estrada Jardins,1414,Jardim América,Campinas,-22.913648,-47.080041,49344977
+ad705,Av. Primaveras,112,Ipanema,Rio de Janeiro,-22.890299,-43.167912,91519406
+ad706,Estrada Oliveiras,1843,Ipanema,Belo Horizonte,-19.94031,-43.934249,92132790
+ad707,Rua Alecrins,4276,Liberdade,Recife,-8.000785,-34.833695,62657425
+ad708,Travessa Cedros,829,Boa Viagem,Belo Horizonte,-19.925429,-43.927731,55299827
+ad709,Estrada Orquídeas,4724,Centro,Fortaleza,-3.718226,-38.508214,58642583
+ad710,Av. Jardins,2250,Ipanema,Campinas,-22.876619,-47.04412,82177663
+ad711,Estrada Limoeiros,1763,Liberdade,Salvador,-12.982436,-38.498871,37552521
+ad712,Av. Paraíso,1988,Vila Madalena,Curitiba,-25.412895,-49.217796,72908683
+ad713,Estrada Alecrins,8864,Liberdade,Salvador,-12.966667,-38.455038,89840695
+ad714,Rua Lavandas,2656,Bela Vista,Porto Alegre,-29.996069,-51.226989,72365339
+ad715,Estrada Cedros,9343,Guaianases,Campinas,-22.898034,-47.043929,31056747
+ad716,Travessa Lavandas,4825,Mooca,Fortaleza,-3.734668,-38.495199,83261999
+ad717,Rua Flores,7485,Boa Viagem,Curitiba,-25.438032,-49.238535,29651432
+ad718,Estrada Oliveiras,853,Jardim América,Rio de Janeiro,-22.949434,-43.158593,68163888
+ad719,Estrada Limoeiros,7490,Mooca,Recife,-8.019698,-34.866556,34021715
+ad720,Av. Palmeiras,8246,Guaianases,Fortaleza,-3.771311,-38.506059,75929680
+ad721,Travessa Flores,3248,Bela Vista,Salvador,-12.931623,-38.468287,08350545
+ad722,Av. Orquídeas,4526,Mooca,Salvador,-12.931505,-38.480982,42442753
+ad723,Travessa Primaveras,9235,Copacabana,Goiânia,-16.640999,-49.217091,25258407
+ad724,Rua Ipês,141,Boa Viagem,Porto Alegre,-30.006342,-51.195163,29443800
+ad725,Estrada Limoeiros,6449,Vila Madalena,Belo Horizonte,-19.933489,-43.923571,34264527
+ad726,Av. Lavandas,8557,Centro,Recife,-8.042169,-34.890722,89232910
+ad727,Travessa Paraíso,1132,Mooca,Fortaleza,-3.739687,-38.504712,17887222
+ad728,Travessa Palmeiras,2356,Jardim América,Fortaleza,-3.703422,-38.483668,48821787
+ad729,Rua Horizonte,3911,Copacabana,Curitiba,-25.463678,-49.265381,98409962
+ad730,Rua Ipês,9854,Bela Vista,Campinas,-22.934285,-47.051239,20887024
+ad731,Estrada Oliveiras,8159,Liberdade,Salvador,-12.970778,-38.456373,56204972
+ad732,Travessa Flores,3890,Guaianases,Salvador,-13.003516,-38.468388,93504005
+ad733,Estrada Palmeiras,4959,Mooca,Belo Horizonte,-19.92089,-43.943676,12315503
+ad734,Estrada Primaveras,4350,Liberdade,Porto Alegre,-30.004375,-51.247242,58001578
+ad735,Av. Flores,4409,Vila Madalena,Rio de Janeiro,-22.88875,-43.215423,22310728
+ad736,Estrada Ipês,1783,Boa Viagem,Porto Alegre,-30.008412,-51.222883,67488703
+ad737,Travessa Margaridas,8677,Liberdade,Salvador,-13.020217,-38.529386,14582293
+ad738,Travessa Horizonte,6302,Vila Madalena,Curitiba,-25.439472,-49.224485,91734781
+ad739,Estrada Orquídeas,5797,Jardim América,Salvador,-12.936274,-38.498193,76218830
+ad740,Av. Margaridas,6945,Vila Madalena,Recife,-8.07916,-34.862433,19608813
+ad741,Travessa Paraíso,1463,Copacabana,São Paulo,-23.550999,-46.643175,43176847
+ad742,Travessa Lavandas,1632,Bela Vista,Campinas,-22.93432,-47.028573,68693870
+ad743,Rua Margaridas,1799,Ipanema,Salvador,-12.973636,-38.474158,58729765
+ad744,Travessa Oliveiras,1770,Vila Madalena,Porto Alegre,-30.054791,-51.1922,69380733
+ad745,Av. Primaveras,229,Copacabana,Belo Horizonte,-19.916476,-43.948549,14532040
+ad746,Estrada Cedros,465,Bela Vista,Rio de Janeiro,-22.908029,-43.138574,45395993
+ad747,Estrada Lavandas,4745,Liberdade,São Paulo,-23.549303,-46.639912,14743888
+ad748,Estrada Palmeiras,1761,Ipanema,Porto Alegre,-30.038946,-51.1996,13860808
+ad749,Travessa Horizonte,9636,Bela Vista,Salvador,-13.027048,-38.509508,29210769
+ad750,Estrada Paraíso,3129,Jardim América,Salvador,-12.957724,-38.54828,02325015
+ad751,Rua Alecrins,8212,Centro,Curitiba,-25.383693,-49.219349,21234676
+ad752,Av. Margaridas,218,Bela Vista,Salvador,-12.973667,-38.509698,31401498
+ad753,Estrada Palmeiras,2660,Jardim América,Goiânia,-16.728522,-49.296435,88917988
+ad754,Travessa Acácias,1461,Guaianases,Belo Horizonte,-19.908308,-43.950792,38703244
+ad755,Travessa Paineiras,9144,Centro,São Paulo,-23.558034,-46.628307,45860230
+ad756,Rua Primaveras,7410,Ipanema,Recife,-7.999334,-34.914236,65191410
+ad757,Av. Margaridas,4854,Jardim América,Recife,-8.09073,-34.852822,57343157
+ad758,Travessa Margaridas,2179,Jardim América,Fortaleza,-3.722574,-38.529499,52687415
+ad759,Travessa Paineiras,9461,Ipanema,Fortaleza,-3.706863,-38.572501,07350412
+ad760,Rua Paraíso,192,Boa Viagem,Campinas,-22.879381,-47.090806,07080403
+ad761,Rua Oliveiras,6482,Bela Vista,Salvador,-12.985891,-38.488017,23852686
+ad762,Travessa Primaveras,4552,Ipanema,São Paulo,-23.54186,-46.589304,94630990
+ad763,Rua Oliveiras,1524,Liberdade,Rio de Janeiro,-22.874148,-43.124043,55934102
+ad764,Travessa Acácias,2897,Guaianases,Campinas,-22.905084,-47.092537,23417915
+ad765,Travessa Paraíso,1883,Jardim América,Goiânia,-16.715143,-49.295471,92799653
+ad766,Travessa Limoeiros,3242,Vila Madalena,Fortaleza,-3.774902,-38.557703,60215312
+ad767,Travessa Flores,1554,Mooca,Salvador,-12.945411,-38.493351,19463364
+ad768,Rua Primaveras,8324,Ipanema,Salvador,-12.989846,-38.488552,58564166
+ad769,Av. Palmeiras,879,Copacabana,Salvador,-12.945249,-38.473781,88774080
+ad770,Estrada Primaveras,2157,Mooca,Recife,-8.044756,-34.872612,95924138
+ad771,Rua Oliveiras,2247,Copacabana,Campinas,-22.92246,-47.032231,16982492
+ad772,Rua Jardins,2702,Mooca,Belo Horizonte,-19.903301,-43.980669,52623538
+ad773,Rua Acácias,3373,Jardim América,Goiânia,-16.641417,-49.249779,26864050
+ad774,Travessa Oliveiras,2328,Mooca,Salvador,-13.01053,-38.454935,29570691
+ad775,Travessa Ipês,4312,Centro,Curitiba,-25.458899,-49.227153,98285970
+ad776,Rua Lavandas,8816,Vila Madalena,Curitiba,-25.419187,-49.303647,61596400
+ad777,Av. Oliveiras,140,Ipanema,Curitiba,-25.438523,-49.234042,52227210
+ad778,Av. Acácias,3879,Guaianases,Fortaleza,-3.719029,-38.517137,80157162
+ad779,Estrada Acácias,3751,Centro,Porto Alegre,-30.000996,-51.219555,03199413
+ad780,Estrada Horizonte,9099,Ipanema,Porto Alegre,-30.018557,-51.199551,07403401
+ad781,Rua Horizonte,7447,Centro,Fortaleza,-3.701604,-38.562009,25335212
+ad782,Estrada Palmeiras,8158,Vila Madalena,Recife,-7.999399,-34.870041,53427005
+ad783,Estrada Primaveras,8239,Bela Vista,Salvador,-12.942916,-38.545595,62888689
+ad784,Estrada Orquídeas,1725,Copacabana,Fortaleza,-3.706892,-38.551839,55236301
+ad785,Travessa Alecrins,3970,Jardim América,Salvador,-12.952844,-38.455265,21096830
+ad786,Estrada Orquídeas,2442,Centro,Goiânia,-16.670326,-49.277765,12534883
+ad787,Av. Flores,4280,Copacabana,Campinas,-22.916182,-47.013295,93443439
+ad788,Av. Flores,8642,Mooca,Curitiba,-25.441994,-49.280074,85199139
+ad789,Av. Paineiras,4922,Guaianases,Salvador,-12.981987,-38.498863,64089382
+ad790,Travessa Cedros,1854,Guaianases,Belo Horizonte,-19.886321,-43.884754,52248777
+ad791,Travessa Horizonte,873,Liberdade,Curitiba,-25.478433,-49.302489,19258543
+ad792,Travessa Lavandas,2419,Centro,Salvador,-13.006536,-38.462685,34852747
+ad793,Travessa Acácias,5576,Mooca,Goiânia,-16.686301,-49.284929,62296158
+ad794,Rua Horizonte,2317,Copacabana,Salvador,-12.976247,-38.484983,88373513
+ad795,Rua Horizonte,3281,Centro,Curitiba,-25.41854,-49.306016,90169278
+ad796,Rua Acácias,4653,Centro,Curitiba,-25.473244,-49.287388,30638357
+ad797,Rua Lavandas,8857,Mooca,Curitiba,-25.452312,-49.271225,35759756
+ad798,Rua Primaveras,8164,Jardim América,Recife,-8.01635,-34.850779,61149450
+ad799,Av. Acácias,1026,Centro,Porto Alegre,-30.024724,-51.19831,01256949
+ad800,Av. Horizonte,9158,Centro,Rio de Janeiro,-22.909704,-43.184993,98519957
+ad801,Av. Cedros,3429,Ipanema,Belo Horizonte,-19.875998,-43.932487,66936208
+ad802,Travessa Orquídeas,5114,Liberdade,Rio de Janeiro,-22.897965,-43.151794,74777134
+ad803,Av. Flores,2008,Guaianases,Belo Horizonte,-19.954955,-43.8977,36297451
+ad804,Estrada Acácias,8396,Copacabana,Recife,-8.053278,-34.92589,46404254
+ad805,Travessa Acácias,2781,Bela Vista,Porto Alegre,-30.034358,-51.243229,58429617
+ad806,Estrada Primaveras,7929,Copacabana,Belo Horizonte,-19.962326,-43.913713,22825678
+ad807,Estrada Palmeiras,41,Ipanema,Recife,-8.026622,-34.917519,89424807
+ad808,Av. Lavandas,4592,Bela Vista,Belo Horizonte,-19.957104,-43.932711,99479016
+ad809,Estrada Ipês,1451,Copacabana,Porto Alegre,-30.081753,-51.236676,28291923
+ad810,Rua Primaveras,7752,Vila Madalena,Porto Alegre,-30.019343,-51.184282,47707445
+ad811,Travessa Lavandas,4798,Ipanema,Salvador,-12.945768,-38.509371,90208076
+ad812,Estrada Lavandas,2616,Ipanema,Salvador,-12.94329,-38.53826,42445745
+ad813,Travessa Paineiras,8525,Jardim América,Recife,-8.066518,-34.900591,21803905
+ad814,Travessa Jardins,2008,Jardim América,Recife,-8.013804,-34.857705,20108721
+ad815,Travessa Limoeiros,5368,Bela Vista,Porto Alegre,-30.031205,-51.200848,72983697
+ad816,Av. Primaveras,3311,Copacabana,Campinas,-22.91622,-47.082655,70355932
+ad817,Travessa Orquídeas,570,Boa Viagem,Fortaleza,-3.738811,-38.522255,44697212
+ad818,Estrada Primaveras,9828,Vila Madalena,Goiânia,-16.680469,-49.305699,99678913
+ad819,Travessa Ipês,1705,Ipanema,Rio de Janeiro,-22.883547,-43.195946,01427413
+ad820,Rua Acácias,4701,Ipanema,Campinas,-22.89123,-47.071454,87482112
+ad821,Travessa Limoeiros,4840,Copacabana,Curitiba,-25.470599,-49.240536,95766048
+ad822,Travessa Lavandas,7957,Mooca,Rio de Janeiro,-22.880267,-43.163853,84363715
+ad823,Rua Alecrins,9491,Jardim América,Curitiba,-25.469996,-49.294927,29246779
+ad824,Travessa Oliveiras,9342,Ipanema,Recife,-8.064619,-34.863891,28554165
+ad825,Estrada Orquídeas,4357,Liberdade,Goiânia,-16.720804,-49.300606,42695646
+ad826,Travessa Horizonte,6085,Copacabana,Belo Horizonte,-19.915679,-43.964561,29175822
+ad827,Rua Cedros,2674,Liberdade,Recife,-8.042459,-34.856397,58810003
+ad828,Av. Jardins,4001,Mooca,Goiânia,-16.667623,-49.309441,40684789
+ad829,Estrada Paraíso,5714,Liberdade,Curitiba,-25.379318,-49.313622,87215561
+ad830,Av. Margaridas,2881,Centro,Salvador,-12.938749,-38.470244,15098138
+ad831,Travessa Alecrins,2989,Liberdade,Belo Horizonte,-19.941416,-43.902175,41009621
+ad832,Rua Acácias,8155,Bela Vista,Campinas,-22.945727,-47.073256,57462587
+ad833,Estrada Lavandas,1943,Guaianases,São Paulo,-23.536109,-46.606102,55234477
+ad834,Estrada Ipês,3653,Copacabana,Curitiba,-25.413725,-49.221582,41007785
+ad835,Travessa Paineiras,9713,Centro,Curitiba,-25.400159,-49.227864,26810695
+ad836,Travessa Jardins,5713,Liberdade,Salvador,-12.982393,-38.499778,40983574
+ad837,Rua Alecrins,4997,Liberdade,Recife,-7.998109,-34.917439,87240162
+ad838,Estrada Lavandas,1845,Guaianases,Curitiba,-25.459446,-49.249943,16280596
+ad839,Rua Oliveiras,8289,Bela Vista,Goiânia,-16.719118,-49.230472,37913107
+ad840,Travessa Cedros,9057,Liberdade,Campinas,-22.940168,-47.083412,43810092
+ad841,Av. Margaridas,2898,Centro,Porto Alegre,-30.010566,-51.237423,21785900
+ad842,Travessa Jardins,8115,Boa Viagem,Rio de Janeiro,-22.880893,-43.165986,80449058
+ad843,Estrada Orquídeas,4832,Mooca,Fortaleza,-3.687336,-38.554532,99262547
+ad844,Rua Paraíso,9831,Centro,Belo Horizonte,-19.868485,-43.927252,97239501
+ad845,Travessa Primaveras,4174,Vila Madalena,Curitiba,-25.411516,-49.246015,59207740
+ad846,Travessa Flores,5350,Copacabana,Porto Alegre,-30.081683,-51.168551,84621095
+ad847,Estrada Flores,854,Liberdade,Belo Horizonte,-19.965063,-43.907778,42875673
+ad848,Estrada Jardins,2391,Vila Madalena,Belo Horizonte,-19.955837,-43.888422,48040303
+ad849,Estrada Flores,6968,Jardim América,São Paulo,-23.570711,-46.621575,69519502
+ad850,Travessa Cedros,5387,Boa Viagem,Rio de Janeiro,-22.899453,-43.16769,10970982
+ad851,Estrada Palmeiras,8440,Centro,Belo Horizonte,-19.924764,-43.984299,61601010
+ad852,Av. Acácias,5196,Jardim América,Campinas,-22.882528,-47.060067,70959893
+ad853,Estrada Oliveiras,7113,Liberdade,Curitiba,-25.401837,-49.218501,41959441
+ad854,Rua Paraíso,4230,Bela Vista,Goiânia,-16.731364,-49.226756,99102171
+ad855,Estrada Lavandas,4798,Vila Madalena,Salvador,-12.957621,-38.456772,59847112
+ad856,Travessa Jardins,2684,Bela Vista,Porto Alegre,-30.078384,-51.200078,75147240
+ad857,Rua Flores,6152,Liberdade,Belo Horizonte,-19.909692,-43.888948,21810615
+ad858,Av. Acácias,9623,Bela Vista,Belo Horizonte,-19.88257,-43.893163,50228240
+ad859,Rua Lavandas,72,Copacabana,Rio de Janeiro,-22.953085,-43.180428,79585633
+ad860,Travessa Paraíso,4647,Mooca,Recife,-8.043194,-34.883502,53738456
+ad861,Travessa Lavandas,7426,Guaianases,Belo Horizonte,-19.94119,-43.977611,80857951
+ad862,Travessa Acácias,5577,Boa Viagem,Campinas,-22.909294,-47.108348,15293335
+ad863,Estrada Acácias,2478,Boa Viagem,Campinas,-22.936858,-47.087584,79667260
+ad864,Rua Acácias,2788,Centro,Rio de Janeiro,-22.908081,-43.183182,67806970
+ad865,Av. Palmeiras,7075,Jardim América,Salvador,-13.015382,-38.531235,12200788
+ad866,Rua Paineiras,3778,Guaianases,Belo Horizonte,-19.884193,-43.917398,91885287
+ad867,Av. Primaveras,9656,Mooca,Campinas,-22.890881,-47.085401,32375862
+ad868,Rua Limoeiros,6265,Mooca,Goiânia,-16.687341,-49.215068,73907608
+ad869,Av. Oliveiras,1589,Vila Madalena,Campinas,-22.931304,-47.081958,28529199
+ad870,Av. Horizonte,1680,Vila Madalena,Recife,-8.075797,-34.869444,19235507
+ad871,Estrada Paineiras,9663,Copacabana,Fortaleza,-3.722434,-38.497626,66298273
+ad872,Estrada Paineiras,877,Ipanema,Campinas,-22.875398,-47.047242,36600240
+ad873,Av. Margaridas,1087,Guaianases,Goiânia,-16.637584,-49.227203,96585305
+ad874,Travessa Ipês,2284,Bela Vista,Goiânia,-16.700222,-49.306003,95509412
+ad875,Travessa Alecrins,6140,Boa Viagem,Porto Alegre,-30.031576,-51.214941,96860213
+ad876,Estrada Flores,1752,Vila Madalena,Belo Horizonte,-19.95059,-43.928455,94004045
+ad877,Av. Flores,5113,Centro,Goiânia,-16.66329,-49.291349,97495768
+ad878,Rua Limoeiros,1875,Copacabana,Recife,-8.077916,-34.887143,31874608
+ad879,Av. Primaveras,2055,Liberdade,Rio de Janeiro,-22.911742,-43.170647,37019789
+ad880,Rua Flores,9862,Guaianases,Fortaleza,-3.767952,-38.525876,84925923
+ad881,Av. Cedros,4801,Guaianases,Campinas,-22.889064,-47.066567,70909646
+ad882,Rua Jardins,7844,Liberdade,São Paulo,-23.59889,-46.651742,22134975
+ad883,Rua Flores,8475,Vila Madalena,Goiânia,-16.677378,-49.271967,99447109
+ad884,Rua Horizonte,7232,Vila Madalena,Belo Horizonte,-19.934747,-43.89528,76907927
+ad885,Rua Alecrins,4784,Ipanema,Recife,-8.031102,-34.905809,97614259
+ad886,Av. Flores,548,Mooca,Recife,-8.003027,-34.837283,63419933
+ad887,Av. Acácias,9660,Mooca,Fortaleza,-3.732711,-38.513015,76063091
+ad888,Estrada Paineiras,3056,Vila Madalena,Goiânia,-16.733274,-49.302246,43431930
+ad889,Rua Oliveiras,3075,Guaianases,Rio de Janeiro,-22.87001,-43.184265,36675203
+ad890,Av. Alecrins,1962,Liberdade,Fortaleza,-3.707468,-38.503322,11073787
+ad891,Rua Acácias,4582,Bela Vista,Rio de Janeiro,-22.870148,-43.152213,22430203
+ad892,Travessa Margaridas,988,Jardim América,Porto Alegre,-30.003188,-51.23781,19880682
+ad893,Rua Margaridas,7990,Mooca,Recife,-8.048022,-34.899016,75734293
+ad894,Rua Lavandas,4946,Copacabana,São Paulo,-23.545692,-46.586481,52747894
+ad895,Travessa Orquídeas,7162,Centro,Belo Horizonte,-19.912083,-43.957205,95912545
+ad896,Travessa Orquídeas,293,Vila Madalena,Curitiba,-25.413647,-49.227597,37250735
+ad897,Estrada Acácias,1522,Boa Viagem,Curitiba,-25.438988,-49.21882,78280617
+ad898,Estrada Palmeiras,6528,Boa Viagem,São Paulo,-23.570028,-46.601834,72414619
+ad899,Estrada Ipês,6164,Mooca,Campinas,-22.936135,-47.065485,81014564
+ad900,Estrada Oliveiras,4876,Vila Madalena,Campinas,-22.928788,-47.056972,57099999
+ad901,Av. Cedros,3497,Bela Vista,Rio de Janeiro,-22.886712,-43.15249,18290601
+ad902,Av. Ipês,5371,Boa Viagem,Rio de Janeiro,-22.868962,-43.137963,45800562
+ad903,Av. Paineiras,3111,Copacabana,Recife,-8.087963,-34.90211,63280073
+ad904,Av. Orquídeas,2676,Jardim América,Rio de Janeiro,-22.945286,-43.129146,24394169
+ad905,Av. Orquídeas,8480,Mooca,Goiânia,-16.649923,-49.224395,42031239
+ad906,Av. Primaveras,5985,Copacabana,Belo Horizonte,-19.922479,-43.959941,05945480
+ad907,Av. Jardins,9660,Liberdade,Belo Horizonte,-19.886875,-43.976579,54553227
+ad908,Av. Horizonte,2414,Ipanema,Goiânia,-16.671392,-49.22852,11604975
+ad909,Estrada Lavandas,8456,Copacabana,Salvador,-12.987394,-38.47137,87154426
+ad910,Av. Lavandas,2564,Guaianases,Salvador,-13.021198,-38.54602,34418274
+ad911,Estrada Acácias,9524,Guaianases,Fortaleza,-3.733271,-38.505288,68621202
+ad912,Travessa Alecrins,3700,Guaianases,São Paulo,-23.59203,-46.596301,32498775
+ad913,Av. Acácias,3796,Jardim América,São Paulo,-23.586312,-46.616187,21238298
+ad914,Estrada Ipês,3960,Jardim América,Fortaleza,-3.767509,-38.562868,10253388
+ad915,Travessa Orquídeas,7244,Boa Viagem,Fortaleza,-3.696185,-38.48303,30279968
+ad916,Estrada Margaridas,1203,Ipanema,Campinas,-22.951154,-47.096851,17879617
+ad917,Estrada Primaveras,4692,Copacabana,Campinas,-22.929065,-47.030511,43171037
+ad918,Travessa Primaveras,7519,Guaianases,Salvador,-12.948834,-38.52851,29402153
+ad919,Estrada Flores,431,Boa Viagem,Porto Alegre,-30.061005,-51.198955,94455017
+ad920,Travessa Paineiras,536,Vila Madalena,Rio de Janeiro,-22.860105,-43.161271,66619778
+ad921,Av. Cedros,4691,Guaianases,Belo Horizonte,-19.929408,-43.935923,91910196
+ad922,Estrada Primaveras,3875,Ipanema,Fortaleza,-3.769783,-38.550333,78694386
+ad923,Av. Ipês,6038,Vila Madalena,Curitiba,-25.406556,-49.238999,88020751
+ad924,Av. Alecrins,7828,Copacabana,Rio de Janeiro,-22.882026,-43.16544,39491802
+ad925,Rua Orquídeas,1283,Bela Vista,São Paulo,-23.599963,-46.640191,63952072
+ad926,Rua Limoeiros,2037,Vila Madalena,Salvador,-12.975313,-38.482377,26371136
+ad927,Rua Paineiras,1686,Vila Madalena,Goiânia,-16.671373,-49.22697,50081654
+ad928,Estrada Paineiras,2222,Boa Viagem,Recife,-8.03302,-34.85099,82045122
+ad929,Travessa Acácias,6683,Centro,Belo Horizonte,-19.958628,-43.922334,61262871
+ad930,Estrada Oliveiras,3046,Copacabana,Porto Alegre,-30.079584,-51.200167,16559016
+ad931,Travessa Jardins,8650,Centro,Campinas,-22.926926,-47.032472,84925983
+ad932,Travessa Paineiras,659,Copacabana,Fortaleza,-3.736441,-38.512386,43724620
+ad933,Av. Primaveras,4950,Ipanema,Fortaleza,-3.686407,-38.555938,42758864
+ad934,Estrada Ipês,7513,Bela Vista,Curitiba,-25.393799,-49.292149,37280266
+ad935,Rua Lavandas,510,Boa Viagem,Rio de Janeiro,-22.929125,-43.16493,35971584
+ad936,Estrada Acácias,8624,Centro,Rio de Janeiro,-22.883274,-43.153931,77476195
+ad937,Av. Flores,3182,Centro,Recife,-8.051576,-34.892948,39596439
+ad938,Rua Margaridas,6707,Copacabana,Curitiba,-25.386478,-49.296024,15581982
+ad939,Estrada Margaridas,7284,Guaianases,Fortaleza,-3.711888,-38.534419,02553449
+ad940,Rua Limoeiros,4409,Ipanema,Curitiba,-25.388804,-49.276546,75827145
+ad941,Estrada Acácias,7682,Copacabana,Fortaleza,-3.766538,-38.541839,38476162
+ad942,Av. Oliveiras,66,Copacabana,Goiânia,-16.652416,-49.230941,22631687
+ad943,Rua Orquídeas,2751,Bela Vista,Porto Alegre,-30.057554,-51.217554,47127563
+ad944,Av. Margaridas,292,Mooca,Fortaleza,-3.687151,-38.55241,55714167
+ad945,Rua Flores,2130,Mooca,Salvador,-12.929174,-38.491839,96258859
+ad946,Av. Orquídeas,1154,Vila Madalena,Fortaleza,-3.729207,-38.48532,88631661
+ad947,Travessa Cedros,7288,Jardim América,Belo Horizonte,-19.891491,-43.974251,85643391
+ad948,Av. Palmeiras,8738,Liberdade,Fortaleza,-3.745096,-38.496391,35519901
+ad949,Rua Acácias,3507,Guaianases,Belo Horizonte,-19.880671,-43.981936,23710702
+ad950,Rua Margaridas,3950,Bela Vista,Rio de Janeiro,-22.938593,-43.172973,35258144
+ad951,Travessa Horizonte,8467,Centro,Salvador,-12.994259,-38.499072,79685137
+ad952,Estrada Cedros,6125,Copacabana,São Paulo,-23.511893,-46.668101,78836476
+ad953,Rua Palmeiras,572,Boa Viagem,Belo Horizonte,-19.925954,-43.936088,57641421
+ad954,Travessa Primaveras,2556,Ipanema,Salvador,-12.982836,-38.545156,06625232
+ad955,Travessa Primaveras,2528,Liberdade,Goiânia,-16.671832,-49.238263,49277526
+ad956,Estrada Paineiras,8017,Jardim América,Recife,-8.001041,-34.88399,32260887
+ad957,Av. Ipês,8931,Mooca,Campinas,-22.898754,-47.026615,65099427
+ad958,Av. Horizonte,6174,Bela Vista,Porto Alegre,-30.071924,-51.229201,32098836
+ad959,Estrada Ipês,6597,Vila Madalena,Goiânia,-16.663435,-49.254281,49313785
+ad960,Rua Primaveras,102,Liberdade,Curitiba,-25.466664,-49.279899,91650958
+ad961,Av. Alecrins,8831,Bela Vista,Porto Alegre,-30.012977,-51.185641,75432217
+ad962,Estrada Lavandas,5255,Ipanema,Porto Alegre,-30.003375,-51.179481,48743189
+ad963,Rua Orquídeas,3877,Boa Viagem,Fortaleza,-3.719337,-38.568535,67558845
+ad964,Estrada Ipês,9611,Ipanema,Salvador,-12.95432,-38.542607,72497709
+ad965,Rua Palmeiras,4785,Centro,Campinas,-22.906101,-47.051512,59210458
+ad966,Rua Alecrins,7460,Vila Madalena,Salvador,-13.025605,-38.526305,19928977
+ad967,Rua Orquídeas,2448,Mooca,Campinas,-22.931336,-47.062139,40814206
+ad968,Travessa Cedros,7328,Jardim América,São Paulo,-23.503209,-46.674366,90277149
+ad969,Travessa Alecrins,7918,Centro,Goiânia,-16.70599,-49.27148,39782971
+ad970,Rua Palmeiras,1049,Liberdade,Belo Horizonte,-19.922321,-43.910544,64204545
+ad971,Rua Paraíso,8355,Ipanema,Campinas,-22.954164,-47.107441,20603144
+ad972,Travessa Oliveiras,2279,Centro,Recife,-8.001085,-34.875209,61312226
+ad973,Estrada Limoeiros,7881,Guaianases,Curitiba,-25.451883,-49.270643,95434032
+ad974,Travessa Paineiras,6537,Liberdade,Porto Alegre,-29.99287,-51.225889,97538620
+ad975,Estrada Limoeiros,2817,Centro,Belo Horizonte,-19.923115,-43.981496,83072313
+ad976,Estrada Limoeiros,2709,Vila Madalena,Recife,-8.041982,-34.89979,06497179
+ad977,Estrada Jardins,7842,Mooca,Rio de Janeiro,-22.906459,-43.21174,86291300
+ad978,Estrada Orquídeas,6287,Boa Viagem,Fortaleza,-3.779159,-38.551692,14052323
+ad979,Estrada Acácias,1430,Liberdade,Curitiba,-25.474971,-49.272087,43305620
+ad980,Travessa Jardins,9900,Liberdade,Curitiba,-25.424778,-49.292703,22116525
+ad981,Estrada Palmeiras,3226,Centro,Porto Alegre,-30.034871,-51.212057,64234219
+ad982,Av. Limoeiros,1072,Copacabana,Belo Horizonte,-19.88485,-43.887935,31467372
+ad983,Av. Horizonte,4088,Bela Vista,Curitiba,-25.434612,-49.236744,28035917
+ad984,Av. Flores,5688,Bela Vista,Curitiba,-25.416591,-49.311524,61824043
+ad985,Rua Oliveiras,7247,Centro,Fortaleza,-3.741781,-38.575415,26610704
+ad986,Rua Paraíso,1745,Boa Viagem,Belo Horizonte,-19.957757,-43.936944,25030587
+ad987,Rua Limoeiros,306,Liberdade,São Paulo,-23.509966,-46.595988,66385699
+ad988,Av. Orquídeas,1318,Mooca,São Paulo,-23.536269,-46.643101,60243348
+ad989,Av. Jardins,3746,Boa Viagem,Curitiba,-25.448663,-49.269657,13702156
+ad990,Travessa Alecrins,6508,Bela Vista,Porto Alegre,-30.067477,-51.267509,26328622
+ad991,Estrada Ipês,9964,Copacabana,Fortaleza,-3.691497,-38.551013,42769003
+ad992,Travessa Cedros,2593,Copacabana,São Paulo,-23.591124,-46.664351,21373064
+ad993,Av. Orquídeas,1422,Centro,Rio de Janeiro,-22.92094,-43.130741,65497423
+ad994,Estrada Ipês,7635,Liberdade,Porto Alegre,-30.020499,-51.221483,77493710
+ad995,Rua Paraíso,2456,Liberdade,Salvador,-12.950486,-38.505551,04574760
+ad996,Estrada Margaridas,2100,Ipanema,Campinas,-22.944367,-47.057564,63004875
+ad997,Av. Margaridas,4064,Guaianases,Recife,-8.087218,-34.90483,12193051
+ad998,Rua Margaridas,3884,Vila Madalena,Belo Horizonte,-19.952793,-43.935222,51038639
+ad999,Rua Alecrins,2454,Ipanema,Goiânia,-16.639583,-49.273753,90879063
+ad1000,Rua Paraíso,8393,Copacabana,Curitiba,-25.4136,-49.289976,70889708
+ad1001,Av. Limoeiros,7785,Bela Vista,Belo Horizonte,-19.930983,-43.886015,66090446
+ad1002,Rua Margaridas,6450,Mooca,Porto Alegre,-30.084131,-51.242727,88190645
+ad1003,Rua Paineiras,2451,Bela Vista,Campinas,-22.941584,-47.017207,03780792
+ad1004,Estrada Paineiras,5738,Guaianases,Rio de Janeiro,-22.882121,-43.158425,73142597
+ad1005,Rua Ipês,7711,Liberdade,Recife,-8.000705,-34.862145,20708653
+ad1006,Rua Paineiras,9298,Bela Vista,São Paulo,-23.530656,-46.671154,99911769
+ad1007,Rua Jardins,4144,Mooca,Porto Alegre,-30.027325,-51.176708,01832134
+ad1008,Rua Acácias,1787,Liberdade,Goiânia,-16.7069,-49.269298,31969445
+ad1009,Av. Paraíso,3070,Mooca,Curitiba,-25.474566,-49.225576,16298668
+ad1010,Travessa Flores,4384,Copacabana,Recife,-8.065569,-34.832292,62137101
+ad1011,Rua Acácias,811,Mooca,Goiânia,-16.668642,-49.292834,40140017
+ad1012,Av. Paraíso,9509,Vila Madalena,Goiânia,-16.732722,-49.301429,06380864
+ad1013,Estrada Margaridas,4866,Centro,Recife,-8.058036,-34.835647,08523890
+ad1014,Av. Paraíso,6560,Mooca,Goiânia,-16.639193,-49.274804,24194441
+ad1015,Estrada Lavandas,6188,Boa Viagem,Fortaleza,-3.760605,-38.476717,71787822
+ad1016,Av. Flores,2636,Mooca,Fortaleza,-3.700562,-38.568018,21796840
+ad1017,Av. Orquídeas,8512,Guaianases,Porto Alegre,-29.999382,-51.169894,87657033
+ad1018,Travessa Palmeiras,8709,Vila Madalena,Recife,-8.041144,-34.831831,42475852
+ad1019,Av. Horizonte,6371,Ipanema,Belo Horizonte,-19.892488,-43.918544,53066878
+ad1020,Av. Alecrins,7226,Boa Viagem,Campinas,-22.877612,-47.019237,13379397
+ad1021,Rua Flores,4318,Bela Vista,Porto Alegre,-30.00158,-51.187861,39817737
+ad1022,Av. Alecrins,6337,Ipanema,Salvador,-12.982857,-38.505925,21733529
+ad1023,Av. Horizonte,3450,Vila Madalena,Campinas,-22.926543,-47.068449,56632122
+ad1024,Av. Acácias,366,Ipanema,Curitiba,-25.474769,-49.233894,22986089
+ad1025,Av. Primaveras,4740,Mooca,Curitiba,-25.400755,-49.304019,28382319
+ad1026,Travessa Lavandas,2686,Bela Vista,Belo Horizonte,-19.916323,-43.956524,14532549
+ad1027,Av. Paineiras,3564,Bela Vista,Campinas,-22.90797,-47.050517,71146638
+ad1028,Av. Orquídeas,8988,Vila Madalena,Campinas,-22.935299,-47.067518,11660341
+ad1029,Av. Primaveras,9300,Guaianases,Fortaleza,-3.730425,-38.482819,93515274
+ad1030,Rua Ipês,6607,Jardim América,Belo Horizonte,-19.867651,-43.948344,95485560
+ad1031,Travessa Jardins,7173,Vila Madalena,Recife,-8.088065,-34.835458,65129685
+ad1032,Estrada Cedros,7201,Mooca,Goiânia,-16.694977,-49.295422,74827997
+ad1033,Av. Alecrins,1051,Mooca,Salvador,-12.967038,-38.52917,60930439
+ad1034,Rua Lavandas,7948,Copacabana,Curitiba,-25.459366,-49.300283,55311059
+ad1035,Estrada Cedros,6377,Mooca,Salvador,-12.95042,-38.454604,86369378
+ad1036,Av. Palmeiras,764,Ipanema,Campinas,-22.915064,-47.094711,79987829
+ad1037,Estrada Lavandas,5450,Liberdade,Campinas,-22.886778,-47.052051,45255850
+ad1038,Av. Palmeiras,9196,Liberdade,Salvador,-12.930341,-38.476773,17652425
+ad1039,Travessa Lavandas,8633,Guaianases,Porto Alegre,-30.05914,-51.230681,33398912
+ad1040,Av. Flores,9923,Copacabana,São Paulo,-23.573932,-46.612446,27210299
+ad1041,Av. Ipês,1936,Guaianases,Belo Horizonte,-19.916675,-43.918483,80353129
+ad1042,Travessa Paineiras,5733,Mooca,São Paulo,-23.585991,-46.658253,96133409
+ad1043,Travessa Flores,5984,Guaianases,Recife,-8.067117,-34.899403,52456641
+ad1044,Rua Margaridas,7144,Boa Viagem,Porto Alegre,-30.016261,-51.186744,76519819
+ad1045,Av. Flores,8175,Centro,Salvador,-13.017351,-38.50605,41185896
+ad1046,Estrada Paraíso,6264,Centro,Salvador,-12.989622,-38.455857,35975783
+ad1047,Travessa Oliveiras,4981,Ipanema,Porto Alegre,-30.030293,-51.266301,01166710
+ad1048,Estrada Orquídeas,900,Boa Viagem,Porto Alegre,-30.057725,-51.174483,68964286
+ad1049,Travessa Margaridas,1764,Bela Vista,Fortaleza,-3.752688,-38.530178,20529814
+ad1050,Travessa Paraíso,7897,Copacabana,Porto Alegre,-30.035573,-51.230527,95302588
+ad1051,Av. Orquídeas,8790,Liberdade,Porto Alegre,-30.062044,-51.238769,08399618
+ad1052,Av. Primaveras,2355,Centro,Goiânia,-16.662279,-49.229164,01763102
+ad1053,Rua Oliveiras,3144,Ipanema,Campinas,-22.939755,-47.098281,06718465
+ad1054,Rua Ipês,8331,Guaianases,São Paulo,-23.590719,-46.586193,96081658
+ad1055,Travessa Alecrins,3301,Jardim América,Salvador,-12.93371,-38.464152,94580986
+ad1056,Av. Acácias,3258,Guaianases,Fortaleza,-3.755725,-38.56189,59520037
+ad1057,Av. Lavandas,3416,Mooca,São Paulo,-23.510472,-46.647716,78045136
+ad1058,Av. Flores,6854,Centro,Porto Alegre,-30.084474,-51.183619,04690883
+ad1059,Travessa Alecrins,7886,Bela Vista,Recife,-8.057616,-34.884164,51383536
+ad1060,Av. Alecrins,5068,Copacabana,Belo Horizonte,-19.964528,-43.902246,36930028
+ad1061,Av. Paraíso,8631,Centro,Recife,-8.076023,-34.91811,80407978
+ad1062,Rua Acácias,955,Guaianases,Rio de Janeiro,-22.913963,-43.150744,76234733
+ad1063,Rua Primaveras,1091,Bela Vista,Fortaleza,-3.704555,-38.558302,50855842
+ad1064,Av. Orquídeas,7507,Mooca,Curitiba,-25.452971,-49.276375,29791274
+ad1065,Rua Limoeiros,5289,Ipanema,Goiânia,-16.729919,-49.282048,79578537
+ad1066,Rua Orquídeas,2787,Centro,Rio de Janeiro,-22.867383,-43.21978,76212585
+ad1067,Estrada Alecrins,2137,Vila Madalena,Recife,-8.086881,-34.847445,75224263
+ad1068,Travessa Alecrins,7274,Vila Madalena,Curitiba,-25.434299,-49.258486,14046118
+ad1069,Travessa Lavandas,4051,Copacabana,Recife,-8.096131,-34.876467,23221254
+ad1070,Rua Oliveiras,2959,Bela Vista,Goiânia,-16.639464,-49.229338,41770575
+ad1071,Estrada Palmeiras,510,Centro,São Paulo,-23.569528,-46.674066,30436821
+ad1072,Estrada Jardins,5802,Centro,Goiânia,-16.705447,-49.221539,81164901
+ad1073,Travessa Ipês,8334,Vila Madalena,Belo Horizonte,-19.924448,-43.899222,05550376
+ad1074,Travessa Ipês,811,Mooca,Salvador,-12.989853,-38.45786,36196557
+ad1075,Estrada Flores,7292,Copacabana,Fortaleza,-3.707729,-38.530337,58149187
+ad1076,Travessa Lavandas,8669,Liberdade,Fortaleza,-3.709936,-38.560506,87216415
+ad1077,Rua Alecrins,4099,Mooca,Rio de Janeiro,-22.948945,-43.222777,07714790
+ad1078,Travessa Alecrins,877,Copacabana,Belo Horizonte,-19.923456,-43.943892,28668151
+ad1079,Rua Alecrins,1811,Mooca,Curitiba,-25.436988,-49.226888,87550007
+ad1080,Rua Flores,1734,Centro,Goiânia,-16.672369,-49.310695,34495268
+ad1081,Estrada Oliveiras,9633,Bela Vista,Goiânia,-16.646336,-49.241993,19629126
+ad1082,Av. Palmeiras,7331,Boa Viagem,Salvador,-12.943373,-38.544679,00613294
+ad1083,Rua Limoeiros,7061,Bela Vista,Recife,-8.095491,-34.890121,14568958
+ad1084,Estrada Cedros,5058,Vila Madalena,Fortaleza,-3.709262,-38.545813,87133050
+ad1085,Av. Horizonte,588,Ipanema,Campinas,-22.85768,-47.095097,44180425
+ad1086,Av. Margaridas,6177,Liberdade,Porto Alegre,-30.009087,-51.186064,77319080
+ad1087,Travessa Orquídeas,3540,Ipanema,Fortaleza,-3.756107,-38.515722,83481261
+ad1088,Travessa Acácias,904,Copacabana,Belo Horizonte,-19.947965,-43.915828,65865711
+ad1089,Rua Cedros,2061,Jardim América,Belo Horizonte,-19.961052,-43.981576,98724839
+ad1090,Rua Paineiras,5900,Mooca,Campinas,-22.868087,-47.094856,59950420
+ad1091,Av. Flores,8350,Boa Viagem,Belo Horizonte,-19.867915,-43.959783,12464761
+ad1092,Estrada Cedros,7722,Mooca,Belo Horizonte,-19.867041,-43.927676,46768285
+ad1093,Estrada Lavandas,6856,Bela Vista,Belo Horizonte,-19.964048,-43.899626,87139227
+ad1094,Av. Oliveiras,9978,Ipanema,Salvador,-13.017571,-38.512077,74498767
+ad1095,Estrada Orquídeas,462,Liberdade,Fortaleza,-3.697494,-38.5515,32552658
+ad1096,Rua Horizonte,7232,Guaianases,Fortaleza,-3.745015,-38.554207,12489949
+ad1097,Av. Palmeiras,4461,Boa Viagem,São Paulo,-23.586453,-46.635061,64576517
+ad1098,Rua Margaridas,6428,Boa Viagem,Fortaleza,-3.706759,-38.572173,27525195
+ad1099,Av. Margaridas,1637,Mooca,Campinas,-22.876531,-47.02095,13436225
+ad1100,Travessa Cedros,4789,Ipanema,Fortaleza,-3.779656,-38.518933,39781462
+ad1101,Av. Margaridas,165,Mooca,Recife,-8.039446,-34.833342,93941498
+ad1102,Travessa Limoeiros,8028,Liberdade,Campinas,-22.900738,-47.110341,96189070
+ad1103,Av. Orquídeas,1196,Liberdade,Rio de Janeiro,-22.858998,-43.157095,94813190
+ad1104,Travessa Acácias,700,Boa Viagem,Porto Alegre,-30.006643,-51.224333,41865240
+ad1105,Travessa Paraíso,8626,Vila Madalena,Fortaleza,-3.711515,-38.544215,31549981
+ad1106,Rua Lavandas,3386,Boa Viagem,Belo Horizonte,-19.929047,-43.973786,11054608
+ad1107,Travessa Palmeiras,3596,Guaianases,Campinas,-22.896173,-47.078146,79212979
+ad1108,Av. Orquídeas,55,Boa Viagem,Campinas,-22.869337,-47.037132,49109700
+ad1109,Av. Primaveras,4256,Liberdade,São Paulo,-23.552223,-46.606192,89552047
+ad1110,Rua Jardins,1645,Guaianases,Campinas,-22.940453,-47.04328,18659298
+ad1111,Estrada Alecrins,354,Guaianases,Belo Horizonte,-19.891343,-43.953657,86386886
+ad1112,Estrada Horizonte,4059,Guaianases,Recife,-8.019197,-34.917667,47866054
+ad1113,Estrada Paineiras,5278,Guaianases,Recife,-8.085037,-34.925904,89357468
+ad1114,Rua Primaveras,8956,Copacabana,São Paulo,-23.58834,-46.595143,07424643
+ad1115,Travessa Margaridas,5226,Vila Madalena,Rio de Janeiro,-22.867434,-43.192837,90705788
+ad1116,Av. Ipês,4314,Centro,Recife,-8.041834,-34.835581,01982650
+ad1117,Rua Paineiras,9265,Guaianases,Campinas,-22.892255,-47.062499,79295048
+ad1118,Rua Orquídeas,4172,Bela Vista,Goiânia,-16.669355,-49.218507,04079961
+ad1119,Travessa Orquídeas,9349,Vila Madalena,Salvador,-13.009481,-38.472101,13569458
+ad1120,Rua Jardins,4241,Vila Madalena,Curitiba,-25.456996,-49.300983,59090427
+ad1121,Rua Oliveiras,1166,Vila Madalena,Rio de Janeiro,-22.895155,-43.136726,28764374
+ad1122,Estrada Oliveiras,6007,Centro,Recife,-8.062328,-34.922998,67740863
+ad1123,Rua Horizonte,7428,Mooca,Recife,-8.08399,-34.839709,51586507
+ad1124,Estrada Horizonte,5819,Bela Vista,Rio de Janeiro,-22.885879,-43.155364,89431215
+ad1125,Rua Paineiras,3514,Liberdade,Belo Horizonte,-19.924416,-43.954818,61338137
+ad1126,Rua Palmeiras,3859,Jardim América,Recife,-8.087564,-34.829541,66998022
+ad1127,Av. Acácias,9887,Ipanema,Fortaleza,-3.771272,-38.55349,74908816
+ad1128,Rua Jardins,4382,Vila Madalena,Belo Horizonte,-19.959584,-43.902225,11070482
+ad1129,Av. Horizonte,4715,Bela Vista,Porto Alegre,-30.028176,-51.201895,78368766
+ad1130,Rua Limoeiros,1631,Jardim América,São Paulo,-23.537418,-46.583994,94591792
+ad1131,Travessa Paineiras,337,Copacabana,São Paulo,-23.532771,-46.660427,55239286
+ad1132,Estrada Limoeiros,8474,Ipanema,Curitiba,-25.384407,-49.31112,93723385
+ad1133,Rua Orquídeas,1735,Guaianases,Goiânia,-16.665141,-49.286997,97229171
+ad1134,Estrada Paraíso,1404,Centro,Salvador,-13.001518,-38.474222,52977938
+ad1135,Travessa Orquídeas,5319,Bela Vista,Recife,-8.071094,-34.876615,35102841
+ad1136,Rua Oliveiras,9136,Liberdade,Goiânia,-16.645366,-49.252237,15897789
+ad1137,Travessa Cedros,4120,Liberdade,Fortaleza,-3.764577,-38.484786,92986098
+ad1138,Rua Margaridas,1883,Guaianases,Curitiba,-25.398849,-49.218374,66825051
+ad1139,Rua Oliveiras,8096,Guaianases,Salvador,-12.961508,-38.518041,09972406
+ad1140,Rua Jardins,2174,Mooca,Fortaleza,-3.733611,-38.530562,89211971
+ad1141,Travessa Jardins,6148,Ipanema,Belo Horizonte,-19.868085,-43.970931,92238931
+ad1142,Estrada Primaveras,8350,Centro,Belo Horizonte,-19.942758,-43.964082,20821371
+ad1143,Rua Oliveiras,5597,Vila Madalena,Fortaleza,-3.760293,-38.500082,58433689
+ad1144,Estrada Oliveiras,7445,Vila Madalena,Salvador,-12.942746,-38.525703,04494787
+ad1145,Travessa Oliveiras,1090,Copacabana,Fortaleza,-3.704857,-38.545946,32597216
+ad1146,Rua Ipês,7329,Ipanema,Porto Alegre,-30.003994,-51.18907,45564818
+ad1147,Travessa Limoeiros,9225,Copacabana,Recife,-8.008294,-34.863934,05814418
+ad1148,Rua Margaridas,6138,Bela Vista,São Paulo,-23.514237,-46.610841,87203917
+ad1149,Travessa Palmeiras,5438,Mooca,Porto Alegre,-30.074727,-51.223738,34968998
+ad1150,Travessa Flores,8453,Centro,Fortaleza,-3.715473,-38.539149,70946649
+ad1151,Travessa Orquídeas,4849,Boa Viagem,Recife,-8.012717,-34.884313,80243103
+ad1152,Estrada Paraíso,104,Centro,Goiânia,-16.67652,-49.309794,78302497
+ad1153,Av. Palmeiras,5673,Jardim América,Salvador,-12.992442,-38.469724,52514088
+ad1154,Travessa Margaridas,5179,Vila Madalena,São Paulo,-23.557999,-46.682091,07999312
+ad1155,Rua Alecrins,341,Guaianases,Salvador,-12.964901,-38.478325,92944051
+ad1156,Rua Paraíso,1168,Guaianases,Rio de Janeiro,-22.878761,-43.198472,27891498
+ad1157,Estrada Primaveras,268,Ipanema,Goiânia,-16.685654,-49.29899,78966139
+ad1158,Av. Acácias,3086,Jardim América,Recife,-8.054398,-34.858453,01289462
+ad1159,Travessa Flores,1842,Bela Vista,Belo Horizonte,-19.884627,-43.905101,66793848
+ad1160,Travessa Paineiras,3858,Guaianases,Curitiba,-25.400979,-49.238013,02738907
+ad1161,Travessa Flores,5010,Ipanema,São Paulo,-23.576677,-46.638908,19123734
+ad1162,Av. Ipês,2312,Vila Madalena,Goiânia,-16.656023,-49.303406,50228081
+ad1163,Travessa Limoeiros,2584,Copacabana,Belo Horizonte,-19.902619,-43.893329,19262146
+ad1164,Rua Horizonte,4790,Copacabana,São Paulo,-23.501453,-46.679293,92417034
+ad1165,Av. Flores,891,Liberdade,Fortaleza,-3.7098,-38.525508,66778695
+ad1166,Travessa Acácias,5800,Copacabana,Porto Alegre,-30.030168,-51.258692,30047209
+ad1167,Estrada Cedros,1540,Mooca,Goiânia,-16.639491,-49.244528,28997065
+ad1168,Rua Jardins,9981,Centro,São Paulo,-23.550058,-46.646919,16538437
+ad1169,Av. Jardins,3891,Boa Viagem,Porto Alegre,-30.041764,-51.237752,89151662
+ad1170,Travessa Jardins,8386,Liberdade,Curitiba,-25.437411,-49.295236,30536206
+ad1171,Av. Jardins,9477,Ipanema,Curitiba,-25.452506,-49.230794,06912337
+ad1172,Rua Horizonte,6133,Ipanema,Fortaleza,-3.770653,-38.574437,53756348
+ad1173,Travessa Primaveras,3281,Liberdade,Campinas,-22.898549,-47.073581,79587646
+ad1174,Rua Paraíso,65,Boa Viagem,Recife,-8.095654,-34.828715,96776729
+ad1175,Estrada Oliveiras,4865,Copacabana,Recife,-8.033075,-34.879253,16151029
+ad1176,Estrada Margaridas,4330,Guaianases,Campinas,-22.935401,-47.024284,15744456
+ad1177,Estrada Primaveras,9172,Bela Vista,Curitiba,-25.418353,-49.294659,92256722
+ad1178,Rua Primaveras,4722,Guaianases,Recife,-8.055638,-34.869357,94506746
+ad1179,Estrada Primaveras,7233,Copacabana,Salvador,-12.950011,-38.525012,61684349
+ad1180,Estrada Oliveiras,4350,Vila Madalena,Curitiba,-25.399849,-49.299029,81703803
+ad1181,Av. Palmeiras,2501,Liberdade,Recife,-8.083695,-34.859983,81946397
+ad1182,Rua Orquídeas,3844,Bela Vista,Curitiba,-25.383329,-49.21846,78403964
+ad1183,Travessa Ipês,5760,Centro,Recife,-8.092267,-34.898026,27676836
+ad1184,Rua Orquídeas,1255,Mooca,Porto Alegre,-29.997095,-51.228638,27315694
+ad1185,Travessa Palmeiras,3691,Boa Viagem,São Paulo,-23.504554,-46.671606,57493736
+ad1186,Rua Paraíso,2567,Boa Viagem,Porto Alegre,-30.058929,-51.176713,71956919
+ad1187,Estrada Primaveras,5254,Liberdade,Fortaleza,-3.725123,-38.528875,88590030
+ad1188,Av. Paineiras,8334,Mooca,Goiânia,-16.673059,-49.257596,65536193
+ad1189,Travessa Alecrins,2259,Jardim América,Belo Horizonte,-19.906929,-43.970154,29686642
+ad1190,Av. Lavandas,1320,Vila Madalena,Goiânia,-16.68088,-49.22827,38002496
+ad1191,Av. Oliveiras,4561,Mooca,Recife,-8.023722,-34.853428,60349023
+ad1192,Estrada Horizonte,4250,Ipanema,Curitiba,-25.398026,-49.220874,22704906
+ad1193,Av. Jardins,3030,Vila Madalena,Rio de Janeiro,-22.928208,-43.208708,98126936
+ad1194,Av. Oliveiras,7636,Jardim América,Campinas,-22.91223,-47.027232,77444246
+ad1195,Rua Acácias,2908,Guaianases,Campinas,-22.928268,-47.084353,10218716
+ad1196,Estrada Horizonte,2588,Centro,Curitiba,-25.411835,-49.286209,90411907
+ad1197,Av. Orquídeas,1023,Vila Madalena,Belo Horizonte,-19.963745,-43.959749,38172788
+ad1198,Travessa Alecrins,3338,Mooca,Curitiba,-25.381182,-49.264737,21832710
+ad1199,Estrada Jardins,1072,Liberdade,Recife,-8.031367,-34.883926,24445205
+ad1200,Estrada Oliveiras,4480,Copacabana,Salvador,-12.950778,-38.483159,01342730
+ad1201,Travessa Jardins,2925,Boa Viagem,Porto Alegre,-30.021811,-51.251625,69594870
+ad1202,Estrada Horizonte,5380,Copacabana,Fortaleza,-3.762934,-38.499536,89128605
+ad1203,Travessa Flores,2070,Guaianases,Campinas,-22.927979,-47.07472,80160566
+ad1204,Travessa Paraíso,8918,Copacabana,São Paulo,-23.516636,-46.68255,71908887
+ad1205,Estrada Alecrins,8289,Centro,Goiânia,-16.71604,-49.302031,57254488
+ad1206,Travessa Orquídeas,3622,Boa Viagem,São Paulo,-23.524093,-46.649014,93631335
+ad1207,Rua Alecrins,7726,Bela Vista,Belo Horizonte,-19.898427,-43.938541,10482894
+ad1208,Av. Cedros,9799,Mooca,Porto Alegre,-30.077873,-51.212257,80688635
+ad1209,Av. Acácias,9314,Vila Madalena,Porto Alegre,-30.06872,-51.195583,71268592
+ad1210,Estrada Oliveiras,3870,Boa Viagem,Goiânia,-16.642228,-49.252946,44146921
+ad1211,Av. Flores,7679,Jardim América,São Paulo,-23.574531,-46.641119,41848777
+ad1212,Travessa Limoeiros,2392,Jardim América,Fortaleza,-3.771733,-38.535481,42952275
+ad1213,Av. Primaveras,1173,Guaianases,Salvador,-13.001451,-38.516318,81038775
+ad1214,Av. Flores,3429,Jardim América,Salvador,-12.965972,-38.460362,98428811
+ad1215,Rua Orquídeas,633,Mooca,Porto Alegre,-30.043307,-51.228062,26865542
+ad1216,Estrada Paraíso,9727,Copacabana,Recife,-8.082542,-34.851277,60177483
+ad1217,Estrada Oliveiras,1896,Boa Viagem,Rio de Janeiro,-22.860187,-43.222108,71119575
+ad1218,Av. Palmeiras,4013,Boa Viagem,Salvador,-13.022571,-38.463503,61934710
+ad1219,Estrada Margaridas,9136,Guaianases,São Paulo,-23.52737,-46.621116,33254673
+ad1220,Av. Horizonte,5684,Boa Viagem,São Paulo,-23.598712,-46.614215,74508351
+ad1221,Estrada Acácias,6818,Jardim América,Recife,-8.068153,-34.856995,46151629
+ad1222,Travessa Margaridas,4887,Boa Viagem,Porto Alegre,-30.043427,-51.263723,19430378
+ad1223,Rua Primaveras,8843,Jardim América,Porto Alegre,-30.055861,-51.175347,18536176
+ad1224,Av. Lavandas,6263,Vila Madalena,Rio de Janeiro,-22.92896,-43.201685,25587047
+ad1225,Av. Acácias,5707,Centro,Campinas,-22.940825,-47.069738,00319308
+ad1226,Travessa Cedros,6536,Copacabana,Curitiba,-25.475083,-49.287596,96381491
+ad1227,Av. Ipês,8965,Copacabana,Fortaleza,-3.776179,-38.516102,61826605
+ad1228,Av. Lavandas,8238,Bela Vista,Curitiba,-25.435852,-49.292769,74473525
+ad1229,Travessa Flores,2436,Mooca,Belo Horizonte,-19.906841,-43.961326,20988078
+ad1230,Travessa Limoeiros,8627,Bela Vista,Belo Horizonte,-19.934791,-43.88655,34191524
+ad1231,Rua Ipês,879,Centro,Belo Horizonte,-19.952477,-43.975306,88096334
+ad1232,Av. Ipês,820,Jardim América,Campinas,-22.912364,-47.021675,54255293
+ad1233,Estrada Jardins,2925,Mooca,Belo Horizonte,-19.952931,-43.951529,61471622
+ad1234,Travessa Limoeiros,1377,Boa Viagem,Salvador,-12.990932,-38.511399,67165707
+ad1235,Estrada Lavandas,9925,Bela Vista,Fortaleza,-3.717998,-38.536945,32887752
+ad1236,Estrada Ipês,8641,Liberdade,Campinas,-22.937355,-47.038328,38296796
+ad1237,Av. Ipês,8027,Boa Viagem,Porto Alegre,-30.051816,-51.210631,71811795
+ad1238,Rua Paineiras,5597,Bela Vista,Belo Horizonte,-19.932461,-43.908081,28360596
+ad1239,Estrada Alecrins,2204,Centro,Goiânia,-16.675732,-49.267289,84395157
+ad1240,Rua Limoeiros,666,Liberdade,Fortaleza,-3.692347,-38.575606,43761917
+ad1241,Estrada Margaridas,4371,Liberdade,Goiânia,-16.641704,-49.287554,28438919
+ad1242,Av. Horizonte,5378,Ipanema,Salvador,-12.991791,-38.508764,56439635
+ad1243,Estrada Ipês,4079,Bela Vista,Recife,-7.999204,-34.841051,83833463
+ad1244,Av. Paineiras,1790,Liberdade,Fortaleza,-3.739396,-38.548604,19416626
+ad1245,Travessa Alecrins,690,Copacabana,Curitiba,-25.41635,-49.24608,21875521
+ad1246,Estrada Palmeiras,3514,Liberdade,Curitiba,-25.453388,-49.267945,34696845
+ad1247,Rua Margaridas,5088,Ipanema,Recife,-8.028332,-34.907292,17604334
+ad1248,Travessa Horizonte,192,Liberdade,Campinas,-22.884594,-47.064112,03422804
+ad1249,Estrada Oliveiras,3394,Mooca,Curitiba,-25.380581,-49.301084,25298738
+ad1250,Estrada Ipês,3897,Bela Vista,Salvador,-12.970545,-38.520455,33441076
+ad1251,Estrada Alecrins,4311,Bela Vista,Belo Horizonte,-19.923089,-43.921429,10642341
+ad1252,Estrada Lavandas,8346,Guaianases,Recife,-8.078069,-34.868059,29849487
+ad1253,Av. Orquídeas,6118,Guaianases,Belo Horizonte,-19.953491,-43.896004,71998711
+ad1254,Av. Alecrins,8866,Bela Vista,Fortaleza,-3.755333,-38.575869,83868855
+ad1255,Rua Oliveiras,9827,Bela Vista,Rio de Janeiro,-22.887147,-43.200245,86241338
+ad1256,Av. Alecrins,473,Vila Madalena,Recife,-8.004763,-34.896432,26916194
+ad1257,Av. Alecrins,3083,Copacabana,Fortaleza,-3.777346,-38.519027,93501639
+ad1258,Rua Orquídeas,254,Guaianases,Salvador,-12.970749,-38.546452,33663895
+ad1259,Estrada Paineiras,6945,Ipanema,Recife,-8.037755,-34.871925,04277182
+ad1260,Rua Paineiras,37,Bela Vista,São Paulo,-23.551553,-46.636375,05713522
+ad1261,Rua Lavandas,8830,Centro,Fortaleza,-3.699943,-38.512915,87148175
+ad1262,Rua Ipês,2094,Liberdade,Fortaleza,-3.767045,-38.497533,52507277
+ad1263,Av. Primaveras,582,Vila Madalena,São Paulo,-23.542251,-46.637401,75895283
+ad1264,Estrada Paineiras,7979,Centro,Fortaleza,-3.711357,-38.500185,48793588
+ad1265,Rua Alecrins,6973,Boa Viagem,São Paulo,-23.554486,-46.638872,86707429
+ad1266,Av. Lavandas,2264,Liberdade,Campinas,-22.92801,-47.016177,25280034
+ad1267,Travessa Palmeiras,4785,Jardim América,Campinas,-22.882021,-47.017034,13958105
+ad1268,Estrada Oliveiras,3338,Liberdade,Campinas,-22.950668,-47.017064,31507681
+ad1269,Av. Jardins,5974,Liberdade,Fortaleza,-3.747963,-38.480833,97768014
+ad1270,Estrada Primaveras,4501,Copacabana,Fortaleza,-3.757643,-38.505367,52379619
+ad1271,Av. Margaridas,1734,Copacabana,Fortaleza,-3.774719,-38.490183,43672756
+ad1272,Av. Paineiras,146,Liberdade,Recife,-8.058724,-34.866867,94502884
+ad1273,Travessa Paraíso,9343,Copacabana,Curitiba,-25.429791,-49.304333,48203917
+ad1274,Av. Paraíso,9314,Mooca,Belo Horizonte,-19.920639,-43.894353,85616333
+ad1275,Rua Orquídeas,828,Centro,Recife,-8.047282,-34.894801,92273924
+ad1276,Estrada Flores,658,Mooca,São Paulo,-23.590642,-46.608898,18831785
+ad1277,Travessa Margaridas,8447,Boa Viagem,Recife,-8.073321,-34.916288,95893996
+ad1278,Estrada Flores,1885,Guaianases,Goiânia,-16.702777,-49.3026,49010180
+ad1279,Av. Oliveiras,7753,Guaianases,Fortaleza,-3.686397,-38.559627,66725325
+ad1280,Travessa Flores,5780,Centro,São Paulo,-23.57289,-46.62786,47438093
+ad1281,Rua Jardins,35,Centro,Rio de Janeiro,-22.911839,-43.156318,39587913
+ad1282,Estrada Paraíso,5412,Jardim América,São Paulo,-23.579059,-46.675082,44479382
+ad1283,Av. Paineiras,9149,Copacabana,Goiânia,-16.706479,-49.225311,51670547
+ad1284,Av. Limoeiros,3624,Jardim América,Porto Alegre,-30.013173,-51.221649,95923679
+ad1285,Estrada Limoeiros,9074,Vila Madalena,Campinas,-22.889294,-47.03729,28479535
+ad1286,Av. Cedros,2245,Ipanema,Fortaleza,-3.715903,-38.487046,99223565
+ad1287,Av. Jardins,6187,Copacabana,Porto Alegre,-30.052238,-51.1766,09366052
+ad1288,Travessa Palmeiras,5309,Copacabana,Curitiba,-25.454394,-49.270824,18094934
+ad1289,Rua Orquídeas,760,Mooca,Porto Alegre,-30.001788,-51.244052,94385606
+ad1290,Rua Jardins,9264,Guaianases,Salvador,-13.021644,-38.480486,88397733
+ad1291,Av. Margaridas,5353,Centro,Recife,-8.083069,-34.834201,83271995
+ad1292,Estrada Cedros,8892,Vila Madalena,Porto Alegre,-30.015272,-51.209479,62490148
+ad1293,Estrada Paineiras,7987,Guaianases,São Paulo,-23.570517,-46.593787,67707179
+ad1294,Rua Limoeiros,3893,Guaianases,Recife,-8.072197,-34.864024,92640268
+ad1295,Travessa Acácias,4,Vila Madalena,Salvador,-12.941151,-38.479331,14100909
+ad1296,Rua Cedros,2830,Vila Madalena,Campinas,-22.954393,-47.079827,98215258
+ad1297,Estrada Alecrins,1683,Bela Vista,Recife,-8.096137,-34.845383,61891204
+ad1298,Travessa Oliveiras,5979,Guaianases,Campinas,-22.92151,-47.062738,20654221
+ad1299,Estrada Acácias,8779,Ipanema,Fortaleza,-3.741647,-38.532428,21980485
+ad1300,Travessa Alecrins,8984,Bela Vista,Porto Alegre,-30.014237,-51.255651,84202058
+ad1301,Rua Acácias,6618,Mooca,Curitiba,-25.448159,-49.253472,55248600
+ad1302,Travessa Margaridas,4185,Copacabana,Rio de Janeiro,-22.901144,-43.216169,34454092
+ad1303,Rua Horizonte,2817,Centro,São Paulo,-23.588491,-46.647784,73918510
+ad1304,Av. Paraíso,7864,Ipanema,Campinas,-22.879393,-47.044098,43792599
+ad1305,Rua Acácias,4341,Boa Viagem,São Paulo,-23.597683,-46.592211,47827732
+ad1306,Av. Horizonte,3401,Guaianases,Recife,-8.042617,-34.916118,09974457
+ad1307,Av. Limoeiros,5523,Boa Viagem,Recife,-8.060768,-34.858837,00894953
+ad1308,Estrada Limoeiros,4231,Boa Viagem,Campinas,-22.85849,-47.072562,01759909
+ad1309,Estrada Oliveiras,3847,Boa Viagem,Recife,-8.014575,-34.842414,78861013
+ad1310,Travessa Flores,5287,Liberdade,Fortaleza,-3.755425,-38.519377,69745717
+ad1311,Rua Palmeiras,5304,Boa Viagem,Rio de Janeiro,-22.899925,-43.206538,21834014
+ad1312,Travessa Cedros,8745,Liberdade,Recife,-8.055921,-34.841367,01083885
+ad1313,Travessa Margaridas,5745,Bela Vista,Recife,-8.000164,-34.881117,34037770
+ad1314,Travessa Margaridas,1227,Bela Vista,Campinas,-22.944342,-47.032271,32941130
+ad1315,Estrada Flores,8590,Mooca,Salvador,-12.996483,-38.463963,73460973
+ad1316,Av. Cedros,5275,Guaianases,Campinas,-22.880914,-47.067149,13616023
+ad1317,Estrada Ipês,9193,Guaianases,Belo Horizonte,-19.886116,-43.946329,44734632
+ad1318,Av. Orquídeas,6443,Bela Vista,Belo Horizonte,-19.895964,-43.919588,82756001
+ad1319,Travessa Horizonte,976,Mooca,Recife,-8.082749,-34.857288,38227420
+ad1320,Rua Orquídeas,956,Ipanema,Salvador,-12.960618,-38.471597,49575658
+ad1321,Travessa Flores,4240,Jardim América,São Paulo,-23.553814,-46.607697,10883193
+ad1322,Rua Horizonte,5673,Jardim América,Belo Horizonte,-19.916634,-43.932562,81821469
+ad1323,Travessa Margaridas,1262,Centro,Belo Horizonte,-19.887871,-43.984441,86159848
+ad1324,Travessa Orquídeas,9830,Guaianases,Belo Horizonte,-19.964396,-43.952225,50632161
+ad1325,Rua Horizonte,5221,Bela Vista,Salvador,-12.984857,-38.471093,60466486
+ad1326,Av. Paraíso,1797,Liberdade,Belo Horizonte,-19.909403,-43.978574,04325066
+ad1327,Av. Cedros,9302,Jardim América,Curitiba,-25.477612,-49.311565,23244120
+ad1328,Estrada Primaveras,7631,Ipanema,Curitiba,-25.450229,-49.264885,56180215
+ad1329,Rua Margaridas,3162,Boa Viagem,Curitiba,-25.382937,-49.278355,60110307
+ad1330,Estrada Ipês,2195,Boa Viagem,São Paulo,-23.514342,-46.602488,27917000
+ad1331,Av. Horizonte,9739,Copacabana,Salvador,-13.019261,-38.48263,75756381
+ad1332,Av. Paineiras,3408,Ipanema,São Paulo,-23.596616,-46.656937,37109166
+ad1333,Estrada Cedros,2440,Guaianases,Porto Alegre,-30.068575,-51.263251,56446068
+ad1334,Av. Lavandas,7729,Jardim América,Goiânia,-16.732646,-49.261191,57329597
+ad1335,Estrada Limoeiros,3864,Ipanema,Fortaleza,-3.713595,-38.479589,42425393
+ad1336,Av. Lavandas,989,Ipanema,Campinas,-22.865511,-47.012951,05624233
+ad1337,Rua Jardins,5899,Mooca,Recife,-8.01683,-34.849551,23011321
+ad1338,Estrada Acácias,7439,Copacabana,São Paulo,-23.578716,-46.676082,86815614
+ad1339,Av. Lavandas,2173,Ipanema,Campinas,-22.897775,-47.10711,12810033
+ad1340,Rua Acácias,2538,Guaianases,Goiânia,-16.72651,-49.231067,87728771
+ad1341,Travessa Alecrins,1008,Jardim América,São Paulo,-23.551916,-46.625589,79785933
+ad1342,Estrada Paraíso,1370,Bela Vista,Campinas,-22.873846,-47.075821,28549812
+ad1343,Rua Ipês,6205,Vila Madalena,Recife,-8.080773,-34.91266,83663369
+ad1344,Rua Horizonte,2670,Bela Vista,Fortaleza,-3.765764,-38.516007,00802483
+ad1345,Rua Margaridas,2066,Mooca,Belo Horizonte,-19.958043,-43.968487,74034047
+ad1346,Rua Acácias,5429,Centro,Campinas,-22.881837,-47.017043,88099445
+ad1347,Estrada Horizonte,4166,Vila Madalena,Curitiba,-25.45791,-49.281117,74181946
+ad1348,Travessa Acácias,170,Centro,Goiânia,-16.639196,-49.287469,90894773
+ad1349,Rua Alecrins,7230,Mooca,Belo Horizonte,-19.86837,-43.925207,78969149
+ad1350,Rua Palmeiras,3141,Boa Viagem,Goiânia,-16.724243,-49.267479,91235755
+ad1351,Rua Lavandas,4705,Centro,Recife,-8.001435,-34.849525,68094816
+ad1352,Av. Limoeiros,6144,Boa Viagem,Campinas,-22.900217,-47.064817,71054927
+ad1353,Estrada Horizonte,8730,Ipanema,Belo Horizonte,-19.960896,-43.909442,68640797
+ad1354,Estrada Palmeiras,7419,Vila Madalena,Goiânia,-16.702291,-49.244836,06510810
+ad1355,Travessa Horizonte,9422,Vila Madalena,Porto Alegre,-30.074114,-51.261489,00518752
+ad1356,Estrada Margaridas,9137,Centro,Fortaleza,-3.748475,-38.516697,84563266
+ad1357,Av. Primaveras,3532,Boa Viagem,Porto Alegre,-29.997619,-51.178747,03638349
+ad1358,Travessa Palmeiras,9345,Ipanema,Fortaleza,-3.700457,-38.527537,74966962
+ad1359,Rua Primaveras,2788,Jardim América,Rio de Janeiro,-22.892204,-43.20036,74860900
+ad1360,Travessa Paineiras,7332,Boa Viagem,Goiânia,-16.689966,-49.292629,01549248
+ad1361,Av. Jardins,6943,Jardim América,Recife,-8.08095,-34.892018,59076374
+ad1362,Travessa Horizonte,4330,Ipanema,Goiânia,-16.712801,-49.234051,53697460
+ad1363,Travessa Flores,7322,Mooca,Goiânia,-16.719561,-49.276437,66957677
+ad1364,Av. Alecrins,9457,Boa Viagem,Fortaleza,-3.763138,-38.572459,14890004
+ad1365,Estrada Primaveras,5291,Liberdade,Goiânia,-16.706826,-49.28278,89425850
+ad1366,Estrada Primaveras,6017,Copacabana,Porto Alegre,-29.988095,-51.246826,57286549
+ad1367,Estrada Jardins,7188,Vila Madalena,São Paulo,-23.522893,-46.640733,16893614
+ad1368,Av. Primaveras,8688,Copacabana,São Paulo,-23.551807,-46.651472,14982009
+ad1369,Av. Oliveiras,5992,Mooca,Goiânia,-16.659329,-49.313554,84049593
+ad1370,Travessa Orquídeas,7814,Copacabana,Recife,-8.033363,-34.855054,59042287
+ad1371,Estrada Paraíso,6739,Liberdade,Goiânia,-16.658763,-49.249668,37348919
+ad1372,Estrada Ipês,2341,Mooca,Porto Alegre,-30.019059,-51.176356,61923905
+ad1373,Travessa Cedros,783,Centro,São Paulo,-23.57943,-46.656846,89597634
+ad1374,Estrada Paraíso,4017,Guaianases,Curitiba,-25.440351,-49.277254,45411823
+ad1375,Rua Cedros,5851,Centro,Rio de Janeiro,-22.882656,-43.182461,15749271
+ad1376,Travessa Jardins,6354,Vila Madalena,Fortaleza,-3.723281,-38.478266,77817712
+ad1377,Rua Acácias,9234,Vila Madalena,Campinas,-22.937234,-47.057509,36928997
+ad1378,Av. Orquídeas,7454,Boa Viagem,Porto Alegre,-30.058135,-51.237035,20389062
+ad1379,Rua Primaveras,271,Boa Viagem,Rio de Janeiro,-22.940744,-43.147396,60788721
+ad1380,Av. Orquídeas,1256,Mooca,Porto Alegre,-30.061383,-51.194912,25086134
+ad1381,Av. Alecrins,7207,Copacabana,São Paulo,-23.530979,-46.584909,17623283
+ad1382,Travessa Horizonte,4901,Liberdade,Curitiba,-25.408334,-49.252832,88525253
+ad1383,Rua Margaridas,2082,Bela Vista,São Paulo,-23.577174,-46.622059,75175683
+ad1384,Rua Acácias,404,Jardim América,Campinas,-22.859051,-47.097407,78018333
+ad1385,Estrada Palmeiras,5791,Jardim América,Rio de Janeiro,-22.881838,-43.156504,22820245
+ad1386,Travessa Lavandas,741,Centro,Curitiba,-25.469171,-49.29028,92415814
+ad1387,Rua Oliveiras,757,Vila Madalena,São Paulo,-23.510492,-46.604698,11624528
+ad1388,Rua Jardins,9102,Copacabana,Salvador,-12.965019,-38.544369,96311358
+ad1389,Rua Palmeiras,7008,Mooca,Goiânia,-16.689958,-49.305603,27571257
+ad1390,Av. Acácias,6734,Copacabana,Porto Alegre,-30.02351,-51.23276,24645604
+ad1391,Travessa Lavandas,6328,Mooca,Rio de Janeiro,-22.880864,-43.166408,21134601
+ad1392,Estrada Acácias,8588,Guaianases,Fortaleza,-3.755109,-38.565032,96841417
+ad1393,Travessa Cedros,375,Centro,Salvador,-13.016114,-38.529058,69547324
+ad1394,Estrada Oliveiras,5517,Liberdade,Recife,-8.063382,-34.82858,25810908
+ad1395,Estrada Margaridas,3026,Jardim América,Campinas,-22.934838,-47.036746,08575825
+ad1396,Av. Margaridas,9511,Copacabana,Curitiba,-25.395823,-49.255728,62357662
+ad1397,Estrada Acácias,5717,Jardim América,Porto Alegre,-30.056851,-51.235834,37810799
+ad1398,Av. Margaridas,515,Ipanema,São Paulo,-23.562626,-46.648816,80432410
+ad1399,Estrada Alecrins,6225,Vila Madalena,Curitiba,-25.392326,-49.229293,78818839
+ad1400,Rua Oliveiras,9596,Jardim América,Salvador,-12.931444,-38.524254,61859260
+ad1401,Av. Limoeiros,903,Guaianases,Belo Horizonte,-19.957554,-43.940825,58221648
+ad1402,Travessa Primaveras,5866,Vila Madalena,Porto Alegre,-30.083254,-51.180542,57424624
+ad1403,Rua Alecrins,2214,Bela Vista,Belo Horizonte,-19.966291,-43.950432,98975701
+ad1404,Travessa Palmeiras,4256,Ipanema,Curitiba,-25.443922,-49.301273,76414410
+ad1405,Av. Alecrins,2676,Boa Viagem,Campinas,-22.911465,-47.058166,42968640
+ad1406,Rua Margaridas,4897,Copacabana,São Paulo,-23.579039,-46.64028,98418523
+ad1407,Travessa Cedros,9658,Ipanema,Porto Alegre,-30.0196,-51.202489,75781207
+ad1408,Estrada Jardins,2315,Copacabana,Rio de Janeiro,-22.901756,-43.201335,85238113
+ad1409,Av. Flores,4087,Boa Viagem,Recife,-8.079055,-34.873479,46956116
+ad1410,Travessa Jardins,3643,Boa Viagem,São Paulo,-23.50457,-46.650868,09881174
+ad1411,Estrada Primaveras,9086,Mooca,Fortaleza,-3.714281,-38.491493,05849879
+ad1412,Estrada Margaridas,1258,Vila Madalena,Goiânia,-16.718449,-49.238921,81733701
+ad1413,Rua Orquídeas,3630,Ipanema,Fortaleza,-3.763314,-38.553461,05660009
+ad1414,Av. Ipês,3987,Liberdade,Curitiba,-25.440829,-49.256765,22522918
+ad1415,Estrada Limoeiros,7307,Bela Vista,Recife,-8.052461,-34.863826,61888961
+ad1416,Av. Oliveiras,980,Vila Madalena,Belo Horizonte,-19.964667,-43.916505,07517529
+ad1417,Av. Jardins,8723,Vila Madalena,Salvador,-12.956681,-38.464563,75712482
+ad1418,Travessa Acácias,3655,Boa Viagem,Curitiba,-25.398746,-49.297694,07726535
+ad1419,Av. Orquídeas,2243,Vila Madalena,Goiânia,-16.664209,-49.230242,14221313
+ad1420,Av. Paraíso,3805,Centro,São Paulo,-23.563855,-46.617505,97631187
+ad1421,Estrada Oliveiras,7041,Bela Vista,São Paulo,-23.555591,-46.635523,13540446
+ad1422,Av. Orquídeas,8251,Guaianases,Porto Alegre,-30.060837,-51.18282,17062378
+ad1423,Av. Paraíso,3314,Mooca,Rio de Janeiro,-22.938306,-43.204933,40233457
+ad1424,Estrada Palmeiras,5037,Liberdade,Porto Alegre,-30.055918,-51.242241,33135727
+ad1425,Travessa Lavandas,1956,Copacabana,Salvador,-13.026711,-38.536192,71439333
+ad1426,Rua Jardins,5267,Boa Viagem,Campinas,-22.936616,-47.079957,16364115
+ad1427,Rua Paraíso,8440,Bela Vista,Salvador,-12.958627,-38.491051,59731985
+ad1428,Travessa Oliveiras,7657,Boa Viagem,Goiânia,-16.697043,-49.290463,10664546
+ad1429,Rua Acácias,79,Centro,Belo Horizonte,-19.940715,-43.935303,58139402
+ad1430,Travessa Primaveras,4746,Vila Madalena,Salvador,-12.968681,-38.523205,73969006
+ad1431,Estrada Acácias,8663,Boa Viagem,Campinas,-22.875824,-47.034538,00899622
+ad1432,Av. Oliveiras,577,Liberdade,Belo Horizonte,-19.943939,-43.974591,71068093
+ad1433,Av. Paraíso,1201,Liberdade,Goiânia,-16.695997,-49.227201,03506795
+ad1434,Av. Acácias,953,Liberdade,Recife,-8.014806,-34.848913,45127750
+ad1435,Av. Paineiras,7214,Vila Madalena,São Paulo,-23.585748,-46.633633,31166574
+ad1436,Rua Orquídeas,2280,Vila Madalena,Fortaleza,-3.70487,-38.546453,35310420
+ad1437,Travessa Paraíso,5120,Boa Viagem,São Paulo,-23.508421,-46.682987,39039674
+ad1438,Av. Ipês,4793,Bela Vista,Porto Alegre,-30.003428,-51.230592,37585536
+ad1439,Estrada Horizonte,3810,Vila Madalena,Porto Alegre,-30.059929,-51.182079,98731476
+ad1440,Travessa Oliveiras,7051,Ipanema,Rio de Janeiro,-22.919961,-43.185163,33571091
+ad1441,Av. Horizonte,1635,Liberdade,Salvador,-12.933564,-38.513001,96047281
+ad1442,Rua Primaveras,8400,Centro,Campinas,-22.870795,-47.051736,25008007
+ad1443,Av. Cedros,5994,Bela Vista,São Paulo,-23.566291,-46.617129,50458319
+ad1444,Estrada Primaveras,8704,Boa Viagem,Rio de Janeiro,-22.94404,-43.216226,60697886
+ad1445,Rua Orquídeas,5614,Guaianases,Curitiba,-25.462196,-49.297139,90766311
+ad1446,Rua Palmeiras,8400,Jardim América,São Paulo,-23.585242,-46.667614,02903606
+ad1447,Travessa Limoeiros,5369,Jardim América,Salvador,-13.0042,-38.526119,13371524
+ad1448,Av. Horizonte,5842,Vila Madalena,São Paulo,-23.531415,-46.590754,68395180
+ad1449,Travessa Palmeiras,9620,Centro,Fortaleza,-3.711265,-38.534192,57781329
+ad1450,Rua Alecrins,8134,Mooca,Rio de Janeiro,-22.864818,-43.199399,20330431
+ad1451,Travessa Paraíso,2025,Vila Madalena,Campinas,-22.910898,-47.091478,11158400
+ad1452,Rua Alecrins,5520,Copacabana,Fortaleza,-3.7041,-38.515962,08416451
+ad1453,Travessa Paineiras,8151,Copacabana,Belo Horizonte,-19.92059,-43.884919,35121308
+ad1454,Rua Alecrins,9552,Ipanema,Fortaleza,-3.729871,-38.546272,52106710
+ad1455,Travessa Ipês,8773,Jardim América,Belo Horizonte,-19.916794,-43.933509,11937323
+ad1456,Rua Acácias,2220,Jardim América,Fortaleza,-3.740717,-38.491664,78823327
+ad1457,Travessa Cedros,3032,Ipanema,Campinas,-22.938524,-47.082654,96844316
+ad1458,Estrada Paraíso,9547,Liberdade,Rio de Janeiro,-22.857847,-43.185841,16923344
+ad1459,Av. Lavandas,5818,Liberdade,Campinas,-22.877186,-47.090217,13456435
+ad1460,Av. Horizonte,7397,Liberdade,Campinas,-22.879878,-47.028655,62485416
+ad1461,Rua Oliveiras,2876,Bela Vista,Campinas,-22.859628,-47.104973,36317328
+ad1462,Travessa Ipês,5778,Liberdade,Salvador,-13.005575,-38.46391,98255588
+ad1463,Av. Paraíso,181,Bela Vista,Salvador,-12.939192,-38.541794,16080349
+ad1464,Av. Ipês,5376,Jardim América,Recife,-8.007403,-34.877577,24411501
+ad1465,Estrada Flores,2763,Vila Madalena,Belo Horizonte,-19.924782,-43.96954,98647142
+ad1466,Av. Cedros,3533,Guaianases,Campinas,-22.91208,-47.043617,92639609
+ad1467,Estrada Alecrins,4423,Liberdade,Curitiba,-25.451508,-49.287265,74240556
+ad1468,Estrada Horizonte,4316,Copacabana,Salvador,-12.941444,-38.455114,49092532
+ad1469,Av. Alecrins,6734,Vila Madalena,Fortaleza,-3.740247,-38.553427,81854340
+ad1470,Av. Paineiras,4473,Copacabana,Fortaleza,-3.721464,-38.537539,15564983
+ad1471,Travessa Alecrins,2764,Centro,Belo Horizonte,-19.891956,-43.920284,49513903
+ad1472,Travessa Orquídeas,4785,Ipanema,Campinas,-22.894727,-47.029136,10627105
+ad1473,Travessa Orquídeas,3979,Vila Madalena,São Paulo,-23.5902,-46.638242,75226264
+ad1474,Estrada Acácias,8375,Jardim América,Campinas,-22.860409,-47.101381,66401505
+ad1475,Av. Alecrins,6606,Guaianases,Rio de Janeiro,-22.947998,-43.164889,83699664
+ad1476,Rua Horizonte,9464,Vila Madalena,Porto Alegre,-30.032346,-51.188059,24632610
+ad1477,Rua Flores,1128,Ipanema,Porto Alegre,-30.008254,-51.21236,19604934
+ad1478,Rua Ipês,669,Centro,Rio de Janeiro,-22.888727,-43.171081,08720151
+ad1479,Av. Cedros,6159,Bela Vista,Recife,-8.022006,-34.875507,14601801
+ad1480,Av. Palmeiras,234,Bela Vista,São Paulo,-23.535948,-46.660935,56448076
+ad1481,Av. Ipês,9693,Vila Madalena,Recife,-8.024906,-34.828011,58609612
+ad1482,Estrada Primaveras,9786,Jardim América,Belo Horizonte,-19.932834,-43.94326,81128364
+ad1483,Travessa Primaveras,6457,Centro,Fortaleza,-3.731187,-38.500236,22352601
+ad1484,Rua Jardins,9340,Vila Madalena,Goiânia,-16.733845,-49.269037,32685325
+ad1485,Travessa Jardins,8146,Copacabana,Curitiba,-25.453796,-49.288088,71201699
+ad1486,Travessa Lavandas,1400,Bela Vista,Recife,-8.075764,-34.897934,14488857
+ad1487,Estrada Cedros,9927,Mooca,Rio de Janeiro,-22.885064,-43.17957,43335528
+ad1488,Travessa Alecrins,5610,Bela Vista,Curitiba,-25.449054,-49.248127,73102454
+ad1489,Av. Acácias,4741,Ipanema,Curitiba,-25.391106,-49.292856,87486144
+ad1490,Estrada Cedros,2697,Centro,Campinas,-22.902404,-47.073364,41909521
+ad1491,Av. Paineiras,2971,Centro,Curitiba,-25.412412,-49.286011,47702430
+ad1492,Rua Acácias,1745,Liberdade,Salvador,-12.999472,-38.457124,23210716
+ad1493,Rua Paraíso,6863,Liberdade,Porto Alegre,-30.004052,-51.247253,91570939
+ad1494,Estrada Palmeiras,5608,Guaianases,Rio de Janeiro,-22.931049,-43.185055,38072156
+ad1495,Rua Flores,8829,Copacabana,Recife,-8.044134,-34.863449,66368777
+ad1496,Travessa Cedros,7249,Mooca,Campinas,-22.894466,-47.103214,48967007
+ad1497,Estrada Cedros,8672,Ipanema,Campinas,-22.946667,-47.030031,46197961
+ad1498,Estrada Orquídeas,6734,Mooca,Recife,-8.017598,-34.840449,18863992
+ad1499,Travessa Jardins,2762,Guaianases,Porto Alegre,-30.056581,-51.178733,74412493
+ad1500,Estrada Horizonte,9221,Vila Madalena,Porto Alegre,-30.029698,-51.184848,14333772
+ad1501,Av. Acácias,3333,Centro,Rio de Janeiro,-22.857599,-43.154174,33580209
+ad1502,Rua Alecrins,5153,Vila Madalena,Rio de Janeiro,-22.903319,-43.192815,48654518
+ad1503,Av. Orquídeas,5200,Bela Vista,São Paulo,-23.540979,-46.585914,78520210
+ad1504,Av. Ipês,7888,Ipanema,Fortaleza,-3.705426,-38.529081,16218842
+ad1505,Travessa Paraíso,659,Copacabana,Curitiba,-25.386895,-49.246701,81674964
+ad1506,Rua Horizonte,7284,Mooca,Fortaleza,-3.760585,-38.491054,41007639
+ad1507,Av. Primaveras,1804,Liberdade,Curitiba,-25.409705,-49.230457,79382829
+ad1508,Estrada Alecrins,5159,Ipanema,Rio de Janeiro,-22.870087,-43.174306,03530284
+ad1509,Travessa Acácias,7504,Vila Madalena,Porto Alegre,-30.014092,-51.173188,22440923
+ad1510,Av. Flores,8733,Jardim América,Curitiba,-25.429347,-49.291495,68588599
+ad1511,Travessa Jardins,492,Jardim América,Campinas,-22.862373,-47.089403,33896558
+ad1512,Travessa Oliveiras,1192,Liberdade,Porto Alegre,-30.035906,-51.227329,84900191
+ad1513,Travessa Orquídeas,3468,Copacabana,Rio de Janeiro,-22.860166,-43.18172,51541896
+ad1514,Av. Orquídeas,8699,Copacabana,Belo Horizonte,-19.945216,-43.973549,50777207
+ad1515,Rua Paraíso,6896,Vila Madalena,São Paulo,-23.572417,-46.636052,55616967
+ad1516,Travessa Margaridas,9457,Centro,Salvador,-12.965219,-38.518718,25422247
+ad1517,Travessa Flores,8634,Guaianases,Goiânia,-16.670204,-49.277385,40783259
+ad1518,Estrada Cedros,1806,Guaianases,Campinas,-22.930876,-47.044396,62029581
+ad1519,Av. Paineiras,288,Jardim América,Recife,-8.067724,-34.867762,78658900
+ad1520,Estrada Horizonte,658,Liberdade,Fortaleza,-3.698856,-38.546011,25630300
+ad1521,Travessa Limoeiros,719,Bela Vista,Curitiba,-25.454864,-49.261392,90328972
+ad1522,Av. Lavandas,1432,Liberdade,Campinas,-22.870349,-47.09212,71620728
+ad1523,Av. Paraíso,7404,Liberdade,Curitiba,-25.469333,-49.236853,82121978
+ad1524,Travessa Alecrins,5899,Guaianases,Salvador,-12.940858,-38.532725,96184338
+ad1525,Estrada Cedros,5364,Mooca,Curitiba,-25.435753,-49.279119,16883654
+ad1526,Av. Jardins,9151,Copacabana,Porto Alegre,-30.003833,-51.248548,57340387
+ad1527,Rua Ipês,7545,Liberdade,Salvador,-12.975321,-38.468786,90591966
+ad1528,Av. Palmeiras,6696,Liberdade,Recife,-8.047635,-34.899772,29003307
+ad1529,Estrada Oliveiras,6197,Copacabana,Rio de Janeiro,-22.894236,-43.166067,17351123
+ad1530,Travessa Paineiras,9883,Boa Viagem,Belo Horizonte,-19.905285,-43.948205,56820170
+ad1531,Av. Flores,1758,Vila Madalena,Salvador,-12.94628,-38.483769,58538950
+ad1532,Estrada Acácias,5381,Copacabana,Salvador,-13.026258,-38.540382,30897309
+ad1533,Estrada Lavandas,4991,Jardim América,Salvador,-13.01701,-38.485031,05897120
+ad1534,Travessa Limoeiros,8620,Copacabana,Belo Horizonte,-19.886954,-43.931392,29384596
+ad1535,Travessa Limoeiros,3585,Centro,Curitiba,-25.440163,-49.271035,15415187
+ad1536,Travessa Acácias,7923,Guaianases,Recife,-8.065036,-34.898744,29762634
+ad1537,Rua Paraíso,1856,Bela Vista,Fortaleza,-3.75868,-38.549243,85814486
+ad1538,Av. Paraíso,1540,Mooca,São Paulo,-23.515736,-46.627168,06128466
+ad1539,Av. Acácias,6240,Jardim América,Recife,-8.077144,-34.92366,54513459
+ad1540,Rua Limoeiros,9073,Boa Viagem,São Paulo,-23.557246,-46.652466,34780320
+ad1541,Rua Horizonte,4016,Copacabana,Belo Horizonte,-19.896609,-43.912271,35252603
+ad1542,Rua Ipês,100,Boa Viagem,Salvador,-12.995969,-38.506134,42384009
+ad1543,Rua Orquídeas,2787,Mooca,Porto Alegre,-30.009744,-51.19491,16544094
+ad1544,Av. Margaridas,5158,Boa Viagem,Goiânia,-16.675316,-49.244285,07284165
+ad1545,Estrada Orquídeas,5488,Ipanema,Curitiba,-25.429463,-49.270385,41612214
+ad1546,Rua Orquídeas,355,Ipanema,Campinas,-22.861588,-47.092969,03149042
+ad1547,Rua Oliveiras,9850,Liberdade,Fortaleza,-3.736829,-38.526354,66208660
+ad1548,Av. Limoeiros,6657,Mooca,Goiânia,-16.733246,-49.222025,89261849
+ad1549,Rua Acácias,675,Ipanema,Recife,-8.011185,-34.879613,87924395
+ad1550,Rua Horizonte,6162,Bela Vista,Salvador,-13.011423,-38.465293,30653858
+ad1551,Rua Primaveras,3288,Liberdade,Porto Alegre,-30.03783,-51.172809,44354045
+ad1552,Av. Primaveras,9433,Boa Viagem,Curitiba,-25.42431,-49.280068,90373483
+ad1553,Estrada Horizonte,8034,Boa Viagem,Porto Alegre,-30.062579,-51.175567,77284753
+ad1554,Travessa Acácias,2180,Centro,Curitiba,-25.475959,-49.274245,90812833
+ad1555,Av. Acácias,2785,Bela Vista,Belo Horizonte,-19.954385,-43.93012,07164221
+ad1556,Travessa Acácias,7179,Liberdade,Fortaleza,-3.768708,-38.487807,82935493
+ad1557,Estrada Alecrins,1309,Liberdade,Rio de Janeiro,-22.898814,-43.134901,74703124
+ad1558,Av. Margaridas,3431,Copacabana,Porto Alegre,-30.05458,-51.185595,60529737
+ad1559,Av. Flores,3859,Copacabana,Campinas,-22.942906,-47.085258,55851559
+ad1560,Rua Paraíso,6780,Liberdade,Porto Alegre,-29.994269,-51.21118,53234149
+ad1561,Av. Limoeiros,3443,Copacabana,Recife,-8.083311,-34.836385,41670004
+ad1562,Rua Cedros,5107,Bela Vista,São Paulo,-23.599005,-46.660166,49796857
+ad1563,Av. Lavandas,8756,Bela Vista,Salvador,-12.985175,-38.482181,49110875
+ad1564,Estrada Paineiras,3680,Centro,Campinas,-22.861074,-47.024948,57798515
+ad1565,Av. Paineiras,4108,Bela Vista,Campinas,-22.875499,-47.075871,78777587
+ad1566,Estrada Flores,9904,Jardim América,Porto Alegre,-30.049038,-51.1983,49923572
+ad1567,Rua Limoeiros,7456,Centro,São Paulo,-23.598805,-46.610758,39355694
+ad1568,Av. Horizonte,5290,Mooca,Goiânia,-16.678762,-49.283408,76788704
+ad1569,Av. Jardins,8998,Vila Madalena,Goiânia,-16.678298,-49.298457,98061101
+ad1570,Rua Lavandas,6421,Ipanema,Recife,-8.03022,-34.870442,02518738
+ad1571,Rua Flores,3416,Copacabana,Curitiba,-25.381837,-49.236037,14379081
+ad1572,Estrada Limoeiros,5488,Liberdade,São Paulo,-23.52079,-46.662202,40391275
+ad1573,Estrada Paineiras,3759,Boa Viagem,Recife,-8.031475,-34.918302,71536659
+ad1574,Travessa Jardins,7298,Vila Madalena,Recife,-8.044847,-34.836776,95239129
+ad1575,Rua Horizonte,9813,Bela Vista,Belo Horizonte,-19.868098,-43.980105,63585021
+ad1576,Rua Paineiras,6699,Guaianases,Rio de Janeiro,-22.949094,-43.135821,33610245
+ad1577,Rua Jardins,5021,Bela Vista,Porto Alegre,-29.998336,-51.1927,60675653
+ad1578,Travessa Cedros,6308,Boa Viagem,Recife,-7.9985,-34.83957,85635405
+ad1579,Estrada Cedros,8927,Mooca,Fortaleza,-3.703582,-38.533402,92144332
+ad1580,Av. Limoeiros,7395,Vila Madalena,Rio de Janeiro,-22.942734,-43.128473,26007047
+ad1581,Estrada Alecrins,3688,Jardim América,Rio de Janeiro,-22.899294,-43.146332,07474990
+ad1582,Travessa Paraíso,4477,Guaianases,Belo Horizonte,-19.958581,-43.919362,46676733
+ad1583,Av. Oliveiras,6629,Copacabana,Curitiba,-25.439071,-49.247947,26980873
+ad1584,Rua Paineiras,4431,Centro,Fortaleza,-3.767628,-38.501832,43708665
+ad1585,Estrada Alecrins,1521,Boa Viagem,Fortaleza,-3.774763,-38.506872,10433646
+ad1586,Travessa Paineiras,2926,Copacabana,Campinas,-22.869978,-47.043776,82140753
+ad1587,Rua Primaveras,2189,Centro,Recife,-8.015939,-34.836149,66170808
+ad1588,Travessa Margaridas,5838,Bela Vista,Belo Horizonte,-19.888366,-43.909473,36497150
+ad1589,Av. Margaridas,1963,Bela Vista,Goiânia,-16.704572,-49.312438,90880728
+ad1590,Rua Ipês,9644,Guaianases,Goiânia,-16.694959,-49.289907,76443451
+ad1591,Rua Orquídeas,9118,Ipanema,Porto Alegre,-29.985973,-51.185698,75220516
+ad1592,Travessa Cedros,9010,Jardim América,Goiânia,-16.647559,-49.25177,81897660
+ad1593,Av. Lavandas,9735,Vila Madalena,Belo Horizonte,-19.922051,-43.900956,26076835
+ad1594,Av. Alecrins,5218,Ipanema,Curitiba,-25.429325,-49.228778,18299246
+ad1595,Rua Ipês,8171,Ipanema,Curitiba,-25.423832,-49.263597,56747629
+ad1596,Travessa Limoeiros,8220,Copacabana,Salvador,-13.027627,-38.537095,47239747
+ad1597,Travessa Flores,1490,Ipanema,Campinas,-22.87653,-47.015356,00116418
+ad1598,Estrada Limoeiros,6903,Copacabana,Campinas,-22.952627,-47.106274,03833389
+ad1599,Estrada Ipês,9290,Guaianases,Campinas,-22.878388,-47.031318,87962385
+ad1600,Travessa Lavandas,9051,Bela Vista,Rio de Janeiro,-22.941212,-43.124871,22289820
+ad1601,Travessa Acácias,7703,Vila Madalena,Porto Alegre,-30.057174,-51.175951,76265609
+ad1602,Travessa Flores,2893,Liberdade,Belo Horizonte,-19.933749,-43.970464,34192336
+ad1603,Travessa Orquídeas,5641,Ipanema,Belo Horizonte,-19.921607,-43.941135,10759782
+ad1604,Travessa Ipês,8257,Guaianases,Campinas,-22.891641,-47.074197,42500352
+ad1605,Rua Ipês,8780,Boa Viagem,Belo Horizonte,-19.950561,-43.916911,55325927
+ad1606,Av. Ipês,8562,Ipanema,São Paulo,-23.545324,-46.598571,96841595
+ad1607,Estrada Orquídeas,4710,Mooca,Goiânia,-16.658165,-49.278391,86432874
+ad1608,Av. Cedros,9738,Mooca,Rio de Janeiro,-22.870942,-43.182516,00314624
+ad1609,Travessa Flores,1076,Vila Madalena,Recife,-8.07588,-34.876324,19037133
+ad1610,Rua Ipês,5108,Guaianases,Goiânia,-16.708417,-49.230199,02370125
+ad1611,Rua Limoeiros,1379,Boa Viagem,Salvador,-13.006144,-38.480619,13115482
+ad1612,Av. Alecrins,199,Bela Vista,Goiânia,-16.658972,-49.288969,15341477
+ad1613,Travessa Primaveras,1008,Mooca,Porto Alegre,-30.010072,-51.194987,40265699
+ad1614,Estrada Paraíso,2931,Bela Vista,Rio de Janeiro,-22.889293,-43.125464,77945585
+ad1615,Rua Jardins,7782,Guaianases,Recife,-8.001624,-34.909054,47768391
+ad1616,Rua Paineiras,8641,Mooca,Goiânia,-16.717865,-49.251662,38094649
+ad1617,Travessa Alecrins,7054,Boa Viagem,Recife,-8.051148,-34.922442,57827097
+ad1618,Travessa Paineiras,7928,Liberdade,São Paulo,-23.582072,-46.621148,39630236
+ad1619,Estrada Primaveras,4504,Jardim América,Rio de Janeiro,-22.88912,-43.177156,42501883
+ad1620,Estrada Orquídeas,995,Vila Madalena,Salvador,-13.026398,-38.472021,41352871
+ad1621,Estrada Paraíso,9807,Mooca,Fortaleza,-3.701841,-38.486187,73567796
+ad1622,Rua Alecrins,1494,Centro,Fortaleza,-3.71861,-38.53819,52551819
+ad1623,Av. Palmeiras,9137,Mooca,Rio de Janeiro,-22.948959,-43.156567,11369667
+ad1624,Rua Horizonte,3383,Boa Viagem,São Paulo,-23.55013,-46.657095,94010768
+ad1625,Rua Flores,6176,Boa Viagem,Fortaleza,-3.746243,-38.543547,08730113
+ad1626,Travessa Jardins,9237,Jardim América,Recife,-8.083145,-34.891202,50645426
+ad1627,Rua Orquídeas,7972,Boa Viagem,Goiânia,-16.714618,-49.217687,29310446
+ad1628,Av. Primaveras,8253,Copacabana,Rio de Janeiro,-22.940941,-43.132037,49771135
+ad1629,Av. Jardins,1035,Jardim América,Rio de Janeiro,-22.916823,-43.182863,27750938
+ad1630,Rua Orquídeas,7783,Bela Vista,Salvador,-12.983296,-38.484694,21971349
+ad1631,Estrada Paineiras,1883,Guaianases,Porto Alegre,-30.011879,-51.259359,86554300
+ad1632,Travessa Primaveras,9516,Boa Viagem,Porto Alegre,-29.985666,-51.221866,28417453
+ad1633,Rua Horizonte,4441,Mooca,Goiânia,-16.683743,-49.257926,42833502
+ad1634,Rua Orquídeas,4288,Copacabana,Fortaleza,-3.713742,-38.562495,13813528
+ad1635,Estrada Orquídeas,6688,Ipanema,Campinas,-22.939052,-47.108259,15598835
+ad1636,Travessa Paineiras,194,Jardim América,Rio de Janeiro,-22.873823,-43.205824,70352421
+ad1637,Av. Orquídeas,3398,Boa Viagem,Rio de Janeiro,-22.920181,-43.158333,60983118
+ad1638,Travessa Oliveiras,6881,Ipanema,Goiânia,-16.664033,-49.251138,32425721
+ad1639,Av. Cedros,6448,Liberdade,Campinas,-22.876539,-47.048181,37234784
+ad1640,Estrada Oliveiras,959,Ipanema,Curitiba,-25.443448,-49.227559,58866382
+ad1641,Travessa Lavandas,2918,Bela Vista,Goiânia,-16.66068,-49.278966,20566781
+ad1642,Estrada Paineiras,6669,Centro,Belo Horizonte,-19.873611,-43.908833,71943701
+ad1643,Estrada Horizonte,6998,Copacabana,Salvador,-13.01333,-38.467698,75310508
+ad1644,Rua Orquídeas,1941,Bela Vista,Goiânia,-16.661952,-49.279223,77204327
+ad1645,Av. Jardins,9987,Boa Viagem,Porto Alegre,-30.00876,-51.232198,63901603
+ad1646,Travessa Ipês,1981,Mooca,Goiânia,-16.654778,-49.248515,20503455
+ad1647,Travessa Margaridas,9012,Liberdade,Goiânia,-16.718572,-49.288898,94464528
+ad1648,Av. Margaridas,4455,Guaianases,Belo Horizonte,-19.933563,-43.969061,20334556
+ad1649,Estrada Cedros,4502,Ipanema,Fortaleza,-3.721414,-38.501757,26407339
+ad1650,Estrada Lavandas,8521,Jardim América,Goiânia,-16.724069,-49.290936,23040088
+ad1651,Travessa Palmeiras,2324,Ipanema,Porto Alegre,-29.990963,-51.237748,95112492
+ad1652,Estrada Limoeiros,6303,Bela Vista,Salvador,-12.940711,-38.468269,41055769
+ad1653,Av. Jardins,5149,Vila Madalena,Recife,-8.084599,-34.831735,26749799
+ad1654,Estrada Paraíso,4235,Liberdade,Goiânia,-16.699747,-49.215434,70035325
+ad1655,Av. Oliveiras,7742,Bela Vista,Belo Horizonte,-19.898565,-43.947837,01219755
+ad1656,Av. Acácias,3132,Ipanema,Porto Alegre,-30.058165,-51.262676,64992656
+ad1657,Av. Alecrins,1963,Bela Vista,Belo Horizonte,-19.893963,-43.958782,55227457
+ad1658,Rua Orquídeas,5029,Vila Madalena,Campinas,-22.954489,-47.029711,41911978
+ad1659,Rua Limoeiros,9676,Vila Madalena,Rio de Janeiro,-22.85789,-43.212704,35992835
+ad1660,Av. Flores,4661,Vila Madalena,Porto Alegre,-29.988089,-51.221336,51495584
+ad1661,Rua Paineiras,3078,Copacabana,Fortaleza,-3.773838,-38.519853,74042004
+ad1662,Rua Lavandas,3131,Mooca,Rio de Janeiro,-22.88017,-43.151719,01272619
+ad1663,Estrada Acácias,9302,Guaianases,Belo Horizonte,-19.934783,-43.900031,23299475
+ad1664,Rua Ipês,5756,Copacabana,Campinas,-22.862945,-47.042408,16289350
+ad1665,Av. Ipês,9661,Mooca,São Paulo,-23.583227,-46.637147,40635779
+ad1666,Travessa Alecrins,3072,Boa Viagem,Goiânia,-16.715659,-49.259231,68572377
+ad1667,Estrada Palmeiras,5091,Mooca,Recife,-8.018608,-34.908145,89742993
+ad1668,Av. Jardins,5531,Jardim América,Rio de Janeiro,-22.891381,-43.149449,41021772
+ad1669,Av. Paraíso,8319,Guaianases,Porto Alegre,-30.040065,-51.197521,79888453
+ad1670,Av. Horizonte,2550,Copacabana,Campinas,-22.954102,-47.030352,14567676
+ad1671,Av. Acácias,4257,Boa Viagem,Salvador,-12.933965,-38.495838,02330277
+ad1672,Estrada Margaridas,787,Centro,Campinas,-22.908998,-47.056702,66549658
+ad1673,Travessa Ipês,658,Boa Viagem,Recife,-8.02156,-34.865261,87151612
+ad1674,Estrada Jardins,9980,Copacabana,Fortaleza,-3.755937,-38.488015,42727756
+ad1675,Estrada Orquídeas,6692,Liberdade,Rio de Janeiro,-22.941062,-43.208113,09946710
+ad1676,Estrada Orquídeas,6193,Centro,Fortaleza,-3.743839,-38.485722,32331525
+ad1677,Av. Oliveiras,6369,Bela Vista,Rio de Janeiro,-22.890345,-43.198846,15273008
+ad1678,Estrada Oliveiras,9231,Vila Madalena,Fortaleza,-3.752286,-38.57312,97518895
+ad1679,Estrada Palmeiras,39,Centro,São Paulo,-23.58743,-46.61986,93132671
+ad1680,Estrada Limoeiros,5280,Boa Viagem,Campinas,-22.955013,-47.068503,56962046
+ad1681,Estrada Horizonte,7186,Ipanema,Belo Horizonte,-19.944637,-43.932351,80922789
+ad1682,Travessa Paraíso,8064,Mooca,Salvador,-12.962426,-38.487453,29271178
+ad1683,Travessa Orquídeas,5321,Ipanema,Belo Horizonte,-19.920343,-43.913418,30394546
+ad1684,Estrada Palmeiras,6619,Vila Madalena,Fortaleza,-3.747628,-38.556426,19588991
+ad1685,Estrada Palmeiras,3472,Copacabana,Curitiba,-25.385722,-49.300906,18371824
+ad1686,Rua Cedros,8513,Mooca,Curitiba,-25.471098,-49.24595,59121476
+ad1687,Travessa Palmeiras,3479,Bela Vista,Recife,-8.006028,-34.866452,06718067
+ad1688,Rua Oliveiras,4950,Bela Vista,Fortaleza,-3.744584,-38.491319,72732433
+ad1689,Av. Acácias,2017,Jardim América,Campinas,-22.867544,-47.102716,84297740
+ad1690,Rua Alecrins,2558,Ipanema,Goiânia,-16.718074,-49.2411,24508297
+ad1691,Av. Palmeiras,3338,Boa Viagem,Salvador,-13.003546,-38.475588,42863180
+ad1692,Av. Margaridas,2688,Jardim América,Campinas,-22.895836,-47.021015,53449643
+ad1693,Estrada Alecrins,6849,Jardim América,Salvador,-12.93114,-38.493952,61976188
+ad1694,Rua Palmeiras,2757,Bela Vista,Curitiba,-25.410213,-49.266646,46262312
+ad1695,Av. Cedros,2151,Ipanema,Belo Horizonte,-19.875054,-43.958294,77187770
+ad1696,Travessa Lavandas,1466,Bela Vista,Goiânia,-16.680499,-49.214845,37703786
+ad1697,Rua Paraíso,3816,Liberdade,Curitiba,-25.437099,-49.229519,09143064
+ad1698,Rua Flores,915,Boa Viagem,São Paulo,-23.555457,-46.645526,48728497
+ad1699,Av. Orquídeas,4757,Mooca,Porto Alegre,-29.989013,-51.246547,12077141
+ad1700,Rua Palmeiras,5588,Centro,Salvador,-12.998185,-38.493637,58139714
+ad1701,Rua Paraíso,4452,Boa Viagem,Goiânia,-16.694958,-49.283925,39608362
+ad1702,Rua Lavandas,7359,Ipanema,Belo Horizonte,-19.867131,-43.90838,51802780
+ad1703,Rua Oliveiras,5886,Guaianases,Goiânia,-16.704541,-49.307001,26834739
+ad1704,Rua Acácias,543,Ipanema,Belo Horizonte,-19.910137,-43.984173,05025957
+ad1705,Rua Lavandas,4021,Centro,Salvador,-12.97686,-38.531725,59854568
+ad1706,Estrada Jardins,8903,Centro,São Paulo,-23.555439,-46.669501,80853337
+ad1707,Rua Jardins,5951,Guaianases,Goiânia,-16.681199,-49.272266,71958389
+ad1708,Travessa Flores,8026,Copacabana,Campinas,-22.94351,-47.071798,37178883
+ad1709,Estrada Palmeiras,5707,Vila Madalena,Belo Horizonte,-19.930492,-43.953884,67996004
+ad1710,Rua Paraíso,7601,Jardim América,Belo Horizonte,-19.957377,-43.894653,31462532
+ad1711,Estrada Lavandas,4539,Mooca,Curitiba,-25.463042,-49.2806,59384613
+ad1712,Estrada Acácias,974,Vila Madalena,Belo Horizonte,-19.915275,-43.915805,33048790
+ad1713,Rua Cedros,1995,Bela Vista,Rio de Janeiro,-22.911822,-43.195878,62544100
+ad1714,Rua Jardins,2035,Copacabana,Rio de Janeiro,-22.937323,-43.152817,62976716
+ad1715,Av. Primaveras,3255,Ipanema,Curitiba,-25.408568,-49.277222,66984173
+ad1716,Travessa Lavandas,5001,Guaianases,São Paulo,-23.558537,-46.605432,18289299
+ad1717,Av. Cedros,6464,Boa Viagem,Goiânia,-16.717489,-49.254662,17399603
+ad1718,Rua Lavandas,1890,Centro,Curitiba,-25.405545,-49.265669,80593092
+ad1719,Rua Lavandas,1492,Centro,São Paulo,-23.567739,-46.637475,85517798
+ad1720,Travessa Horizonte,5167,Jardim América,Rio de Janeiro,-22.937204,-43.207214,45087684
+ad1721,Rua Flores,7501,Vila Madalena,Salvador,-12.96091,-38.457839,70533744
+ad1722,Travessa Lavandas,9273,Mooca,Campinas,-22.919603,-47.082109,96363644
+ad1723,Av. Paineiras,4101,Jardim América,Curitiba,-25.423131,-49.275142,19089944
+ad1724,Av. Ipês,8536,Centro,São Paulo,-23.579865,-46.586598,69275439
+ad1725,Av. Oliveiras,5024,Jardim América,Campinas,-22.89931,-47.100512,74742281
+ad1726,Estrada Orquídeas,926,Boa Viagem,Goiânia,-16.673193,-49.30284,92042539
+ad1727,Travessa Limoeiros,4519,Liberdade,Curitiba,-25.430551,-49.312313,21061187
+ad1728,Rua Palmeiras,1808,Copacabana,Fortaleza,-3.76143,-38.482751,37038074
+ad1729,Av. Oliveiras,6555,Mooca,Belo Horizonte,-19.884717,-43.975407,75852331
+ad1730,Av. Cedros,7484,Ipanema,Rio de Janeiro,-22.872485,-43.206887,07187715
+ad1731,Travessa Jardins,4395,Boa Viagem,Salvador,-13.020608,-38.526485,71889192
+ad1732,Estrada Orquídeas,5935,Bela Vista,Goiânia,-16.644171,-49.305759,83863028
+ad1733,Travessa Ipês,5988,Ipanema,São Paulo,-23.588765,-46.628582,60395832
+ad1734,Av. Palmeiras,3964,Ipanema,São Paulo,-23.596744,-46.651542,66342272
+ad1735,Estrada Primaveras,7405,Centro,Curitiba,-25.401934,-49.273978,32799834
+ad1736,Rua Cedros,2647,Vila Madalena,Rio de Janeiro,-22.928003,-43.179157,63419481
+ad1737,Travessa Paineiras,7382,Guaianases,Curitiba,-25.41565,-49.227869,31458366
+ad1738,Av. Alecrins,8927,Boa Viagem,Belo Horizonte,-19.959577,-43.88583,71121274
+ad1739,Av. Flores,6514,Mooca,Recife,-8.024793,-34.872218,45631416
+ad1740,Estrada Jardins,234,Boa Viagem,Rio de Janeiro,-22.915351,-43.178947,92053510
+ad1741,Estrada Flores,1111,Bela Vista,Recife,-8.007772,-34.841216,97372374
+ad1742,Travessa Paineiras,687,Boa Viagem,Rio de Janeiro,-22.913331,-43.145434,20732301
+ad1743,Av. Oliveiras,2097,Copacabana,Belo Horizonte,-19.929012,-43.898646,20645853
+ad1744,Travessa Oliveiras,7181,Jardim América,Curitiba,-25.465916,-49.218416,93143942
+ad1745,Estrada Palmeiras,590,Bela Vista,São Paulo,-23.539299,-46.64969,61184294
+ad1746,Rua Flores,2242,Boa Viagem,Goiânia,-16.663016,-49.27269,72055014
+ad1747,Travessa Palmeiras,5383,Vila Madalena,Salvador,-12.999739,-38.502047,28672710
+ad1748,Av. Horizonte,1561,Vila Madalena,Campinas,-22.899548,-47.03127,31147494
+ad1749,Av. Acácias,2944,Ipanema,Rio de Janeiro,-22.883814,-43.135632,01724574
+ad1750,Av. Primaveras,4718,Centro,Curitiba,-25.409089,-49.281458,91485009
+ad1751,Av. Margaridas,7537,Guaianases,Porto Alegre,-30.035377,-51.194646,92011963
+ad1752,Estrada Alecrins,2272,Liberdade,Goiânia,-16.719959,-49.314745,90810562
+ad1753,Av. Palmeiras,4871,Centro,Campinas,-22.934748,-47.079415,95176651
+ad1754,Rua Palmeiras,5132,Jardim América,Fortaleza,-3.718836,-38.500528,22209176
+ad1755,Rua Margaridas,3922,Ipanema,Curitiba,-25.455469,-49.230599,02249761
+ad1756,Travessa Ipês,1618,Bela Vista,Belo Horizonte,-19.911951,-43.941386,97387626
+ad1757,Rua Paineiras,2406,Ipanema,Salvador,-13.011569,-38.508849,26896042
+ad1758,Estrada Horizonte,3165,Liberdade,Fortaleza,-3.774782,-38.483048,33476101
+ad1759,Estrada Paraíso,9850,Mooca,Rio de Janeiro,-22.925277,-43.150514,59389309
+ad1760,Rua Oliveiras,2842,Liberdade,Curitiba,-25.464425,-49.25089,80992482
+ad1761,Travessa Lavandas,903,Copacabana,Goiânia,-16.646928,-49.240488,66335851
+ad1762,Estrada Limoeiros,6569,Boa Viagem,Recife,-8.096931,-34.919138,77278953
+ad1763,Estrada Cedros,3249,Liberdade,Curitiba,-25.382039,-49.232522,85467308
+ad1764,Rua Jardins,1491,Boa Viagem,Belo Horizonte,-19.913732,-43.933289,04168814
+ad1765,Travessa Margaridas,1918,Boa Viagem,Campinas,-22.927409,-47.065422,87322909
+ad1766,Rua Alecrins,1810,Mooca,Belo Horizonte,-19.926958,-43.963791,53857078
+ad1767,Av. Acácias,7780,Copacabana,Curitiba,-25.410356,-49.302262,20039085
+ad1768,Rua Paraíso,7652,Guaianases,Fortaleza,-3.719386,-38.523584,21842357
+ad1769,Rua Alecrins,553,Ipanema,Fortaleza,-3.709256,-38.479344,41079390
+ad1770,Travessa Alecrins,9208,Ipanema,Rio de Janeiro,-22.953476,-43.175144,36636847
+ad1771,Travessa Acácias,4632,Copacabana,Campinas,-22.911753,-47.070156,34688747
+ad1772,Rua Primaveras,12,Boa Viagem,Fortaleza,-3.758735,-38.563999,40923647
+ad1773,Rua Margaridas,2967,Guaianases,Belo Horizonte,-19.901869,-43.946657,01363619
+ad1774,Av. Palmeiras,1619,Liberdade,Rio de Janeiro,-22.951655,-43.125878,66326640
+ad1775,Rua Oliveiras,6660,Jardim América,Campinas,-22.872359,-47.038145,31581183
+ad1776,Travessa Ipês,6381,Guaianases,São Paulo,-23.540008,-46.630182,82692368
+ad1777,Estrada Oliveiras,2627,Jardim América,São Paulo,-23.556155,-46.646654,80011904
+ad1778,Rua Lavandas,5993,Centro,Recife,-8.091905,-34.879021,71715796
+ad1779,Travessa Cedros,8692,Mooca,Rio de Janeiro,-22.944961,-43.12307,91525781
+ad1780,Av. Primaveras,8141,Liberdade,Campinas,-22.889109,-47.033883,56405374
+ad1781,Travessa Oliveiras,2975,Boa Viagem,Recife,-8.043777,-34.865368,17803484
+ad1782,Estrada Palmeiras,6398,Guaianases,Curitiba,-25.402259,-49.23978,84218503
+ad1783,Travessa Limoeiros,505,Copacabana,Goiânia,-16.730246,-49.291781,48264277
+ad1784,Rua Jardins,8374,Guaianases,Recife,-8.00219,-34.909457,90061214
+ad1785,Rua Flores,1963,Vila Madalena,Rio de Janeiro,-22.927392,-43.151887,34026159
+ad1786,Av. Alecrins,886,Bela Vista,São Paulo,-23.509474,-46.667981,72502296
+ad1787,Travessa Acácias,4607,Vila Madalena,São Paulo,-23.535385,-46.663849,49195523
+ad1788,Rua Margaridas,9830,Jardim América,Curitiba,-25.447868,-49.282078,15952396
+ad1789,Estrada Margaridas,4019,Jardim América,Belo Horizonte,-19.964586,-43.911661,57446166
+ad1790,Rua Limoeiros,9956,Ipanema,Rio de Janeiro,-22.858158,-43.183174,27832727
+ad1791,Travessa Primaveras,2076,Vila Madalena,Belo Horizonte,-19.94046,-43.948498,74979630
+ad1792,Rua Margaridas,1051,Liberdade,Belo Horizonte,-19.899088,-43.90084,58053319
+ad1793,Rua Palmeiras,4384,Jardim América,Campinas,-22.935292,-47.107104,01133403
+ad1794,Estrada Palmeiras,3086,Ipanema,São Paulo,-23.574644,-46.612664,69941041
+ad1795,Estrada Ipês,7834,Mooca,Belo Horizonte,-19.887196,-43.966832,86210773
+ad1796,Rua Flores,7788,Centro,Goiânia,-16.714947,-49.22028,73087039
+ad1797,Estrada Palmeiras,633,Jardim América,São Paulo,-23.503805,-46.630804,73946496
+ad1798,Av. Palmeiras,5047,Copacabana,Belo Horizonte,-19.947382,-43.922711,50055940
+ad1799,Travessa Margaridas,8754,Vila Madalena,Fortaleza,-3.736419,-38.491805,75822595
+ad1800,Av. Alecrins,3426,Jardim América,Porto Alegre,-30.080627,-51.177492,54920816
+ad1801,Av. Orquídeas,4271,Vila Madalena,Campinas,-22.939483,-47.094246,63517278
+ad1802,Rua Primaveras,6027,Vila Madalena,Porto Alegre,-30.016949,-51.249745,03592606
+ad1803,Estrada Limoeiros,1242,Copacabana,Porto Alegre,-30.028824,-51.197222,67413543
+ad1804,Travessa Paineiras,4837,Jardim América,Fortaleza,-3.725286,-38.564396,91341972
+ad1805,Estrada Paineiras,972,Boa Viagem,Belo Horizonte,-19.964436,-43.893241,24584827
+ad1806,Estrada Horizonte,271,Boa Viagem,Rio de Janeiro,-22.940372,-43.215758,05171652
+ad1807,Av. Orquídeas,2022,Bela Vista,Salvador,-13.020704,-38.511686,30666759
+ad1808,Av. Horizonte,6805,Bela Vista,Salvador,-12.990942,-38.514966,30545381
+ad1809,Rua Horizonte,880,Ipanema,Porto Alegre,-30.038672,-51.244367,90688050
+ad1810,Travessa Horizonte,5174,Liberdade,Campinas,-22.940067,-47.08123,55720130
+ad1811,Rua Acácias,4656,Jardim América,Rio de Janeiro,-22.918262,-43.21812,11362986
+ad1812,Rua Jardins,5499,Bela Vista,Porto Alegre,-30.076154,-51.247042,57827260
+ad1813,Travessa Margaridas,4670,Vila Madalena,São Paulo,-23.557409,-46.668899,39321921
+ad1814,Travessa Limoeiros,2049,Liberdade,Belo Horizonte,-19.868257,-43.903787,22076625
+ad1815,Estrada Margaridas,921,Mooca,São Paulo,-23.517374,-46.679547,98312824
+ad1816,Estrada Margaridas,371,Liberdade,Recife,-8.003115,-34.869903,79300093
+ad1817,Travessa Orquídeas,4079,Boa Viagem,Fortaleza,-3.709268,-38.503273,44130261
+ad1818,Estrada Cedros,5024,Ipanema,Recife,-8.045474,-34.833731,38268729
+ad1819,Travessa Primaveras,6589,Mooca,Fortaleza,-3.690807,-38.484932,91249500
+ad1820,Rua Paraíso,2098,Ipanema,Belo Horizonte,-19.875402,-43.900023,86066431
+ad1821,Rua Ipês,1706,Boa Viagem,Rio de Janeiro,-22.92677,-43.15072,34161964
+ad1822,Estrada Margaridas,9075,Ipanema,Belo Horizonte,-19.949299,-43.971454,60873741
+ad1823,Estrada Jardins,6829,Liberdade,Porto Alegre,-30.068225,-51.257552,53621139
+ad1824,Travessa Paraíso,2893,Guaianases,São Paulo,-23.584831,-46.596922,31800976
+ad1825,Travessa Palmeiras,8867,Bela Vista,Curitiba,-25.391251,-49.260837,05223103
+ad1826,Rua Primaveras,5492,Jardim América,Salvador,-12.97094,-38.458224,10382151
+ad1827,Rua Horizonte,3306,Centro,Goiânia,-16.731551,-49.301131,45587687
+ad1828,Estrada Alecrins,5818,Centro,Porto Alegre,-29.989951,-51.190438,83656450
+ad1829,Travessa Palmeiras,7160,Guaianases,Curitiba,-25.38465,-49.272543,83734835
+ad1830,Av. Lavandas,6279,Bela Vista,Curitiba,-25.40664,-49.307922,59621350
+ad1831,Travessa Horizonte,4488,Guaianases,Recife,-8.013132,-34.885658,66329594
+ad1832,Travessa Palmeiras,5984,Liberdade,Campinas,-22.900595,-47.011311,10059525
+ad1833,Av. Cedros,7428,Vila Madalena,Curitiba,-25.390227,-49.268803,42788142
+ad1834,Av. Jardins,1419,Liberdade,Belo Horizonte,-19.873593,-43.972424,23370292
+ad1835,Estrada Margaridas,2869,Liberdade,Rio de Janeiro,-22.902524,-43.176431,45108033
+ad1836,Estrada Lavandas,6850,Boa Viagem,Campinas,-22.93928,-47.085636,28719456
+ad1837,Travessa Margaridas,7364,Ipanema,Belo Horizonte,-19.927775,-43.950983,41130735
+ad1838,Estrada Acácias,2974,Liberdade,Porto Alegre,-30.029335,-51.232531,62040097
+ad1839,Estrada Alecrins,823,Copacabana,Salvador,-12.997063,-38.506413,46226039
+ad1840,Av. Horizonte,9123,Copacabana,Belo Horizonte,-19.918382,-43.968938,34205631
+ad1841,Rua Palmeiras,9592,Bela Vista,Campinas,-22.936399,-47.109268,15656637
+ad1842,Estrada Margaridas,8202,Ipanema,Campinas,-22.884826,-47.036244,92892153
+ad1843,Estrada Primaveras,3999,Jardim América,Curitiba,-25.428893,-49.255382,41498438
+ad1844,Travessa Paineiras,7367,Mooca,Fortaleza,-3.725939,-38.504076,78111495
+ad1845,Estrada Oliveiras,8613,Ipanema,Campinas,-22.93921,-47.072763,27993030
+ad1846,Estrada Oliveiras,9344,Copacabana,Recife,-8.075955,-34.917449,15081621
+ad1847,Travessa Flores,3912,Boa Viagem,Recife,-7.997755,-34.841825,14647019
+ad1848,Av. Horizonte,212,Mooca,Goiânia,-16.724233,-49.23722,92900982
+ad1849,Estrada Jardins,6911,Liberdade,Belo Horizonte,-19.898852,-43.887361,63662867
+ad1850,Rua Alecrins,975,Mooca,Porto Alegre,-30.055547,-51.211445,15072446
+ad1851,Travessa Horizonte,3261,Guaianases,Salvador,-12.973765,-38.497373,31317943
+ad1852,Rua Paineiras,2556,Boa Viagem,Rio de Janeiro,-22.906536,-43.210137,92338605
+ad1853,Av. Flores,1177,Liberdade,Fortaleza,-3.778225,-38.506818,56938277
+ad1854,Av. Oliveiras,6450,Jardim América,Recife,-8.026944,-34.923296,14745885
+ad1855,Av. Paineiras,9329,Liberdade,Porto Alegre,-30.042114,-51.241122,81781216
+ad1856,Estrada Cedros,9710,Copacabana,Salvador,-12.931387,-38.466652,86796754
+ad1857,Rua Flores,2861,Bela Vista,Rio de Janeiro,-22.857708,-43.125896,37753861
+ad1858,Av. Horizonte,9870,Liberdade,Belo Horizonte,-19.928479,-43.981589,07098675
+ad1859,Estrada Palmeiras,1242,Bela Vista,Campinas,-22.945055,-47.013554,20284896
+ad1860,Travessa Flores,4487,Jardim América,Curitiba,-25.453613,-49.240457,13645138
+ad1861,Rua Alecrins,3611,Jardim América,São Paulo,-23.59756,-46.658103,32041637
+ad1862,Av. Palmeiras,632,Copacabana,Recife,-8.008845,-34.885466,72728547
+ad1863,Av. Oliveiras,280,Bela Vista,Salvador,-12.999163,-38.528097,10419738
+ad1864,Rua Palmeiras,3370,Boa Viagem,Porto Alegre,-30.032129,-51.185976,30502627
+ad1865,Av. Oliveiras,7207,Vila Madalena,Belo Horizonte,-19.919254,-43.974742,39853048
+ad1866,Av. Orquídeas,7767,Copacabana,Belo Horizonte,-19.894492,-43.976078,32235030
+ad1867,Rua Primaveras,1469,Centro,São Paulo,-23.528518,-46.614633,83665456
+ad1868,Rua Limoeiros,2600,Guaianases,São Paulo,-23.573183,-46.614853,73289989
+ad1869,Av. Ipês,363,Liberdade,Salvador,-12.952976,-38.459539,13457771
+ad1870,Rua Flores,5155,Liberdade,São Paulo,-23.511095,-46.669084,21458497
+ad1871,Rua Limoeiros,3809,Centro,Rio de Janeiro,-22.907463,-43.127181,60847327
+ad1872,Av. Orquídeas,5177,Boa Viagem,Porto Alegre,-30.077449,-51.244324,26557276
+ad1873,Travessa Cedros,6879,Mooca,Fortaleza,-3.724008,-38.507291,69038671
+ad1874,Av. Acácias,3108,Jardim América,Porto Alegre,-29.988556,-51.174089,99185350
+ad1875,Travessa Ipês,8796,Copacabana,Recife,-8.084966,-34.893752,65120868
+ad1876,Av. Margaridas,1399,Ipanema,Goiânia,-16.719336,-49.250086,13020461
+ad1877,Rua Limoeiros,1342,Jardim América,Goiânia,-16.660994,-49.285922,47918856
+ad1878,Av. Alecrins,1853,Copacabana,Curitiba,-25.460195,-49.27136,06618356
+ad1879,Travessa Horizonte,3867,Centro,Rio de Janeiro,-22.890857,-43.166909,74952204
+ad1880,Travessa Palmeiras,1130,Boa Viagem,Salvador,-12.991593,-38.512533,21848008
+ad1881,Rua Palmeiras,516,Ipanema,São Paulo,-23.531666,-46.631252,13859490
+ad1882,Estrada Alecrins,4210,Copacabana,São Paulo,-23.586848,-46.644257,85352259
+ad1883,Estrada Ipês,2970,Centro,Recife,-8.063302,-34.902338,99970199
+ad1884,Rua Paraíso,1173,Liberdade,Curitiba,-25.380955,-49.280321,78924020
+ad1885,Rua Jardins,6635,Vila Madalena,Recife,-8.062751,-34.88608,85628651
+ad1886,Travessa Alecrins,2897,Ipanema,São Paulo,-23.587401,-46.59148,48583370
+ad1887,Estrada Ipês,4178,Boa Viagem,Curitiba,-25.39752,-49.222835,88719887
+ad1888,Travessa Acácias,2192,Copacabana,Campinas,-22.949669,-47.096507,63378578
+ad1889,Estrada Limoeiros,4697,Guaianases,Porto Alegre,-29.987671,-51.183412,99993538
+ad1890,Estrada Primaveras,4942,Centro,Curitiba,-25.394726,-49.253845,12185626
+ad1891,Estrada Alecrins,7998,Jardim América,Belo Horizonte,-19.963208,-43.941551,86815453
+ad1892,Travessa Margaridas,8252,Mooca,Belo Horizonte,-19.957299,-43.958587,06823353
+ad1893,Estrada Primaveras,7315,Copacabana,Belo Horizonte,-19.908865,-43.965154,10629131
+ad1894,Estrada Primaveras,9232,Ipanema,Goiânia,-16.665349,-49.249519,80642194
+ad1895,Travessa Alecrins,5742,Mooca,Campinas,-22.954185,-47.072789,06460074
+ad1896,Estrada Margaridas,9694,Bela Vista,Curitiba,-25.403252,-49.224945,52622723
+ad1897,Estrada Horizonte,9155,Ipanema,Campinas,-22.889599,-47.060401,35068982
+ad1898,Av. Acácias,423,Ipanema,Rio de Janeiro,-22.919484,-43.131118,80248039
+ad1899,Travessa Jardins,9034,Guaianases,Fortaleza,-3.776214,-38.488207,14885322
+ad1900,Travessa Oliveiras,3468,Boa Viagem,São Paulo,-23.517853,-46.623831,44800787
+ad1901,Estrada Jardins,7653,Liberdade,Salvador,-12.994881,-38.530258,14356833
+ad1902,Rua Paineiras,802,Ipanema,Rio de Janeiro,-22.947422,-43.181741,39834922
+ad1903,Rua Limoeiros,5113,Ipanema,Belo Horizonte,-19.884305,-43.972489,56407350
+ad1904,Av. Alecrins,1586,Liberdade,Rio de Janeiro,-22.93172,-43.158334,54326190
+ad1905,Estrada Ipês,8219,Boa Viagem,Fortaleza,-3.723219,-38.52745,66445764
+ad1906,Av. Lavandas,5599,Copacabana,Goiânia,-16.711668,-49.256228,26789607
+ad1907,Estrada Oliveiras,1911,Liberdade,Curitiba,-25.43786,-49.230448,43157822
+ad1908,Av. Jardins,5277,Vila Madalena,Belo Horizonte,-19.965977,-43.905965,38177024
+ad1909,Av. Palmeiras,5359,Guaianases,Recife,-8.054101,-34.902211,97752414
+ad1910,Av. Oliveiras,9022,Bela Vista,Recife,-8.020648,-34.829801,20853922
+ad1911,Estrada Oliveiras,1986,Mooca,Curitiba,-25.396228,-49.222787,30405309
+ad1912,Estrada Paraíso,263,Copacabana,Recife,-8.087247,-34.849609,60613979
+ad1913,Estrada Flores,2690,Vila Madalena,Belo Horizonte,-19.913515,-43.95808,00764521
+ad1914,Estrada Paineiras,7982,Liberdade,Rio de Janeiro,-22.87545,-43.198537,35565009
+ad1915,Travessa Oliveiras,3061,Copacabana,Goiânia,-16.731288,-49.233372,28520728
+ad1916,Av. Ipês,363,Centro,Salvador,-12.972728,-38.497917,54472747
+ad1917,Rua Jardins,6511,Liberdade,Recife,-8.034953,-34.910833,64738085
+ad1918,Estrada Lavandas,8751,Centro,Curitiba,-25.414013,-49.268229,78041927
+ad1919,Travessa Alecrins,8660,Liberdade,São Paulo,-23.565039,-46.635475,04016841
+ad1920,Rua Margaridas,6409,Boa Viagem,Salvador,-12.940766,-38.456946,45834544
+ad1921,Rua Primaveras,8865,Liberdade,Porto Alegre,-30.084316,-51.176805,89742427
+ad1922,Estrada Limoeiros,2828,Centro,Fortaleza,-3.730396,-38.493387,01141223
+ad1923,Travessa Alecrins,5853,Centro,Belo Horizonte,-19.952535,-43.958651,60345296
+ad1924,Travessa Paraíso,9229,Vila Madalena,Porto Alegre,-30.027708,-51.221031,83921057
+ad1925,Travessa Alecrins,2240,Ipanema,Goiânia,-16.726192,-49.232873,35866052
+ad1926,Rua Alecrins,8951,Mooca,Salvador,-12.949565,-38.508489,23718256
+ad1927,Estrada Oliveiras,672,Mooca,Recife,-8.014365,-34.864877,84471839
+ad1928,Estrada Cedros,8191,Centro,Campinas,-22.889739,-47.074012,47949491
+ad1929,Av. Alecrins,2805,Liberdade,Goiânia,-16.720461,-49.235009,88829041
+ad1930,Rua Primaveras,2682,Ipanema,Curitiba,-25.384551,-49.252824,27010558
+ad1931,Estrada Alecrins,4880,Ipanema,Recife,-8.086956,-34.926316,49948004
+ad1932,Estrada Horizonte,1825,Guaianases,Salvador,-12.930364,-38.46375,49106150
+ad1933,Travessa Margaridas,7684,Vila Madalena,Recife,-8.04155,-34.861899,78111169
+ad1934,Travessa Margaridas,9300,Bela Vista,São Paulo,-23.574651,-46.629803,39913345
+ad1935,Av. Primaveras,9562,Copacabana,Salvador,-13.02112,-38.479519,89895385
+ad1936,Av. Cedros,4220,Bela Vista,Rio de Janeiro,-22.944579,-43.173655,89693229
+ad1937,Rua Paineiras,5356,Vila Madalena,Rio de Janeiro,-22.859731,-43.155242,84581065
+ad1938,Estrada Oliveiras,3247,Liberdade,Belo Horizonte,-19.878497,-43.935854,51934424
+ad1939,Travessa Palmeiras,3071,Guaianases,Belo Horizonte,-19.894878,-43.894506,84187358
+ad1940,Travessa Flores,3947,Bela Vista,Belo Horizonte,-19.877184,-43.971502,37844923
+ad1941,Av. Cedros,2956,Liberdade,Goiânia,-16.691972,-49.234696,43403023
+ad1942,Travessa Jardins,366,Boa Viagem,Belo Horizonte,-19.867922,-43.94564,53325038
+ad1943,Estrada Ipês,8561,Guaianases,Recife,-8.020695,-34.840568,59818380
+ad1944,Estrada Ipês,4838,Jardim América,Fortaleza,-3.722245,-38.557339,51345138
+ad1945,Rua Horizonte,5411,Vila Madalena,São Paulo,-23.5025,-46.586734,92110147
+ad1946,Av. Palmeiras,3526,Bela Vista,Porto Alegre,-30.070969,-51.218003,13743022
+ad1947,Rua Palmeiras,4430,Mooca,Rio de Janeiro,-22.917839,-43.162702,89315419
+ad1948,Av. Limoeiros,3272,Centro,Rio de Janeiro,-22.908343,-43.22247,95751096
+ad1949,Rua Jardins,1719,Centro,Salvador,-12.960578,-38.461402,84079265
+ad1950,Travessa Orquídeas,5013,Centro,Salvador,-12.993123,-38.499292,54511036
+ad1951,Estrada Palmeiras,2046,Guaianases,Belo Horizonte,-19.910961,-43.884735,38445059
+ad1952,Av. Alecrins,9071,Guaianases,Salvador,-13.02742,-38.485763,80634283
+ad1953,Estrada Flores,6911,Jardim América,Campinas,-22.937041,-47.021731,11008899
+ad1954,Rua Ipês,65,Centro,Curitiba,-25.431769,-49.289089,54228928
+ad1955,Estrada Margaridas,9926,Mooca,Goiânia,-16.677512,-49.230485,42868535
+ad1956,Travessa Horizonte,1144,Mooca,Curitiba,-25.437298,-49.268837,00523996
+ad1957,Rua Margaridas,2517,Centro,Porto Alegre,-29.988843,-51.177557,62073716
+ad1958,Av. Acácias,9943,Bela Vista,Porto Alegre,-30.064406,-51.214987,96142067
+ad1959,Rua Ipês,1068,Mooca,Belo Horizonte,-19.938318,-43.965655,51394419
+ad1960,Travessa Horizonte,2352,Ipanema,Rio de Janeiro,-22.888598,-43.145623,94433682
+ad1961,Estrada Limoeiros,1552,Guaianases,Goiânia,-16.64713,-49.305346,46550491
+ad1962,Estrada Paineiras,3027,Boa Viagem,São Paulo,-23.525429,-46.617614,89607060
+ad1963,Travessa Limoeiros,6686,Liberdade,Rio de Janeiro,-22.91686,-43.19554,71205259
+ad1964,Travessa Limoeiros,796,Vila Madalena,Recife,-8.079015,-34.83356,99590763
+ad1965,Travessa Alecrins,4322,Vila Madalena,Campinas,-22.925939,-47.029334,66514694
+ad1966,Estrada Acácias,830,Copacabana,Porto Alegre,-30.003269,-51.231726,69456984
+ad1967,Estrada Margaridas,6549,Copacabana,Goiânia,-16.726316,-49.246097,35791202
+ad1968,Estrada Margaridas,2087,Liberdade,Belo Horizonte,-19.95402,-43.954906,99231590
+ad1969,Estrada Jardins,7046,Copacabana,Campinas,-22.881636,-47.069675,67435325
+ad1970,Estrada Horizonte,2138,Centro,Porto Alegre,-30.003762,-51.220458,45113117
+ad1971,Estrada Jardins,8827,Jardim América,Salvador,-12.932737,-38.548724,59495389
+ad1972,Rua Oliveiras,8205,Mooca,São Paulo,-23.597519,-46.682127,00095932
+ad1973,Av. Horizonte,6903,Copacabana,Porto Alegre,-30.073475,-51.25201,34160015
+ad1974,Travessa Ipês,5781,Bela Vista,Salvador,-13.005603,-38.465363,36729791
+ad1975,Rua Paineiras,7852,Boa Viagem,São Paulo,-23.540983,-46.59591,76895476
+ad1976,Estrada Orquídeas,1867,Copacabana,Fortaleza,-3.704751,-38.55286,77820286
+ad1977,Travessa Primaveras,2966,Bela Vista,Recife,-8.09107,-34.902965,01628567
+ad1978,Travessa Limoeiros,4684,Liberdade,Rio de Janeiro,-22.949599,-43.203491,99549681
+ad1979,Rua Margaridas,3751,Vila Madalena,Fortaleza,-3.697194,-38.497763,18884668
+ad1980,Av. Palmeiras,8603,Jardim América,Belo Horizonte,-19.901393,-43.982157,58981601
+ad1981,Rua Oliveiras,7,Mooca,Belo Horizonte,-19.943032,-43.967689,37638197
+ad1982,Av. Lavandas,310,Mooca,Recife,-8.020662,-34.896867,49951788
+ad1983,Rua Lavandas,1448,Vila Madalena,Curitiba,-25.475089,-49.314076,63892442
+ad1984,Estrada Ipês,160,Ipanema,São Paulo,-23.597053,-46.647781,09171009
+ad1985,Av. Acácias,3290,Centro,Goiânia,-16.718868,-49.311801,42610334
+ad1986,Av. Orquídeas,1455,Mooca,Goiânia,-16.731678,-49.261826,88386976
+ad1987,Travessa Orquídeas,1921,Vila Madalena,São Paulo,-23.575498,-46.68158,76132997
+ad1988,Av. Cedros,8984,Centro,Fortaleza,-3.766153,-38.527359,13528037
+ad1989,Estrada Margaridas,6565,Copacabana,Fortaleza,-3.70631,-38.481148,55879324
+ad1990,Travessa Margaridas,1899,Centro,São Paulo,-23.584029,-46.66412,05241845
+ad1991,Estrada Acácias,5781,Mooca,Rio de Janeiro,-22.89061,-43.20367,98520165
+ad1992,Rua Acácias,6140,Vila Madalena,Goiânia,-16.694663,-49.228393,33208409
+ad1993,Av. Paraíso,344,Centro,Recife,-8.054157,-34.912967,07404746
+ad1994,Av. Orquídeas,1061,Ipanema,Porto Alegre,-30.035796,-51.198496,80134777
+ad1995,Av. Ipês,4663,Vila Madalena,Porto Alegre,-30.003497,-51.255269,71041943
+ad1996,Estrada Lavandas,9465,Jardim América,Salvador,-12.987966,-38.487827,01346292
+ad1997,Av. Limoeiros,2090,Mooca,Rio de Janeiro,-22.871612,-43.160422,84467571
+ad1998,Travessa Paraíso,6686,Guaianases,Rio de Janeiro,-22.862867,-43.158306,30198020
+ad1999,Estrada Primaveras,8145,Centro,Rio de Janeiro,-22.864133,-43.21629,32015478
+ad2000,Estrada Oliveiras,9652,Ipanema,Rio de Janeiro,-22.920285,-43.196535,06607672
